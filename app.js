@@ -178,7 +178,21 @@ function resetFilters() {
 }
 
 function getSelectedDataFile() {
-  return DATA_FILES[leerplanSelect?.value] || "./data.json";
+  const rawValue = normalizeValue(leerplanSelect?.value).toLowerCase();
+  const normalizedValue = rawValue
+    .replaceAll("&", "en")
+    .replaceAll("/", "-")
+    .replaceAll(/\s+/g, "-");
+
+  if (DATA_FILES[normalizedValue]) {
+    return DATA_FILES[normalizedValue];
+  }
+
+  if (normalizedValue.includes("nederlands")) {
+    return "./data2.json";
+  }
+
+  return "./data.json";
 }
 
 async function loadData() {
