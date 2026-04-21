@@ -9,19 +9,20 @@ const tableWrapper = document.getElementById("tableWrapper");
 const resultBody = document.getElementById("resultBody");
 
 let rows = [];
-const DATA_FILES = {
-  wiskunde: "./data.json",
-  "nederlands-en-communicatie": "./data2.json",
-  aardrijkskunde: "./LP-aardr.json",
-  frans: "./LP-frans.json",
-  geschiedenis: "./LP-gesch.json",
-  ict: "./LP-ICT.json",
-  "leren-leren": "./LP-LeLe.json",
-  bewegingsopvoeding: "./LP-LO.json",
-  "muzische-vorming": "./LP-MUVO.json",
-  "rooms-katholieke-godsdienst": "./LP-RKG.json",
-  "veilige-en-gezonde-levensstijl": "./LP-V_G.json",
-  "wetenschap-en-techniek": "./LP-W_T.json",
+const DATA_FILE_CANDIDATES = {
+  wiskunde: ["./data.json"],
+  "nederlands-en-communicatie": ["./data2.json"],
+  aardrijkskunde: ["./L-aardr.json", "./LP-aardr.json"],
+  frans: ["./LP-frans.json"],
+  geschiedenis: ["./LP-gesch.json"],
+  ict: ["./LP-.ICT.json", "./LP-ICT.json"],
+  "leren-leren": ["./LP-LeLe.json"],
+  bewegingsopvoeding: ["./LP-LO.json"],
+  "muzische-vorming": ["./LP-MUVO.json"],
+  "rooms-katholieke-godsdienst": ["./LP-RKG.json"],
+  "veilige-en-gezonde-levensstijl": ["./LP-V_G.json"],
+  "wetenschappen-en-techniek": ["./LP-W_T.json"],
+  "wetenschap-en-techniek": ["./LP-W_T.json"],
 };
 
 function normalizeValue(value) {
@@ -187,31 +188,41 @@ function resetFilters() {
   clearResultsToNeutralState();
 }
 
-function getSelectedDataFile() {
+function getSelectedDataFileCandidates() {
   const rawValue = normalizeValue(leerplanSelect?.value).toLowerCase();
   const normalizedValue = rawValue
     .replaceAll("&", "en")
     .replaceAll("/", "-")
     .replaceAll(/\s+/g, "-");
 
-  if (DATA_FILES[normalizedValue]) {
-    return DATA_FILES[normalizedValue];
+  if (DATA_FILE_CANDIDATES[normalizedValue]) {
+    return DATA_FILE_CANDIDATES[normalizedValue];
   }
 
   if (normalizedValue.includes("nederlands")) {
-    return "./data2.json";
+    return ["./data2.json"];
   }
 
-  return "./data.json";
+  return ["./data.json"];
+}
+
+async function fetchFirstAvailableDataFile(candidates) {
+  for (const file of candidates) {
+    const response = await fetch(file, { cache: "no-store" });
+    if (response.ok) {
+      return { file, response };
+    }
+  }
+  throw new Error(`Geen bruikbaar databestand gevonden: ${candidates.join(", ")}`);
 }
 
 async function loadData() {
-  const dataFile = getSelectedDataFile();
+  const candidates = getSelectedDataFileCandidates();
+  let dataFile = candidates[0];
   try {
-    const response = await fetch(dataFile, { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
+    const resolved = await fetchFirstAvailableDataFile(candidates);
+    dataFile = resolved.file;
+    const response = resolved.response;
 
     const raw = await response.json();
     if (!Array.isArray(raw)) {
