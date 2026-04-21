@@ -5,10 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Leerplan Filter</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      :root {
+        --c-primary: #5d6d63;
+        --c-soft: #b3d7d5;
+        --c-accent: #e3cc66;
+      }
+    </style>
   </head>
-  <body class="min-h-screen bg-slate-100 text-slate-900">
+  <body class="min-h-screen text-slate-900" style="background-color: var(--c-soft)">
     <main class="mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
-      <section class="rounded-2xl bg-white p-5 shadow-lg ring-1 ring-slate-200 sm:p-8">
+      <section class="rounded-2xl bg-white p-5 shadow-lg ring-1 sm:p-8" style="ring-color: var(--c-primary)">
         <header class="mb-6">
           <h1 class="text-2xl font-bold tracking-tight sm:text-3xl">Leerplan Filter</h1>
           <p class="mt-2 text-sm text-slate-600 sm:text-base">
@@ -21,7 +28,7 @@
             <span class="text-sm font-medium text-slate-700">Kies Fase</span>
             <select
               id="faseSelect"
-              class="w-full rounded-xl border border-slate-300 bg-white px-3 py-2 text-sm outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-200"
+              class="w-full rounded-xl border border-slate-300 bg-white px-3 py-2 text-sm outline-none transition focus:border-[#5d6d63] focus:ring-2 focus:ring-[#b3d7d5]"
             >
               <option value="">Alle fases</option>
             </select>
@@ -31,7 +38,7 @@
             <span class="text-sm font-medium text-slate-700">Kies Domein</span>
             <select
               id="domeinSelect"
-              class="w-full rounded-xl border border-slate-300 bg-white px-3 py-2 text-sm outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-200"
+              class="w-full rounded-xl border border-slate-300 bg-white px-3 py-2 text-sm outline-none transition focus:border-[#5d6d63] focus:ring-2 focus:ring-[#b3d7d5]"
             >
               <option value="">Alle domeinen</option>
             </select>
@@ -41,7 +48,7 @@
             <span class="text-sm font-medium text-slate-700">Kies Subdomein</span>
             <select
               id="subdomeinSelect"
-              class="w-full rounded-xl border border-slate-300 bg-white px-3 py-2 text-sm outline-none transition focus:border-blue-500 focus:ring-2 focus:ring-blue-200"
+              class="w-full rounded-xl border border-slate-300 bg-white px-3 py-2 text-sm outline-none transition focus:border-[#5d6d63] focus:ring-2 focus:ring-[#b3d7d5]"
             >
               <option value="">Alle subdomeinen</option>
             </select>
@@ -51,20 +58,20 @@
         <div class="mt-5 flex flex-col gap-3 sm:flex-row">
           <button
             id="showButton"
-            class="inline-flex items-center justify-center rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-300"
+            class="inline-flex items-center justify-center rounded-xl bg-[#5d6d63] px-4 py-2 text-sm font-semibold text-white transition hover:brightness-110 focus:outline-none focus:ring-2 focus:ring-[#b3d7d5]"
           >
             Gegevens tonen
           </button>
           <button
             id="resetButton"
-            class="inline-flex items-center justify-center rounded-xl bg-slate-200 px-4 py-2 text-sm font-semibold text-slate-800 transition hover:bg-slate-300 focus:outline-none focus:ring-2 focus:ring-slate-300"
+            class="inline-flex items-center justify-center rounded-xl bg-[#e3cc66] px-4 py-2 text-sm font-semibold text-slate-900 transition hover:brightness-95 focus:outline-none focus:ring-2 focus:ring-[#b3d7d5]"
           >
             Reset
           </button>
         </div>
       </section>
 
-      <section id="outputArea" class="mt-6 rounded-2xl bg-white p-5 shadow-lg ring-1 ring-slate-200 sm:p-8">
+      <section id="outputArea" class="mt-6 rounded-2xl bg-white p-5 shadow-lg ring-1 sm:p-8" style="ring-color: var(--c-primary)">
         <div
           id="status"
           class="rounded-xl border border-dashed border-slate-300 bg-slate-50 p-6 text-center text-sm text-slate-600"
@@ -74,7 +81,7 @@
 
         <div id="tableWrapper" class="hidden overflow-x-auto">
           <table class="min-w-full divide-y divide-slate-200 text-sm">
-            <thead class="bg-slate-100">
+            <thead style="background-color: var(--c-soft)">
               <tr>
                 <th class="px-4 py-3 text-left font-semibold text-slate-700">cluster</th>
                 <th class="px-4 py-3 text-left font-semibold text-slate-700">leerplandoel</th>
