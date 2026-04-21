@@ -1,0 +1,3050 @@
+[
+  {
+    "fase": "K2.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van water, land en de polen op de wereldbol observeren.",
+    "colK": "Blauw staat voor water, bruin/groen staat voor land, wit staat voor de Polen (Noord- en Zuidpool)."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam van ons land: België.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam van een plaatselijke rivier.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam van een grote rivier: de Nijl.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": null,
+    "colJ": "De kleuters kennen de naam van: ​​​​​​\n●\tBelgië;\n●\teen plaatselijke rivier;\n●\tde rivier de Nijl.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen water, land en de polen op de wereldbol aanduiden.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": null,
+    "colJ": "De kleuters kunnen water, land en de polen op de wereldbol aanduiden.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van de werelddelen op een wereldbol observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Gemeente",
+    "colJ": "De leerlingen kennen de naam en de ligging van de schoolgemeente.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van de Noordzee.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van België.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van een plaatselijke rivier.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Gemeente",
+    "colJ": "De leerlingen kunnen de ligging van bekende plaatsen in de schoolgemeente observeren.",
+    "colK": "De school, het gemeentehuis, de kerk, het zwembad, de speeltuin"
+  },
+  {
+    "fase": "L2.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van de werelddelen observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kunnen de ligging van België, de buurlanden en de Middellandse Zee observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Gemeente",
+    "colJ": "De leerlingen kennen de naam en de ligging van eventuele deelgemeenten en buurgemeenten.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van de oceanen observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van de eigen regio.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van de Belgische provincies.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van de gemeenschappen.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kennen de naam en de ligging van de buurlanden van België.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van Schelde, Maas en IJzer.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van een aantal regio's in België: kuststreek, Ardennen.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kennen de naam en de ligging van de Middellandse zee.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van de werelddelen Afrika, Azië, Europa, Noord-Amerika, Zuid-Amerika.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kunnen de ligging van de hoofdplaatsen van de Belgische provincies observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van plaatsen uit de actualiteit en uit de geschiedenis observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kunnen de ligging van de landen van de Europese Unie observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van de hoofdplaatsen van de Belgische provincies.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "D leerlingen kennen de naam en de ligging van de gewesten.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "België",
+    "colJ": "De leerlingen kennen de naam en de ligging van een aantal regio's in België: Kempen, Hoge Venen.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van de werelddelen Antarctica, Oceanië.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van de Grote Oceaan, de Atlantische Oceaan en de Indische Oceaan.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kennen de naam en de ligging van de vulkaan Etna.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": null,
+    "colJ": "De leerlingen kennen de naam en de ligging van:\n●\tde schoolgemeente en eventuele deelgemeenten, en buurgemeenten;\n●\tde eigen regio;\n●\tde Belgische provincies met hun hoofdplaatsen;\n●\tde buurlanden van België;\n●\tde gewesten en gemeenschappen;\n●\tSchelde, Maas en IJzer;\n●\teen aantal regio's van België: Kempen, Hoge Venen, kuststreek, Ardennen;\n●\tNoordzee en Middellandse Zee;\n●\tde werelddelen: Afrika, Antarctica, Azië, Europa, Oceanië, Noord-Amerika en Zuid- Amerika;\n●\tde Grote Oceaan, Atlantische Oceaan en Indische Oceaan; \n●de vulkaan: de Etna.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van plaatsen uit de actualiteit en uit de geschiedenis observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kunnen de ligging van de hoofdsteden van de landen van de Europese Unie observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kennen de naam en de ligging van landen in Europa: de landen van de Europese Unie, het Verenigd Koninkrijk, Noorwegen, Zwitserland, Rusland.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van landen in Afrika: Egypte, Congo.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van een land in Noord-Amerika: de Verenigde Staten van Amerika.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van een land in Oceanië: Australië.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van landen in Azië: China, Israël.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van Turkije.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kennen de naam en de ligging van een aantal grote rivieren: de Seine, de Donau, de Rijn.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kennen de naam en de ligging van een aantal bergketens: Alpen, Pyreneeën, Oeral.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van plaatsen uit de actualiteit en uit de geschiedenis observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Europa",
+    "colJ": "De leerlingen kennen de naam en de ligging van de hoofdsteden van de landen van de Europese Unie, het Verenigd Koninkrijk, Noorwegen, Zwitserland, Rusland.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van landen in Afrika: Marokko, Zuid-Afrika.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van een land in Noord-Amerika: Canada.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van landen in Zuid-Amerika: Mexico, Brazilië, Argentinië.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van een land in Oceanië: Nieuw-Zeeland.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van landen in Azië: India, Japan, Iran.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van een grote rivier: de Amazone.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van een  bergketen: Himalaya.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kennen de naam en de ligging van de hoogste berg ter wereld: Mount Everest.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": null,
+    "colJ": "De leerlingen kennen de naam en de ligging van:\n●\tlanden van de Europese Unie en hun hoofdsteden, inclusief het Verenigd Koninkrijk, Noorwegen, Zwitserland, Rusland en hun hoofdsteden;\n●\tEgypte, Marokko, Congo, Zuid-Afrika;\n●\tde Verenigde Staten van Amerika, Canada, Mexico, Brazilië, Argentinië;\n●\tAustralië, Nieuw-Zeeland;\n●\tChina, India, Japan;\n●\tIsraël, Iran, Turkije;\n●\teen aantal grote rivieren: de Seine, de Donau, de Rijn, de Amazone;\n●\teen aantal bergketens: Alpen, Himalaya, Pyreneeën, Oeral;\n●\tde hoogste berg ter wereld: Mount Everest.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Topografisch referentiekader",
+    "colI": "Wereld",
+    "colJ": "De leerlingen kunnen de ligging van plaatsen uit de actualiteit en uit de geschiedenis observeren.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerling verkent ruimtelijke begrippen in eigen context.",
+    "colK": null
+  },
+  {
+    "fase": "F3.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerling kan met ondersteuning taal koppelen aan (spel)opdrachten met ruimtelijke begrippen.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen kennen de volgende begrippen: binnen, buiten, in, uit.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen kennen de volgende begrippen: voor, achter, boven, onder, hoog, laag.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen verkennen de volgende begrippen: dichtbij, veraf, opzij, tussen, naast, midden.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen kennen de volgende begrippen: dichtbij, veraf, opzij, tussen, in, uit, naast, midden.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": null,
+    "colJ": "De kleuters kennen de volgende begrippen met betrekking tot relatieve ligging: dichtbij, veraf, voor, achter, opzij, boven, onder, tussen, binnen, buiten, hoog, laag, in, uit, naast, midden.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Absolute plaatsbepaling",
+    "colJ": "De leerlingen kennen de volgende begrippen: de naam van de thuisgemeente, de straatnaam en het huisnummer.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Absolute plaatsbepaling",
+    "colJ": "De leerlingen kennen de volgende begrippen: de Noordpool, de Zuidpool.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": null,
+    "colJ": "De kleuters kennen de volgende begrippen met betrekking tot absolute plaatsbepaling:\n●\tde straatnaam en het huisnummer;\n●\tde Noordpool, de Zuidpool.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen kunnen de volgende begrippen verkennen: het noorden, het oosten, het zuiden, het westen.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Absolute plaatsbepaling",
+    "colJ": "De leerlingen kennen de volgende begrippen: de thuisgemeente en de postcode, de schoolgemeente en de postcode.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen kennen de volgende begrippen: de hoofdwindrichtingen, het noorden, het oosten, het zuiden, het westen, N, O, Z, W.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen kennen de volgende begrippen: de tussenwindrichtingen, het noordoosten, het zuidoosten, het zuidwesten, het noordwesten, NO, ZO, ZW, NW.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot relatieve ligging: de hoofdwindrichtingen, de tussenwindrichtingen, het noorden, het oosten, het zuiden, het westen, het noordoosten, het zuidoosten, het zuidwesten, het noordwesten, N, O, Z, W, NO, ZO, ZW, NW.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Absolute plaatsbepaling",
+    "colJ": "De leerlingen kunnen de volgende begrippen verkennen: de nulmeridiaan, de evenaar, het noordelijk halfrond, het zuidelijk halfrond, het oostelijk halfrond, het westelijk halfrond.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Absolute plaatsbepaling",
+    "colJ": "De leerlingen kennen de volgende begrippen: de nulmeridiaan, de evenaar, het noordelijk halfrond, het zuidelijk halfrond, het oostelijk halfrond, het westelijk halfrond.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Absolute plaatsbepaling",
+    "colJ": "De leerlingen kunnen de volgende begrippen verkennen: Steenbokskeerkring, Kreeftskeerkring, Noordpoolcirkel, Zuidpoolcirkel.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot absolute plaatsbepaling:\n●\tde thuisgemeente en de postcode, de schoolgemeente en de postcode;\n●\tde nulmeridiaan, de evenaar;\n● het noordelijk halfrond, het zuidelijk halfrond, het oostelijk halfrond en het westelijk halfrond.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Absolute plaatsbepaling",
+    "colJ": "De leerlingen kennen parallellen/breedtecirkels die het klimaat afbakenen: Steenbokskeerkring, Kreeftskeerkring, Noordpoolcirkel, Zuidpoolcirkel.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": null,
+    "colJ": "De leerlingen kennen parallellen/breedtecirkels die het klimaat afbakenen:\n● Steenbokskeerkring, Kreeftskeerkring;\n● Noordpoolcirkel en Zuidpoolcirkel.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Topografie",
+    "subdomein": "Relatieve en absolute ligging",
+    "colI": "Relatieve ligging",
+    "colJ": "De leerlingen kunnen illustreren dat er een verschil is tussen 'onder, boven, links, rechts' en 'het zuiden, het noorden, het westen, het oosten'",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Kenmerken",
+    "colJ": "De leerlingen kunnen elementen met betrekking tot de aarde en haar atmosfeer observeren.",
+    "colK": "Het land, het water, de lucht, de rots, de grot, het zand"
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Kenmerken",
+    "colJ": "De leerlingen kennen de volgende begrippen: het land, het water, de lucht, de rots, de grot, het zand.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De kleuters kennen de volgende begrippen met betrekking tot kenmerken van de aarde en haar atmosfeer: het land, het water, de lucht, de rots, de grot, het zand.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Water",
+    "colJ": "De leerlingen kunnen de aanwezigheid van water in de schoolgemeente illustreren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Water",
+    "colJ": "De leerlingen kunnen de aanwezigheid van water in verschillende hoedanigheden illustreren.",
+    "colK": "Een gletsjer, een ijsberg, zeewater, regen, grondwater"
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Water",
+    "colJ": "De leerlingen kennen het volgende begrip: 'de blauwe planeet'.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Water",
+    "colJ": "De leerlingen kennen de volgende begrippen: het zoet en zout water.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Atmosfeer",
+    "colJ": "De leerlingen kennen het volgende begrip: de atmosfeer.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Water",
+    "colJ": "De leerlingen kennen het concept waterkringloop: verdamping, condensatie, wolken, neerslag, grondwater, oppervlaktewater.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kennen het concept waterkringloop: verdamping, condensatie, wolken, neerslag, grondwater, oppervlaktewater.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen de volgende begrippen: de verschillende lagen van de aarde en hun relatieve temperatuur.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot kenmerken van de aarde en haar atmosfeer:\n●\t‘de blauwe planeet', het zoet en zout water, de atmosfeer;\n●\tde verschillende lagen van de aarde en hun relatieve temperatuur.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen de kenmerken en oorzaken van vulkanen: magma, lava, vulkaanpijp, krater.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen enkele gevolgen van vulkanen voor de landbouw, het toerisme, de hoeveelheid mineralen in de bodem en de samenstelling van de atmosfeer door de aswolk.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kennen de kenmerken, oorzaken en gevolgen van vulkanen:\n● waarom vulkanen uitbarsten: magma, lava, vulkaanpijp, krater;\n● hoe vulkanen het landschap en menselijke activiteiten (landbouw, toerisme) kunnen beïnvloeden: aswolk, mineralen.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen het belang van delfstoffen vanuit verschillende perspectieven: economie, politiek, duurzaamheid.",
+    "colK": "De ontginning van grind in België creëert werkgelegenheid en export maar er worden natuurgebieden en landbouwgrond voor opgeofferd. De ontginning van goud en mineralen in Congo veroorzaakt gewapende conflicten, illegale handel en armoede bij de bevolking."
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van delfstoffen vanuit verschillende perspectieven:\n●\teconomie;\n●\tpolitiek;\n●\tduurzaamheid.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen de kenmerken en oorzaken van aardbevingen: het principe van platentektoniek (m.i.v. voorbeelden van platen, plaatgrens); epicentrum, seismische golven, beving; de magnitude van een aardbeving; voorbeelden en ligging van aardbevingen.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen de gevolgen van aardbevingen: natuurlijke verschijnselen waaronder de naschok, de tsunami, de aardverschuiving.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen de gevolgen van aardbevingen: verwoestingen.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kennen inspanningen om te anticiperen op schade van aardbevingen en deze te beperken: technieken bij constructie van gebouwen om schokken op te vangen, aardbevingen monitoren en preventief evacueren.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kennen de kenmerken, oorzaken en gevolgen van aardbevingen:\n●\tvoorbeelden van platen, plaatgrens, principe van platentektoniek;\n●\tepicentrum, seismische golven, beving;\n●\tvoorbeelden van aardbevingen, ligging en mogelijke effecten: naschok, verwoesting, tsunami, aardverschuiving;\n●\tde magnitude van een aardbeving;\n●\tinspanningen om schade door aardbevingen te anticiperen en te beperken: technieken bij constructie van gebouwen om schokken op te vangen, monitoren en preventief evacueren.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kunnen de ruimtelijke spreiding van aardbevingen, vulkanen en bergketens in verband brengen met de ligging van plaatgrenzen: de Ring van Vuur; het patroon van vulkanen in het Middellandse Zeegebied waaronder de Etna.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de ruimtelijke spreiding van aardbevingen, vulkanen en bergketens in verband brengen met de ligging van plaatgrenzen:\n●\tde Ring van Vuur;\n●\tpatroon van vulkanen in het Middellandse Zeegebied waaronder de Etna.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kunnen een voorbeeld geven van een gesteente, een sediment en een mineraal.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Atmosfeer",
+    "colJ": "De leerlingen kennen de volgende begrippen: het zuurstofgas, de koolstofdioxide.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot de aarde en haar atmosfeer: het zuurstofgas, de koolstofdioxide.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Atmosfeer",
+    "colJ": "De leerlingen kennen de rol van de atmosfeer voor leven op aarde.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kenmerken van de aarde en haar atmosfeer",
+    "colI": null,
+    "colJ": "De leerlingen kennen de rol van de atmosfeer voor leven op aarde.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen kunnen een geologische structuur herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen herkennen fossielen als instrumenten om de ouderdom van lagen te bepalen.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aarde en atmosfeer",
+    "colI": "Lagen en platen",
+    "colJ": "De leerlingen verkennen de indeling van de geschiedenis van de Aarde in geologische tijdperken.",
+    "colK": null
+  },
+  {
+    "fase": "F3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerling kan met ondersteuning taal koppelen aan natuurlijke en menselijke  aspecten in eigen leefwereld of op eigen (vakantie)foto's.",
+    "colK": "Eigen huis en tuin of parkje in de buurt van de school, zee, winkel."
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kunnen natuurlijke aspecten in (afgebeelde) landschappen observeren.",
+    "colK": "De berg, de zee, het strand, de boom, het gras, de grond"
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kunnen menselijke aspecten in (afgebeelde) landschappen observeren.",
+    "colK": "Het huis, de tuin, de straat, de boerderij, de fabriek, de winkel"
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het reliëf",
+    "colJ": "De leerlingen kennen het volgende begrip: de berg.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het reliëf",
+    "colJ": "De leerlingen kennen de volgende begrippen: omhoog, omlaag.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het water",
+    "colJ": "De leerlingen kennen de volgende begrippen: de zee, het strand, de plas.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - de vegetatie",
+    "colJ": "De leerlingen kennen de volgende begrippen: de boom, het bos, het gras, de weide.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - het wonen",
+    "colJ": "De leerlingen kennen de volgende begrippen: het huis, de tuin.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de transportinfrastructuur",
+    "colJ": "De leerlingen kennen het volgende begrip: de straat.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kennen de volgende begrippen: de boerderij, de stal, de koe, het schaap, het varken.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de industrie",
+    "colJ": "De leerlingen kennen het volgende begrip: de fabriek.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de handel en diensten",
+    "colJ": "De leerlingen kennen het volgende begrip: de winkel.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de recreatie en het toerisme",
+    "colJ": "De leerlingen kennen de volgende begrippen: de zee, het park.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het reliëf",
+    "colJ": "De leerlingen kennen de volgende begrippen: de heuvel, de vallei.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het reliëf",
+    "colJ": "De leerlingen kennen de volgende begrippen: steil, zacht.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het water",
+    "colJ": "De leerlingen kennen de volgende begrippen: de oceaan, de rivier, de beek, de vijver.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - de vegetatie",
+    "colJ": "De leerlingen kennen de volgende begrippen: het grasland, het riet, het gazon.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - de bodem",
+    "colJ": "De leerlingen kennen de volgende begrippen: vruchtbaar, zanderig, rotsachtig.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen: natuurlijke en menselijke aspecten",
+    "colI": null,
+    "colJ": "De kleuters kennen de volgende begrippen met betrekking tot natuurlijke aspecten van landschappen:\n-de reliëfvorm: de berg, de heuvel, de vallei;\n-de helling: omhoog, omlaag, steil, zacht;\n-het water: de oceaan, de zee, het strand, de rivier, de beek, de plas, de vijver;\n-de vegetatie: de boom, het bos, het gras, het grasland, de weide, het riet, de gazon;\n-de bodem: vruchtbaar, zanderig, rotsachtig.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - het wonen",
+    "colJ": "De leerlingen kennen het volgende begrip: het appartement.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de transportinfrastructuur",
+    "colJ": "De leerlingen kennen de volgende begrippen: de weg, de bus, het spoor, de trein.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kennen de volgende begrippen: de akker, het gewas.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de industrie",
+    "colJ": "De leerlingen kennen het volgende begrip: de werkplaats.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de handel en diensten",
+    "colJ": "De leerlingen kennen de volgende begrippen: de markt, de bakkerij.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de recreatie en het toerisme",
+    "colJ": "De leerlingen kennen de volgende begrippen: het zwembad, de bibliotheek.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen: natuurlijke en menselijke aspecten",
+    "colI": null,
+    "colJ": "De kleuters kennen de volgende begrippen met betrekking tot infrastructuur en hun interactie met landschappen:\n-het wonen: het huis, het appartement, de tuin;\n-de transportinfrastructuur: de weg, de straat, de bus, het spoor, de trein;\n-de landbouw: de akker, de boerderij, de stal, de koe, het schaap, het varken, het gewas;\n-de industrie: de fabriek, de werkplaats;\nde handel en de diensten: de winkel, de markt, de bakkerij;\n-de recreatie en het toerisme: het zwembad, de zee, het park, de bibliotheek.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - de vegetatie",
+    "colJ": "De leerlingen kennen de volgende begrippen: het loofbos, het naaldbos.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - het wonen",
+    "colJ": "De leerlingen kennen de volgende begrippen: het rijhuis, het vrijstaand huis, het appartementsgebouw, de stad.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de handel en diensten",
+    "colJ": "De leerlingen kennen de volgende begrippen: het kantoor, de bank, het winkelcentrum.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kunnen in een (afgebeeld) landschap voorbeelden van natuurlijke aspecten tonen.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kunnen in een (afgebeeld) landschap voorbeelden van menselijke aspecten tonen.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - de bodem",
+    "colJ": "De leerlingen kennen de volgende begrippen: het zand, de klei, de leem, steenachtig.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de transportinfrastructuur",
+    "colJ": "De leerlingen kennen de volgende begrippen: de snelweg, het kanaal, de (lucht)haven.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de recreatie en het toerisme",
+    "colJ": "De leerlingen kennen de volgende begrippen: het sportterrein, de entertainmentfaciliteit.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kennen de volgende begrippen: stedelijk, landelijk.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kunnen de functie van voorbeelden van menselijke infrastructuur in het (afgebeelde) landschap benoemen.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het reliëf",
+    "colJ": "De leerlingen kennen de volgende begrippen: vlakte, plateau, heuvelland, gebergte.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het reliëf",
+    "colJ": "De leerlingen kennen de volgende begrippen: de bergketen, het zeeniveau, de horizonlijn, de hoogte, het hoogteverschil.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kennen de volgende begrippen: de akkerbouw, de veeteelt, de gemengde landbouw, de tuinbouw, de glastuinbouw.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kennen het volgende begrip: irrigatie.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kennen de volgende begrippen: de verwerking en de distributie van gewassen.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het water",
+    "colJ": "De leerlingen kennen de volgende begrippen: de bron, de typische kenmerken van beneden-, midden- en bovenloop van rivieren, het eroderen, het afzetten, de waterval, de meander, het estuarium, de delta.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het water",
+    "colJ": "De leerlingen kennen de volgende begrippen: de smeltende ijskappen en gletsjers.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen: natuurlijke en menselijke aspecten",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot natuurlijke aspecten van landschappen, inclusief de vorming en het proces ervan:\n-het reliëf: de bergketen, het zeeniveau, de horizonlijn, de hoogte, het hoogteverschil;\n-De riviervorming en -processen: de bron, de smeltende ijskappen en gletsjers, de typische kenmerken van beneden-, midden- en bovenloop van rivieren, het eroderen, het afzetten, de waterval, de meander, het estuarium, de delta;\n-de vegetatie: het loofbos, het naaldbos;\n-de bodem: het zand, de klei, de leem, steenachtig.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de industrie",
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot infrastructuur en hun interactie met landschappen: de dam, het reservoir, de waterkracht.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de industrie",
+    "colJ": "De leerlingen kennen het volgende begrip: de vervuiling van waterhabitats.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen: natuurlijke en menselijke aspecten",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot infrastructuur en hun interactie met landschappen:\n-het wonen: het rijhuis, het vrijstaand huis, het appartementsgebouw, stedelijk, landelijk, de stad;\n-de transportinfrastructuur: de snelweg, het kanaal, de (lucht)haven;\nde landbouw: de akkerbouw, de veeteelt, de gemengde landbouw, de tuinbouw, de glastuinbouw;\n-de landbouwprocessen: de irrigatie;\nde verwerking en de distributie van gewassen;\n-het water als hulpbron: de dam, het reservoir, de waterkracht; de vervuiling van waterhabitats;\n-de handel en de diensten: het kantoor, de bank;\n-de recreatie en het toerisme: het sportterrein, de entertainmentfaciliteit, het winkelcentrum.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het reliëf",
+    "colJ": "De leerlingen kennen het volgende begrip: de hellingsgraad.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kunnen de impact van de hellingsgraad op de landbouw illustreren.",
+    "colK": "Landbouw op terrassen om regenwater op steile hellingen op te vangen."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de transportinfrastructuur",
+    "colJ": "De leerlingen kunnen de impact van de hellingsgraad op de transportinfrastructuur illustreren.",
+    "colK": "De ligging en constructie van wegen en spoorwegen houden rekening met hellingen."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - het gebruik van natuurlijke hulpbronnen",
+    "colJ": "De leerlingen kennen het volgende begrip: de duurzaamheid.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot infrastructuur: de intensieve landbouw, de duurzame landbouw.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de landbouw",
+    "colJ": "De leerlingen kennen de volgende begrippen: de voedselbewaring, -verwerking en -distributie.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - de handel en diensten",
+    "colJ": "De leerlingen kennen de volgende begrippen: de opslagfaciliteiten voor grondstoffen, materialen en goederen.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - het water",
+    "colJ": "De leerlingen kennen de volgende begrippen: de golfslag, de kustlijn, de landtong, de kiezel, de zandduin, het koraalrif, de kusthabitat.",
+    "colK": "De kusthabitat: de steltlopers, meeuwen en sterns nestelen en foerageren op de Belgische kusthabitats van slikken en schorren, het zeeleven met inbegrip van wormen, schelpdieren en vissen die leven in de ondiepe wateren voor de Belgische kust."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Natuurlijke aspecten - de vegetatie",
+    "colJ": "De leerlingen kennen de volgende begrippen: de woestijn, de woestijnvorming, de steppe, de savanne, het regenwoud.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen: natuurlijke en menselijke aspecten",
+    "colI": "Landschappen: natuurlijke en menselijke aspecten",
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot natuurlijke aspecten van landschappen:\n-het reliëf: de hellingsgraad;\nbv. landbouw op terrassen om regenwater op steile hellingen op te vangen, wegen en spoorwegen houden rekening met hellingen\n-de kustprocessen en de gerelateerde landvormen en habitats: de golfslag, de kustlijn, de landtong, de kiezel, de zandduin, de koraalrif, de kusthabitat;\nbv. de steltlopers, meeuwen en sterns nestelen en foerageren op de Belgische kusthabitats van slikken en schorren, het zeeleven met inbegrip van wormen, schelpdieren en vissen die leven in de ondiepe wateren voor de Belgische kust\n-de vegetatie en het verband met bodem, vegetatietype en klimaat: de woestijn, de woestijnvorming, de steppe, de savanne, het regenwoud.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - het wonen",
+    "colJ": "De leerlingen kennen de volgende begrippen: de verstedelijking, de open ruimte, de ruimtelijke ordening.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Menselijke aspecten en hun interactie met landschappen - het wonen",
+    "colJ": "De leerlingen kennen het volgende begrip: de golfbrekers.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen: natuurlijke en menselijke aspecten",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot infrastructuur en hun interactie met landschappen:\n-het wonen: de verstedelijking, de open ruimte, de ruimtelijke ordening;\n-de landbouw: de intensieve landbouw, de duurzame landbouw, de voedselbewaring, - verwerking en -distributie;\n-het menselijk gebruik van natuurlijke hulpbronnen: de duurzaamheid;\n-het kustbeheer: de golfbrekers;\n-de handel en de diensten: de opslagfaciliteiten voor grondstoffen, materialen en goederen.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kunnen specifieke natuurlandschappen identificeren op basis van de aanwezigheid van overwegend natuurlijke aspecten.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Landschappen",
+    "colI": "Soorten landschappen",
+    "colJ": "De leerlingen kunnen specifieke cultuurlandschappen identificeren op basis van de aanwezigheid van overwegend menselijke aspecten.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Bevolking",
+    "colJ": "De leerlingen kennen de volgende begrippen: het bevolkingsaantal, de bevolkingsdichtheid, de bevolkingsspreiding.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Bevolking",
+    "colJ": "De leerlingen kennen het volgende begrip: patronen van bevolkingsspreiding in een land of regio.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Bevolking",
+    "colJ": "De leerlingen kennen de volgende begrippen om de diversiteit van de bevolking te beschrijven: de etniciteit, de religie, de leeftijd.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aardrijkskundige indicatoren",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot bevolking:\n●\tde bevolkingsdichtheid;\n●\tpatronen van bevolkingsspreiding in een land of regio;\n●\tmanieren om de diversiteit van de bevolking te beschrijven: de etniciteit, de religie, de leeftijd.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Bevolking",
+    "colJ": "De leerlingen kennen verklarende factoren die verandering in bevolkingsaantallen beïnvloeden: migratie, geboortecijfer, industrialisatie en verstedelijking.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aardrijkskundige indicatoren",
+    "colI": null,
+    "colJ": "De leerlingen kennen verklarende factoren die verandering in bevolkingsaantallen beïnvloeden:\n-migratie;\n-geboortecijfer;\n-industrialisatie en verstedelijking.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Welvaart",
+    "colJ": "De leerlingen kennen het concept welvaart.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Welvaart",
+    "colJ": "De leerlingen weten dat er verschillende niveaus van welvaart zijn.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aardrijkskundige indicatoren",
+    "colI": null,
+    "colJ": "De leerlingen weten dat er verschillende niveaus van welvaart zijn.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Oppervlakte",
+    "colJ": "De leerlingen kunnen vergelijkingen maken binnen en tussen landen door middel van een aardrijkskundige indicator: oppervlakte.",
+    "colK": "België en de buurlanden van klein naar groot rangschikken op basis van een staatkundige kaart of de data over de oppervlaktes van de landen."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Bevolking",
+    "colJ": "De leerlingen kunnen vergelijkingen maken binnen en tussen landen door middel van aardrijkskundige indicatoren: bevolkingsaantal, bevolkingsdichtheid.",
+    "colK": "Op basis van een kaart of de data over de bevolkingsdichtheid van de buurlanden van België bepalen welk land de meeste inwoners per km² heeft."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Indicatoren",
+    "colI": "Welvaart",
+    "colJ": "De leerlingen kunnen vergelijkingen maken binnen en tussen landen door middel van een aardrijkskundige indicator: welvaartsniveau.",
+    "colK": "Op basis van een kaart of de data over het welvaartsniveau van de landen van de Europese Unie het laagste welvaartsniveau heeft."
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Aardrijkskundige indicatoren",
+    "colI": null,
+    "colJ": "De leerlingen kunnen vergelijkingen maken binnen en tussen landen door middel van aardrijkskundige indicatoren:\n-oppervlakte;\n-bevolkingsaantal;\n-bevolkingsdichtheid;\n-welvaartsniveau.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot weersverschijnselen: de temperatuur, de neerslag, de bewolking, de wind.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De kleuters kennen de volgende begrippen met betrekking tot weersverschijnselen:\n-de temperatuur;\n-de neerslag;\n-de bewolking;\n-de wind.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kunnen de relatie tussen bewolking en neerslag beschrijven.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De kleuters kunnen de relatie tussen bewolking en neerslag beschrijven.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen weten dat het weer beschreven wordt op basis van kenmerken van de temperatuur, de neerslag, de bewolking en de wind.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kunnen het verband tussen patronen in weersverschijnselen en de seizoenen illustreren.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kennen het volgende begrip: de hittegolf.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kennen het volgende begrip: de sneeuwstorm.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kennen het volgende begrip: de waterbom.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen het verschil tussen weer en klimaat.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De leerlingen kennen het verschil tussen weer en klimaat.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen de kenmerken van de belangrijkste klimaatzones: polair.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen de kenmerken van de belangrijkste klimaatzones: tropisch.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen de kenmerken van de belangrijkste klimaatzones: gematigd.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De leerlingen kennen de kenmerken van de belangrijkste klimaatzones: polair, tropisch, gematigd.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kennen de begrippen: de orkaan, de tyfoon.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen met betrekking tot klimaatspecifieke en extreme weersverschijnselen:\n●\tde orkaan, de tyfoon;\n●\tde hittegolf, de sneeuwstorm, de waterbom.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen weten dat het weer beschreven wordt op basis van kenmerken van de windrichting en de windsnelheid.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen weten dat het weer beschreven wordt op basis van kenmerken van luchtdruk en windkracht.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Weer",
+    "colJ": "De leerlingen kunnen illustreren hoe reliëf en seizoensgebonden oceaantemperaturen het weer beïnvloeden.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De leerlingen kunnen voorbeelden geven van hoe reliëf en seizoensgebonden oceaantemperaturen het weer beïnvloeden.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen het concept vegetatietype.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De leerlingen kennen het concept vegetatietype.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen de relatie tussen de ligging van de breedtecirkels en klimaatzones: polair.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen de relatie tussen de ligging van de breedtecirkels en klimaatzones: tropisch.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": "Klimaat",
+    "colJ": "De leerlingen kennen de relatie tussen de ligging van de breedtecirkels en klimaatzones: gematigd.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Weer en klimaat",
+    "colI": null,
+    "colJ": "De leerlingen kennen de relatie tussen de ligging van de breedtecirkels en klimaatzones: polair, tropisch, gematigd.",
+    "colK": null
+  },
+  {
+    "fase": "F3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerling kan de seizoenen koppelen aan typische zintuiglijke ervaringen in hun leefwereld.",
+    "colK": "In de winter is het donker als we naar school komen, knisperende blaadjes of paddestoelen in de herfst, bloemen in de wei naast de school in de zomer, lammetjes in de wei in de lente…"
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen verkennen de volgende begrippen: de dag en de nacht.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen kunnen het ritme van dag en nacht herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen kennen de aarde, de maan, de zon, de sterren.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De kleuters kennen de volgende begrippen:\n●\tde aarde, de maan, de zon, de sterren;\n●\tde dag en de nacht.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - seizoenen en jaar",
+    "colJ": "De leerlingen verkennen de namen van de seizoenen.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - seizoenen en jaar",
+    "colJ": "De leerlingen kunnen het ritme van de seizoenen in de directe omgeving herkennen.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De kleuters kunnen het ritme van de seizoenen in de directe omgeving herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen kunnen de beweging van de aarde om haar as tonen met behulp van een wereldbol.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De kleuters kunnen de beweging van de aarde om haar as tonen met behulp van een wereldbol.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen kennen de zon als ster.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de zon als ster.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen kunnen de plaats van de zon gedurende de dag observeren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen weten dat de aarde een planeet is.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - seizoenen en jaar",
+    "colJ": "De leerlingen kennen de kenmerken van de seizoenen.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - seizoenen en jaar",
+    "colJ": "De leerlingen kennen de namen en de begin- en einddatum van de seizoenen.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de namen, kenmerken en de begin- en einddatum van de seizoenen.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen kennen de duur en de richting van de beweging van de aarde om haar as.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de duur en de richting van de beweging van de aarde om haar as.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen kunnen het ritme van dag en nacht uitleggen.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - verschijnselen",
+    "colJ": "De leerlingen weten dat we de maan in verschillende gestalten  zien.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - maand",
+    "colJ": "De leerlingen kennen de duur van de beweging van de maan om de aarde.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen kennen de namen van de planeten binnen ons zonnestelsel.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de namen van de planeten binnen ons zonnestelsel.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen kennen de relatie tussen de beweging van de aarde en dag/nacht, tijdszones.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de relatie tussen de beweging van de aarde en dag/nacht, tijdszones.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - dag en nacht",
+    "colJ": "De leerlingen verkennen het verschil tussen een planeet en een exoplaneet.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen kennen kenmerken en verschijnselen van het heelal: planetenstelsel.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen kennen kenmerken en verschijnselen van het heelal: zonnestelsel.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen kennen kenmerken en verschijnselen van het heelal: sterren.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen kenmerken en verschijnselen van het heelal: planetenstelstel, zonnestelstel, sterren.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - seizoenen en jaar",
+    "colJ": "De leerlingen kennen de duur en de richting van de beweging van de aarde rond de zon.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de duur en de richting van de beweging van de aarde rond de zon.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - verschijnselen",
+    "colJ": "De leerlingen kennen de maanfasen: volle maan, nieuwe maan, eerste kwartier, laatste kwartier.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - verschijnselen",
+    "colJ": "De leerlingen kunnen de maanfasen in verband brengen met de beweging van de maan rond de aarde.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Heelal",
+    "colJ": "De leerlingen kennen kenmerken en verschijnselen van het heelal: sterrenstelsel.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - seizoenen en jaar",
+    "colJ": "De leerlingen kunnen het burgerlijk jaar en het schrikkeljaar in verband brengen met de beweging van de aarde rond de zon, rekening houdend met de schuine stand van de aardas.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de aarde - seizoenen en jaar",
+    "colJ": "De leerlingen kunnen de seizoenen in verband brengen met de beweging van de aarde rond de zon, rekening houdend met de schuine stand van de aardas.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kunnen het burgerlijk jaar, het schrikkeljaar en de seizoenen in verband brengen met de beweging van de aarde rond de zon, rekening houdend met de schuine stand van de aardas.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - verschijnselen",
+    "colJ": "De leerlingen kennen de getijden: eb, vloed, laagwater, hoogwater.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de getijden: eb, vloed, laagwater, hoogwater.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - verschijnselen",
+    "colJ": "De leerlingen kennen de eclipsen: zonsverduistering, maansverduistering.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kennen de eclipsen: zonsverduistering, maansverduistering.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - verschijnselen",
+    "colJ": "De leerlingen kunnen de getijden in verband brengen met de beweging van de maan rond de aarde.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": "Bewegingen van de maan - verschijnselen",
+    "colJ": "De leerlingen kunnen de eclipsen in verband brengen met de beweging van de maan rond de aarde.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige kennis",
+    "subdomein": "Kosmografie",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de getijden, de maanfasen en de eclipsen in verband brengen met de beweging van de maan rond de aarde.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Afbeelding",
+    "colJ": "De leerlingen kunnen een foto en een tekening herkennen als een verkleinde weergave van een werkelijke ruimte.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Afbeelding",
+    "colJ": "De leerlingen kunnen elementen op een foto of tekening van een ruimte herkennen.",
+    "colK": "Hun huis, de straat van de school, de speeltuigen op de speelplaats, de poppenhoek"
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Maquette",
+    "colJ": "De leerlingen kunnen een maquette herkennen als een verkleinde weergave van een werkelijke ruimte.",
+    "colK": "Poppenhuis"
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Wereldbol",
+    "colJ": "De leerlingen kunnen een wereldbol herkennen als een verkleinde weergave van de aarde.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Wereldbol",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een wereldbol identificeren.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Werkelijke ruimte",
+    "colJ": "De leerlingen kunnen de ruimtelijke indeling van een kamer en een buitenruimte beschrijven door observatie en geheugen.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De kleuters kunnen een ruimtelijke indeling van een kamer en een buitenruimte beschrijven door observatie en geheugen.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Afbeelding",
+    "colJ": "De leerlingen kunnen een geobserveerde ruimte weergeven door middel van een eenvoudige tekening of schets.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De kleuters kunnen een geobserveerde ruimte weergeven door middel van een eenvoudige tekening of schets.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen een plattegrond herkennen als een verkleinde en vereenvoudigde weergave van een ruimte.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen een kaart herkennen als een tekening waarop de naam en de ligging van plaatsen staat.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Maquette",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een maquette identificeren.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Wereldbol",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een wereldbol lokaliseren.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Maquette",
+    "colJ": "De leerlingen kunnen zelf een maquette maken van een voor hen bekende omgeving.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Maquette",
+    "colJ": "De leerlingen kunnen een maquette oriënteren op basis van herkenningspunten in de werkelijke ruimte.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Maquette",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een maquette lokaliseren.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Maquette",
+    "colJ": "De leerlingen kunnen bij een eigen maquette een legende met symbolen aanleggen.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een plattegrond identificeren.",
+    "colK": "Herkennen op een plattegrond van de klas, plattegrond van de eigen kamer"
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een plattegrond lokaliseren.",
+    "colK": "Het vaststellen van een specifieke plaats of positie op een plattegrond van de klas, plattegrond van de eigen kamer"
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen de legende bij een plattegrond verkennen.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Afbeelding",
+    "colJ": "De leerlingen kunnen elementen op een luchtfoto identificeren.",
+    "colK": "Herkennen op een luchtfoto van de schoolgemeente"
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een analoge en digitale kaart identificeren.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Wereldbol",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een wereldbol lokaliseren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen zelf een plattegrond maken van een voor hen bekende omgeving.",
+    "colK": "Een plattegrond van de schoolomgeving"
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen een plattegrond oriënteren op basis van herkenningspunten in de werkelijke ruimte.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een plattegrond identificeren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een plattegrond lokaliseren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen een route op een plattegrond van een bekende omgeving uitvoeren.",
+    "colK": "Plattegrond van de school, plattegrond van de schoolomgeving"
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen bij een eigen plattegrond een legende met symbolen aanleggen.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen de legende bij een plattegrond hanteren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een analoge en digitale kaart lokaliseren.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Werkelijke ruimte",
+    "colJ": "De leerlingen kunnen zichzelf in de werkelijke ruimte oriënteren met behulp van een plattegrond.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen een analoge en digitale kaart oriënteren en werken met hoofdwindrichtingen.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een analoge en digitale kaart lokaliseren.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen werken met legende.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Werkelijke ruimte",
+    "colJ": "De leerlingen kunnen zichzelf in de werkelijke ruimte oriënteren met behulp van een analoge en digitale kaart.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Plattegrond",
+    "colJ": "De leerlingen kunnen een route op een plattegrond uitstippelen.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen een analoge en digitale kaart oriënteren en werken met tussenwindrichtingen.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen voorgestelde elementen op een analoge en digitale kaart lokaliseren.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen werken met een legende.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen een route op een analoge kaart uitstippelen.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Werkelijke ruimte",
+    "colJ": "De leerlingen kunnen een route op een analoge kaart uitvoeren.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Routeplanner",
+    "colJ": "De leerlingen kunnen een route met een digitale routeplanner uitstippelen.",
+    "colK": "GPS, Google maps"
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Routeplanner",
+    "colJ": "De leerlingen kunnen een route op een digitale routeplanner uitvoeren.",
+    "colK": "GPS, Google maps"
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen werken met een register.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen werken met vakcoördinaten.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Afbeelding",
+    "colJ": "De leerlingen kunnen landschappen schetsen om menselijke en natuurlijke aspecten schematisch weer te geven.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Werkelijke ruimte",
+    "colJ": "De leerlingen kunnen zichzelf oriënteren met behulp van verschillende methoden: een digitaal en analoog kompas.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Werkelijke ruimte",
+    "colJ": "De leerlingen kunnen zichzelf oriënteren met behulp van verschillende methoden: zon.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De leerlingen kunnen met betrekking tot aardrijkskundige vaardigheden:\n●\teen digitale en analoge kaart hanteren, inclusief werken met legende, oriëntatie, (tussen)windrichtingen;\n●\twerken met register en vakcoördinaten;\n●\tzichzelf oriënteren met behulp van verschillende methoden: kompas, kaart en zon;\n●\tlandschappen schetsen om menselijke en natuurlijke aspecten schematisch weer te geven;\n(●\taardrijkskundige staaf- en lijngrafieken bespreken.)",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen staatkundige kaarten gebruiken.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen natuurkundige kaarten gebruiken.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen thematische kaarten gebruiken.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen werken met schaal.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Afbeelding",
+    "colJ": "De leerlingen kunnen satellietbeelden hanteren.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen staatkundige kaarten gebruiken.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen natuurkundige kaarten gebruiken.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen thematische kaarten gebruiken.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Afbeelding",
+    "colJ": "De leerlingen kunnen satellietbeelden hanteren.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Ruimtelijke vaardigheden",
+    "colI": "Kaart",
+    "colJ": "De leerlingen kunnen een klein gebied in kaart brengen met behulp van cartografische technieken: generaliseren, symboliseren, oriënteren, schaal aanbrengen.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De leerlingen kunnen met betrekking tot aardrijkskundige vaardigheden:\n●\tverschillende soorten kaarten gebruiken: staatkundig, natuurkundig, thematisch;\n●\tsatellietbeelden hanteren;\n●\teen klein gebied in kaart brengen met behulp van cartografische technieken: generaliseren, symboliseren, oriënteren, schaal aanbrengen;\n●\t(klimatogrammen lezen.)",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerling verkent weersverschijnselen met alle zintuigen.",
+    "colK": "Voelen aan sneeuw of ijs, ijsblokken in drankje... \nNon-verbale reacties als wegduwen, herhalen, lachen."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerling drukt zich uit over ervaringen met weersverschijnselen.",
+    "colK": "Non-verbale reacties als wegduwen van sneeuw of ijs…\nTerug naar de zon draaien, herhalen, lachen."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerling legt met ondersteuning een verband tussen de weersverschijnselen en de actie die erbij hoort.",
+    "colK": "Zonnecrème omdat de zon schijnt, paraplu of jas aan omdat het regent, dikke kleren voor de kou."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerling kan met ondersteuning taal koppelen aan ervaringen met weersverschijnselen.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen weersverschijnselen observeren.",
+    "colK": "Koud, warm, droog, wind, geen wind, zon, wolken"
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen geobserveerde weersverschijnselen voorstellen met pictogrammen.",
+    "colK": "Op een weerkalender"
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen regen observeren.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen sneeuw observeren.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen hagel observeren.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen mist observeren.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De kleuters kunnen een neerslagvorm observeren: regen, sneeuw, hagel, mist.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen het weer beschrijven op basis van de geobserveerde temperatuur, de neerslag, de bewolking en de wind.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen op verschillende momenten observaties van weersverschijnselen weergeven.",
+    "colK": "Op een zelfopgestelde weerkalender, grafiek of tabel"
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen gegevens uit weersvoorspellingen gebruiken: temperatuur, neerslag, windrichting, bewolking.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Kwantitatieve gegevens",
+    "colJ": "De leerlingen kunnen aardrijkskundige staafgrafieken bespreken.",
+    "colK": "Staafdiagram over de neerslag, landgebruik, bevolkingsindeling naar leeftijd…"
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen de pluviometer gebruiken om de hoeveelheid neerslag te meten.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen de thermometer gebruiken om de temperatuur te meten.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen observaties en instrumenten gebruiken om windrichting te meten: vlaggen, bomen, rook, windvaan.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Weerkunde",
+    "colJ": "De leerlingen kunnen de anemometer gebruiken om windsnelheid te meten.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De leerlingen kunnen met betrekking tot aardrijkskundig onderzoek:\n●\tinstrumenten gebruiken om neerslag (pluviometer) te meten;\n●\tobservaties en instrumenten gebruiken om windrichting (vlaggen, bomen, rook, windvaan) en windsnelheid (anemometer) te meten;\n●\tgegevens uit weersvoorspellingen gebruiken: temperatuur, neerslag, windrichting en bewolking.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Kwantitatieve gegevens",
+    "colJ": "De leerlingen kunnen aardrijkskundige lijngrafieken bespreken.",
+    "colK": "Lijngrafiek over de temperatuur, bevolking, verkeer…"
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De leerlingen kunnen met betrekking tot aardrijkskundige vaardigheden:\n●\t(een digitale en analoge kaart hanteren, inclusief werken met legende, oriëntatie, (tussen)windrichtingen;\n●\twerken met register en vakcoördinaten;\n●\tzichzelf oriënteren met behulp van verschillende methoden: kompas, kaart en zon;\n●\tlandschappen schetsen om menselijke en natuurlijke aspecten schematisch weer te geven)\n ●\taardrijkskundige staaf- en lijngrafieken bespreken.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Kwantitatieve gegevens",
+    "colJ": "De leerlingen kunnen klimatogrammen lezen.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundige bronnen en vaardigheden",
+    "colI": null,
+    "colJ": "De leerlingen kunnen met betrekking tot aardrijkskundige vaardigheden:\n●\t(verschillende soorten kaarten gebruiken: staatkundig, natuurkundig, thematisch;\n●\tsatellietbeelden hanteren;\n●\teen klein gebied in kaart brengen met behulp van cartografische technieken: generaliseren, symboliseren, oriënteren, schaal aanbrengen )\n●\tklimatogrammen lezen.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Kwantitatieve gegevens",
+    "colJ": "De leerlingen kunnen kwantitatieve gegevens die in de omgeving van de school zijn verzameld registreren.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Kwantitatieve gegevens",
+    "colJ": "De leerlingen kunnen kwantitatieve gegevens die in de omgeving van de school zijn verzameld interpreteren.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig onderzoek",
+    "colI": "Kwantitatieve gegevens",
+    "colJ": "De leerlingen kunnen kwantitatieve gegevens die in de omgeving van de school zijn verzameld presenteren.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen een actueel ruimtelijk vraagstuk bespreken in termen van gevolgen en relatieve meting.",
+    "colK": "Waar een stoel positioneren om meer ruimte te maken."
+  },
+  {
+    "fase": "K2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen een actueel ruimtelijk vraagstuk bespreken in termen van gevolgen en relatieve meting.",
+    "colK": "Hoeveel hoger of dichter bij het raam planten zetten om ze meer licht te geven."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen een actueel ruimtelijk vraagstuk bespreken in termen van gevolgen en relatieve meting.",
+    "colK": "Een zebrapad gelegen aan de ingang van de school."
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": null,
+    "colJ": "De kleuters kunnen een actueel ruimtelijk vraagstuk bespreken in termen van gevolgen en relatieve meting.\nbv. waar een stoel positioneren om meer ruimte te maken, tramhalte gelegen op een\nnuttige/veilige plaats, hoeveel hoger of dichter bij het raam planten zetten om ze meer licht te geven.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen ideeën genereren om actuele ruimtelijke problemen op te lossen met behulp van relatieve ruimtelijke begrippen.",
+    "colK": "Ideeën verwoorden voor de herinrichting van de boekenhoek en daarbij ruimtelijke begrippen gebruiken."
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": null,
+    "colJ": "De kleuters kunnen ideeën genereren om actuele ruimtelijke problemen op te lossen met behulp van relatieve ruimtelijke begrippen.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 1ste jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de relatie tussen het weer en de leefgewoonten van mensen zoals de kledij, het verkeer, de dagindeling."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen kunnen de onmiddellijke gevolgen van eigen handelingen op de eigen leefomgeving benoemen.",
+    "colK": "De waterkraan open laten staan na handen wassen heeft waterverspilling tot gevolg."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Actiecompetentie",
+    "colJ": "De leerlingen kunnen vanuit kennis over een specifieke duurzaamheidskwestie duurzame keuzes in de leefomgeving illustreren.",
+    "colK": "Afval dat niet goed wordt gesorteerd vervuilt de natuur en is ongezond. Ik kies ervoor om afval te sorteren, zowel op school als thuis."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 2e jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over waarom de bushaltes in gebied A (dorp) verder uit elkaar liggen dan in gebied B (stad)."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen kunnen de onmiddellijke gevolgen van eigen handelingen in de leefomgeving uitdrukken in als-dan-relaties.",
+    "colK": "Als ik afval op de grond gooi, dan vervuil ik de natuur."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Actiecompetentie",
+    "colJ": "De leerlingen kunnen vanuit kennis over een duurzaamheidskwestie duurzame keuzes in de eigen leefomgeving illustreren.",
+    "colK": "Elektriciteit maken kost veel energie en soms vervuilt dit ook de natuur. Daarom hebben we de afspraak op school om geen lichten te laten branden."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 3de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over hoe het leven in een welbepaalde stad verschilt van het leven op het platteland eromheen."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen kunnen de gevolgen van een gebeurtenis voor de aarde en de mensen weergeven.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Actiecompetentie",
+    "colJ": "De leerlingen kunnen vanuit kennis over een specifieke duurzaamheidskwestie toelichten waarom ze al dan niet willen bijdragen aan een duurzame wereld.",
+    "colK": "Plastic blijft ontzettend lang in de natuur liggen en dieren kunnen er ziek van worden. Daarom wil ik minder plastic gebruiken."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 4de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de relatie tussen bevolkingsdichtheid en de ligging van industriezones, over de relatie tussen de beweging van de aarde en de tijdzones."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Interactie op verschillende schalen",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 4de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de impact van oorlog in een bepaald land (lokaal) op de toename van het bevolingsaantal in de omringende landen door migratie (regionaal)."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Veranderingen in de tijd, inclusief de toekomst",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 4de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de verandering van het landschap door de aanleg van een stuwmeer."
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 4de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden over:\n-ruimtelijke posities, relaties en contrasten;\n-interactie op verschillende schalen;\n-verandering in de tijd, inclusief de toekomst.\nbv. de relatie tussen waterdiepte, temperatuur en mariene habitats, hoe is op een bepaalde plaats een vallei of waterval ontstaan, waarom liggen de bushaltes in gebied A verder uit elkaar dan in gebied B, hoe verschilt het leven in een welbepaalde stad van het leven op het platteland eromheen.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen kunnen de gevolgen van een gebeurtenis voor de aarde en de mensen weergeven.",
+    "colK": "Door te lange droogte en hitte kan er een bosbrand ontstaan.\nDoor teveel regen kan een rivier overstromen en kan er water in de straten en huizen komen."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Actiecompetentie",
+    "colJ": "De leerlingen kunnen vanuit kennis over een specifieke duurzaamheidskwestie toelichten waarom ze al dan niet willen bijdragen aan een duurzame wereld.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 5de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de relatie tussen helling, landbouwkeuze en infrastructuur."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Interactie op verschillende schalen",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 5de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de impact van het wereldwijd gebruik van metalen en mineralen in elektronica (globaal) op de veiligheid van de bevolking in Congo (regionaal)."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Veranderingen in de tijd, inclusief de toekomst",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 5de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de verandering van onze collectieve welvaart (100 jaar geleden, nu, toekomst bij ongewijzgigd beleid)"
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen weten dat wat mensen nu en hier doen gevolgen heeft, voor later en voor anderen elders op de aarde.",
+    "colK": "Veel nieuwe kleren kopen => fabrieken produceren meer kleren => meer water nodig om kleren te kunnen produceren => problemen met de watervoorziening voor de mensen in de landen waar de kleren geproduceerd worden.\nVaak een nieuwe smartphone kopen => meer metalen nodig => meer mijnbouw => meer afvalproblemen en conflicten in de landen waar mijnbouw is en uitputting van grondstoffen later."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen kunnen illustreren hoe een gebeurtenis zowel aspecten met betrekking tot de planeet, de mensen en de welvaart kan beïnvloeden.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Actiecompetentie",
+    "colJ": "De leerlingen kunnen in het kader van een specifieke duurzaamheidskwestie actiecompetent aan een duurzame wereld bijdragen.",
+    "colK": "In de Sinterklaasperiode een speelgoedruilbeurs organiseren op school."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Ruimtelijke posities, relaties en contrasten",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 6de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de relatie tussen de beweging van de aarde rond de zon en het burgerlijk jaar, het schrikkeljaar en de seizoenen."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Interactie op verschillende schalen",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 6de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de impact van de ontbossing in het Amazonegebied (regionaal) op het klimaat (globaal)."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Veranderingen in de tijd, inclusief de toekomst",
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden van het 6de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden.",
+    "colK": "Over de verandering van ons klimaat (100 jaar geleden, nu, toekomst bij ongewijzgigd beleid)."
+  },
+  {
+    "fase": null,
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aardrijkskundige kennis en vaardigheden op niveau 6de jaar gebruiken om zelf aardrijkskundige vragen te beantwoorden over:\n●\truimtelijke posities, relaties en contrasten;\n●\tinteractie op verschillende schalen;\n●\tverandering in de tijd, inclusief de toekomst.\nbv. de relatie tussen helling, landbouwkeuze en infrastructuurplanning, de relatie tussen bevolkingsdichtheid en de ligging van industriezones, het vervoer van grondstoffen, materialen en goederen, waarom is er woenstijnvorming op plaats X, gelijkenissen en verschillen tussen de Rijn en de Amazone, uitzoeken wie (leeftijd, type werknemer) behoefte heeft aan veilige fietsroutes in de stad, bij gunning van een nieuw treinstation, winkelcentrum, vrijetijdscentrum\nin plaats X onderzoeken wie erbij zou winnen en wie erbij zou verliezen inclusief toekomstige mensen en het milieu",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen weten dat wat mensen nu en hier doen gevolgen heeft, voor later en voor anderen elders op de aarde.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Systeemdenken",
+    "colJ": "De leerlingen kunnen illustreren hoe een gebeurtenis zowel aspecten met betrekking tot de planeet, de mensen en de welvaart kan beïnvloeden.",
+    "colK": "In de zomer komen heel veel toeristen naar een kustplaats. Gevolgen voor de planeet: uitstoot, afval op het strand. Gevolgen voor de welvaart: inkomsten vanuit overnachtingen en restaurantbezoeken. \nGevolgen voor de mensen: soms spanningen tussen toeristen en vaste bewoners."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Aardrijkskundige vaardigheden, onderzoek en denken",
+    "subdomein": "Aardrijkskundig denken",
+    "colI": "Actiecompetentie",
+    "colJ": "De leerlingen kunnen in het kader van een specifieke duurzaamheidskwestie actiecompetent aan een duurzame wereld bijdragen.",
+    "colK": "In het leerlingenparlement voorstellen om op school zoveel mogelijk lokale producten te gebruiken."
+  }
+]

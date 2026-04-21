@@ -12,6 +12,16 @@ let rows = [];
 const DATA_FILES = {
   wiskunde: "./data.json",
   "nederlands-en-communicatie": "./data2.json",
+  aardrijkskunde: "./LP-aardr.json",
+  frans: "./LP-frans.json",
+  geschiedenis: "./LP-gesch.json",
+  ict: "./LP-ICT.json",
+  "leren-leren": "./LP-LeLe.json",
+  bewegingsopvoeding: "./LP-LO.json",
+  "muzische-vorming": "./LP-MUVO.json",
+  "rooms-katholieke-godsdienst": "./LP-RKG.json",
+  "veilige-en-gezonde-levensstijl": "./LP-V_G.json",
+  "wetenschap-en-techniek": "./LP-W_T.json",
 };
 
 function normalizeValue(value) {

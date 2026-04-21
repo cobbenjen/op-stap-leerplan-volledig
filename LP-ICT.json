@@ -1,0 +1,1354 @@
+[
+  {
+    "fase": "K3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de aangereikte mediamiddelen op de juiste wijze bedienen met inbegrip van: swipen, muisvaardigheden, toestel aan- en afzetten, selecteren, openen en sluiten van applicaties, venster minimaliseren, maximaliseren en sluiten…",
+    "colK": "Zelfstandig een tablet nemen, een boekjes-app openen en weten dat wanneer je een verhaal op de tablet wil bekijken, je moet swipen over het scherm om de pagina van het boek om te draaien."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de aangereikte mediamiddelen op de juiste wijze bedienen met inbegrip van: swipen, muisvaardigheden, toestel aan- en afzetten, selecteren, openen en sluiten van applicaties, venster minimaliseren, maximaliseren en sluiten…",
+    "colK": "Zelfstandig een toestel opstarten en een educatief spelletje openen, begrijpen dat je op een figuur moet klikken of tikken om het als spelfiguur te activeren."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de volgende begrippen gebruiken: digitaal, het internet.",
+    "colK": "Analoog = een knuffelbeer, Digitaal = De robot \nDeze zit in een computerspelletje in de tablet of de computer. Je kunt hem niet vastpakken, wel zien en ermee spelen op het scherm. Deze robot is gemaakt van onzichtbare code, een soort geheime taal van nullen en enen."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de volgende begrippen gebruiken: de hardware, de software, de invoer, de verwerking, de uitvoer, de opslag.",
+    "colK": "Begrijpen dat een tablet een bericht verwerkt: je typt iets (invoer), het toestel verwerkt dit en toont het bericht op het scherm (uitvoer)."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de volgende begrippen gebruiken: verzenden, ontvangen, offline, online.",
+    "colK": "Online: een nieuw onlinefilmpje of een nieuwe game zoeken (jouw toestel haalt de informatie via het internet op van een andere, verre computer). \nOffline: een boek lezen."
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de volgende begrippen gebruiken: digitaal, het internet, de hardware, de software, de invoer, de verwerking, de uitvoer, de opslag, verzenden, ontvangen, offline, online.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: samenhang tussen invoer, verwerking, uitvoer en opslag.",
+    "colK": "Je klikt op een icoon met de muis (invoer). De gebruiker klikt op start, het toestel start het spel op en het eerste level wordt getoond (verwerking). Het spel verschijnt op het scherm (uitvoer). Je vooruitgang wordt bewaard in het spel om later verder te spelen (opslag)."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: gegevensuitwisseling tussen digitale systemen.",
+    "colK": "Wanneer jij een bericht verstuurt via een berichtenapp, wisselen jouw telefoon en de telefoon van je vriend razendsnel de digitale tekstgegevens met elkaar uit via het internet."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: verbinding tussen systemen.",
+    "colK": "Via kabel, wifi of mobiel internet"
+  },
+  {
+    "fase": "L5.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: verwerking en opslag van gegevens op een andere locatie dan het eigen digitale apparaat.",
+    "colK": "Wanneer je in een gedeeld document typt, worden jouw letters via internet verstuurd, verwerkt op een centrale cloudserver en dan doorgestuurd zodat je klasgenoot ze ook onmiddellijk ziet."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen: de informatieverwerking, het netwerk, de verbinding.",
+    "colK": "De informatieverwerking is het proces waarbij de computer bijvoorbeeld na een klik op de app (invoer), door te rekenen met enen en nullen (verwerking), de app opstart (uitvoer) en dit eventueel opslaat voor later gebruik."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: samenhang tussen invoer, verwerking, uitvoer en opslag.",
+    "colK": "Wanneer je op de fotoknop drukt (invoer), meet de camera het licht en stelt scherp (verwerking), toont de foto op je scherm (uitvoer) en bewaart het digitale bestand in het geheugen (opslag). Vervolgens deel je het bestand met de ontvanger."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: gegevensuitwisseling tussen digitale systemen.",
+    "colK": "Wanneer je een foto op Instagram plaatst, stuurt jouw smartphone (digitaal systeem A) het fotobestand via het internet naar de servers van Instagram (digitaal systeem B), zodat je volgers de foto op hun eigen toestel kunnen zien."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: verbinding tussen systemen.",
+    "colK": "Via kabel, wifi of mobiel internet"
+  },
+  {
+    "fase": "L6.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: verwerking en opslag van gegevens op een andere locatie dan het eigen digitale apparaat.",
+    "colK": "Begrijpen dat bij online gamen meerdere spelers tegelijk in verbinding staan via het internet, zodat ze samen kunnen spelen en communiceren (realtime gegevensuitwisseling)."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen: de invoer, de uitvoer, de opslag.",
+    "colK": "Wanneer je een bericht typt via het toetsenbord (invoer), verschijnt de tekst op het scherm (uitvoer), waarna je op 'bewaren' klikt om het document op de harde schijf vast te leggen (opslag)."
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: samenhang tussen invoer, verwerking, uitvoer en opslag.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: gegevensuitwisseling tussen digitale systemen.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: verbinding tussen systemen.",
+    "colK": "via kabel, wifi of mobiel internet"
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen het proces van digitale informatieverwerking en begrijpen hoe digitale systemen met elkaar verbonden kunnen worden om te communiceren: verwerking en opslag van gegevens op een andere locatie dan het eigen digitale apparaat.",
+    "colK": "Leerlingen begrijpen dat een tablet een bericht verwerkt: je typt iets (invoer), het toestel verwerkt dit en toont het bericht op het scherm (uitvoer).  \nLeerlingen begrijpen dat bij online gamen meerdere spelers tegelijk in verbinding staan via het internet, zodat ze samen kunnen spelen en communiceren (realtime gegevensuitwisseling)."
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Inzicht in digitale systemen",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen: de invoer, de uitvoer, de opslag, de informatieverwerking, het netwerk, de verbinding.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een eenvoudig algoritme toepassen om een doel te bereiken.",
+    "colK": "Een algoritme is een stap-voor-stap plan dat jij of een computer volgt om een taak uit te voeren of een probleem op te lossen zoals bijvoorbeeld de instructies voor het tekenen van een figuur."
+  },
+  {
+    "fase": "K2.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een eenvoudig algoritme toepassen om een specifieke taak op te lossen of een doel te bereiken zoals bij een bouwplan of een recept.",
+    "colK": "Een algoritme is een stap-voor-stap plan of een nauwkeurig recept dat een computer of jij kunt volgen om een specifiek probleem op te lossen of een taak te voltooien zoals bijvoorbeeld de instructies voor een recept volgen."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: abstractie.",
+    "colK": "Abstractie betekent dat we alle kleine, onnodige details weglaten en ons enkel focussen op bijvoorbeeld de route van de Bee-Bot en niet op de details van de mat waar hij op rijdt."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: decompositie.",
+    "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen zoals wanneer leerlingen bijvoorbeeld zonder hulpmiddel voorwerpen seriëren van licht naar zwaar: je vergelijkt telkens de massa van twee voorwerpen door ze elk in één hand te nemen, tot je de lichtste gevonden hebt..."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: patroonherkenning.",
+    "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden. Zo weten de kinderen bijvoorbeeld dat na een nieuwe strofe het refrein volgt in het lied."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: algoritme.",
+    "colK": "Een algoritme is een stappenplan om een specifiek probleem op te lossen of een taak te volbrengen zoals wanneer de leerlingen een stappenplan volgen om bijvoorbeeld hun handen te wassen: eerst de kraan open, dan zeep nemen, goed wrijven, spoelen, de kraan sluiten en tenslotte de handen afdrogen."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: abstractie.",
+    "colK": "Abstractie betekent dat we alle onnodige details weglaten en alleen de belangrijkste informatie overhouden zoals bijvoorbeeld bij het leren lezen focussen op de letters en niet op de kleur van de inkt of de paginanummers."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: decompositie.",
+    "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen, zoals bijvoorbeeld een taart versieren: eerst de slagroom, dan de hagelslag en tot slot de kaarsjes."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: patroonherkenning.",
+    "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld ontdekken dat om een beebot in een vierkant te laten bewegen je vier keer na elkaar enkele stappen voorwaarts moet zetten, gevolgd door een kwartdraai."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: algoritme.",
+    "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld veters strikken: eerst kruisen, dan een lus maken, knopen en aantrekken."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: opbouw van algoritme: sequentie.",
+    "colK": "De essentie van sequentie is de volgorde waarin de stappen uitgevoerd moeten worden, zoals bijvoorbeeld het belang van het nemen van een boterham alvorens hem te besmeren."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: abstractie.",
+    "colK": "Abstractie betekent dat we alle kleine, onnodige details weglaten en alleen de belangrijkste informatie overhouden zoals bijvoorbeeld het tekenen van een auto met alleen de basisvorm en de wielen, zonder elk schroefje."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: decompositie.",
+    "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen, zoals bijvoorbeeld het opruimen in de klas waar iedereen een eigen rol of taak heeft."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: patroonherkenning.",
+    "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld het werken met herhalingen bij het programmeren van een robot in plaats van alle stappen afzonderlijk in te voeren."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: algoritme.",
+    "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld het volgen van een koekjesrecept om een lekker resultaat te krijgen."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: opbouw van algoritme: sequentie.",
+    "colK": "De essentie van sequentie is de volgorde waarin de stappen uitgevoerd moeten worden, zoals dat het bijvoorbeeld bij het veilig oversteken van de straat belangrijk is dat je eerst kijkt naar links en rechts en pas de straat oversteekt wanneer het veilig is."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: abstractie.",
+    "colK": "Abstractie betekent het weglaten van details zoals bijvoorbeeld bij een kaart van België waarbij enkel de hoofdwegen en steden getekend zijn en je geen huis of stoep kan zien omdat ze minder relevant zijn om de weg te vinden."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: decompositie.",
+    "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen, zoals bijvoorbeeld bij het bouwen van een blokkenbouwsel belangrijk is om eerst te focussen op de basislaag om zo de grootte en stabiliteit van het bouwsel vast te leggen."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: patroonherkenning.",
+    "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld het werken met herhalingen bij het programmeren van een robot in plaats van alle stappen afzonderlijk in te voeren."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: algoritme.",
+    "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld het stappenplan om in te loggen op de klascomputer: je moet eerst de gebruikersnaam typen, dan op 'enter' drukken, vervolgens het wachtwoord correct invoeren en dan nogmaals op ‘enter’ drukken."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: opbouw van algoritme: sequentie.",
+    "colK": "Sequentie betekent dat je de stappen voor een taak in de juiste volgorde moet zetten, want de ene stap komt altijd vóór de andere zoals je bijvoorbeeld om een estafette-race te winnen, de loopvolgorde moet aanhouden: eerst loopt de eerste loper, dan geeft hij het stokje door, en pas als laatste mag de volgende loper starten."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: het algoritme.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: abstractie.",
+    "colK": "Abstractie betekent dat we alle kleine, onnodige details weglaten en alleen de belangrijkste informatie overhouden zoals wanneer je bijvoorbeeld een fiets koopt, je alleen kijkt naar de belangrijkste eigenschappen (kleur, aantal versnellingen en wielen) en je details zoals de schroefjes en de bel onbelangrijk vindt om te beslissen welke fiets je wilt."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: decompositie.",
+    "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen zoals wanneer je bijvoorbeeld een digitale strip maakt, het werk verdeelt in het tekenen van de figuren, het schrijven van de tekstballonnen en het samenvoegen van de scènes in de juiste volgorde."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: patroonherkenning.",
+    "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld wanneer je de reeks 2, 4, 6, 8, 10 ziet, je weet dat er telkens 2 bijkomt, en je dan gemakkelijk de volgende getallen kan voorspellen."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: algoritme.",
+    "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld wanneer de leerlingen weten dat het invullen van een digitale quiz (lees de vraag, typ je antwoord, controleer of het juist is, ga naar de volgende vraag) een algoritme is dat je exact moet volgen."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: opbouw van algoritme: sequentie.",
+    "colK": "Sequentie betekent dat je de stappen voor een taak in de juiste volgorde moet zetten, want de ene stap komt altijd vóór de andere zoals wanneer je bijvoorbeeld een nieuwe vriend toevoegt aan een digitaal project, je de commando's in de juiste volgorde moet zetten: eerst op de plus-knop klikken, dan de naam van de vriend intypen, en pas als laatste op 'bevestigen' drukken."
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: het algoritme.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: de principes van computationeel denken: abstractie, decompositie, patroonherkenning, algoritme.",
+    "colK": "Abstractie: het focussen op wat belangrijk is en het weglaten van overbodige details Decompositie: het opdelen van een groot probleem in kleinere, hanteerbare delen Patroonherkenning: het zien van gelijkenissen en herhalingen in gegevens of opdrachten, bv. in reeksen, ritmes, bewegingen en programmeeropdrachten Algoritme: een expliciete reeks eenduidige instructies die stapsgewijs moet worden uitgevoerd, waarbij zowel de instructies als hun volgorde essentieel zijn om het gewenste resultaat te bereiken om zowel een niet-digitaal als digitaal probleem op te lossen."
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een lineair algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: opbouw van algoritme: sequentie.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: combinatie van sequentie, herhaling, keuze.",
+    "colK": "Om de finish te bereiken, moet het personage eerst beginnen met lopen (sequentie), blijven stappen zetten (herhaling), en kiezen (keuze) om naar links te gaan wanneer er een obstakel is."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: combinatie van sequentie, herhaling, keuze.",
+    "colK": "Om de robot door het doolhof te leiden, moet het programma eerst de beweging starten (sequentie), blijven controleren (herhaling) of er een muur is, en kiezen (keuze) om naar rechts te draaien als de weg rechtdoor geblokkeerd is."
+  },
+  {
+    "fase": null,
+    "domein": "Computationeel denken",
+    "subdomein": "Principes van computationeel denken",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding de principes van computationeel denken toepassen om een algoritme te ontwerpen, testen en debuggen om tot een werkende oplossing te komen: opbouw van algoritme: combinatie van sequentie, herhaling, keuze.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan experimenteren met het bedienen van een touchscreen.",
+    "colK": "Drukken en loslaten."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan zijn/haar blik richten op een digitaal scherm.",
+    "colK": "Kijken naar licht of beeld op een scherm."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan de aandacht gericht houden op zowel een visuele als auditieve prikkel op een scherm.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een eenvoudige beweging uitvoeren die een digitale reactie veroorzaakt.",
+    "colK": "Drukken op een knop waardoor geluid of beeld verschijnt."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een object op een scherm visueel volgen wanneer dit zich horizontaal van rechts naar links verplaatst.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een object op een scherm visueel volgen waneer dit zich verticaal van boven naar beneden verplaatst.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling verkent hulpmiddelen zoals een muis, knop of ander hulpmiddel dat de beweging van de cursor mogelijk maakt.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning een schakelaar indrukken of het touchscreen aanraken en terug loslaten.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan reageren op digitale prikkels in aanwezigheid van een volwassene.",
+    "colK": "Kijken, glimlachen of bewegen bij beeld of geluid."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning kijken naar digitale beelden.",
+    "colK": "Samen kijken naar een scherm."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan zijn/haar aandacht vasthouden op een scherm.",
+    "colK": "Korte tijd blijven kijken naar een bewegend beeld of licht."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan bewegingen op het scherm volgen.",
+    "colK": "Een bewegend object volgen."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een digitale actie laten onstaan door eigen handelen.",
+    "colK": "Tikken of klikken en zien dat er iets verandert."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning een voorkeur tonen binnen digitale activiteiten.",
+    "colK": "Herhaaldelijk op dezelfde app klikken. Het filmpje aanklikken dat hij/zij wil zien."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan gericht tikken op een touchscreen.",
+    "colK": "Een afbeelding of knop aantikken."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning een eenvoudige digitale handeling starten.",
+    "colK": "Met ondersteuning een app openen."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning een digitale activiteit uitvoeren.",
+    "colK": "Een touchscreen gebruiken om eenvoudige puzzels in elkaar te schuiven. Leraar helpt hem/haar blik te richten, op tijd los te laten."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan via een digitaal middel een eenvoudige boodschap uitdrukken.",
+    "colK": "Een foto of pictogram aanraken aan om een behoefte te tonen."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan aangepast hulpmiddelen inzetten om schrijfhandelingen mogelijk te maken.",
+    "colK": "Een aangepaste muis, toetsenbord of oogbesturing gebruiken."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een digitale activiteit zelfstandig starten.",
+    "colK": "Zelfstandig een app openen."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale handelingen zelfstandig uitvoeren.",
+    "colK": "Zelfstandig swipen, tikken of slepen."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen gebruiken om geschreven informatie toegankelijk te maken.",
+    "colK": "Tekst laten voorlezen of pictogrammen bekijken."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale middelen gebruiken om ideeën of boodschappen vast te leggen.",
+    "colK": "Typen, iets inspreken of symbolen selecteren."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen gebruiken om leren en onthouden te ondersteunen.",
+    "colK": "Stappenplannen, timer of leerapp gebruiken."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen gebruiken i.f.v. zelfredzaamheid.",
+    "colK": "Zelfstandig een specifieke app of programma gebruiken."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen inzetten om betekenis te geven aan symbolen of eenvoudige teksten.",
+    "colK": "Zelfstandig een pictogram aanraken en vervolgens een woord horen."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een technisch hulpmiddel gebruiken om geschreven informatie toegankelijk te maken.",
+    "colK": "Een tekst laten voorlezen, vergrote tekst of pictogrammen bekijken."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een technisch hulpmiddel gebruiken om ideeën of boodschappen vast te leggen.",
+    "colK": "Typen, inspreken of pictogrammen selecteren."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan aangepaste hulpmiddelen inzetten om schrijfhandelingen mogelijk te maken.",
+    "colK": "Een aangepaste muis, toetsenbord, oogbesturing of brailleregel gebruiken."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen gebruiken om met anderen te communiceren.",
+    "colK": "Eenvoudige berichten sturen en/of ontvangen."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen gebruiken ter ondersteuning van leren en onthouden.",
+    "colK": "Een visueel stappenplan of timer gebruiken."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen inzetten om zelfstandig te oefenen of te leren.",
+    "colK": "Zelfstandig met een leerapp werken."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerling kan een technisch hulpmiddel gebruiken om ideeën of boodschappen vast te leggen.",
+    "colK": "Typen, inspreken of visuele boodschappen selecteren."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een aangereikt apparaat functioneel gebruiken met inbegrip van enkele knoppen, lettertoetsen of pijltjestoetsen.",
+    "colK": "Weten hoe leerlingen naar een bepaalde app kunnen navigeren om een digitaal verhaal te bekijken en te beluisteren."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een aangereikt apparaat functioneel gebruiken met inbegrip van enkele knoppen, lettertoetsen of pijltjestoetsen.",
+    "colK": "Om de instructie van de juf te horen, sluit je de hoofdtelefoon (uitvoer) aan en klik je met de muis (invoer) op de afspeelknop."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aangereikte invoer- en uitvoerapparaten functioneel gebruiken met inbegrip van basisgebruik van een toetsenbord.",
+    "colK": "Je gebruikt het toetsenbord (invoer) om je naam te typen en de spatiebalk om een lege plek tussen je voornaam en familienaam op het scherm (uitvoer) te creëren."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: het bestand.",
+    "colK": "Een bestand: digitale informatie zoals tekst, beeld, geluid, video of programma die je kunt opslaan, openen of bewerken."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aangereikte invoer- en uitvoerapparaten functioneel gebruiken met inbegrip van basisgebruik van een toetsenbord.",
+    "colK": "Je gebruikt het toetsenbord (invoer) om een hoofdletter te typen door de shift-toets ingedrukt te houden in combinatie met de juiste letter zodat de juiste spelling op het scherm (uitvoer) verschijnt."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden gebruiken via de bestaande mappenstructuur van het systeem.",
+    "colK": "Hun opgeslagen document openen door in de bestaande mappenstructuur van de computer eerst naar de map 'Documenten' te navigeren en dan de submap 'Klas 3' te selecteren."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aangereikte invoer- en uitvoerapparaten functioneel gebruiken met inbegrip van basisgebruik van een toetsenbord.",
+    "colK": "Je gebruikt het toetsenbord om de antwoorden bij een quiz in te typen (invoer), klikt op het printicoon met de muis (invoer) en de printer (uitvoer) drukt dan je afgewerkte blad af om in te dienen."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden gebruiken via de bestaande mappenstructuur van het systeem.",
+    "colK": "Hun opgeslagen document openen door in de bestaande mappenstructuur van de computer eerst naar de map 'Documenten' te navigeren en dan de submap 'Klas 4' te selecteren."
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: het bestand.",
+    "colK": "Een bestand: digitale informatie zoals tekst, beeld, geluid, video of programma dat je kunt opslaan, openen of bewerken."
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aangereikte invoer- en uitvoerapparaten functioneel gebruiken met inbegrip van basisgebruik van een toetsenbord.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden gebruiken via de bestaande mappenstructuur van het systeem.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen doelgericht invoer- en uitvoerapparaten gebruiken en instellen met inbegrip van vlot gebruik van een toetsenbord.",
+    "colK": "Je gebruikt de muis of het touchpad om door de slides van je spreekbeurt te klikken (invoer), terwijl de beamer of touchscreen (uitvoer) de slides groot op het scherm projecteert voor de klas."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden openen, downloaden, opslaan, uploaden en sluiten.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden beheren via een aangereikte structuur.",
+    "colK": "Duidelijke bestandsnamen gebruiken, bestanden opslaan in de juiste map, verwijderen van overbodige of foute bestanden, aanmaken van mappen, hernoemen van mappen en bestanden, terughalen van verwijderde bestanden."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen eenvoudige systeeminstellingen aanpassen.",
+    "colK": "Taalinstellingen aanpassen, wifi aan/uit zetten, weergave-instellingen aanpassen."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen doelgericht invoer- en uitvoerapparaten gebruiken en instellen met inbegrip van vlot gebruik van een toetsenbord.",
+    "colK": "Je gebruikt de tabtoets op het toetsenbord (invoer) om tussen invoervelden in een online formulier te schakelen, waardoor je het formulier sneller en efficiënter invult."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden openen, downloaden, opslaan, uploaden en sluiten.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden beheren via een aangereikte structuur.",
+    "colK": "Duidelijke bestandsnamen gebruiken, bestanden opslaan in de juiste map, verwijderen van overbodige of foute bestanden, aanmaken van mappen, hernoemen van mappen en bestanden, terughalen van verwijderde bestanden."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen eenvoudige systeeminstellingen aanpassen.",
+    "colK": "Taalinstellingen aanpassen, wifi aan/uit zetten, weergave-instellingen aanpassen."
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen doelgericht invoer- en uitvoerapparaten gebruiken en instellen met inbegrip van vlot gebruik van een toetsenbord.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden openen, downloaden, opslaan, uploaden en sluiten.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen bestanden beheren via een aangereikte structuur.",
+    "colK": "Duidelijke bestandsnamen gebruiken, bestanden opslaan in de juiste map, verwijderen van overbodige of foute bestanden, aanmaken van mappen, hernoemen van mappen en bestanden, terughalen van verwijderde bestanden."
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Digitale geletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen eenvoudige systeeminstellingen aanpassen.",
+    "colK": "Taalinstellingen aanpassen, wifi aan/uit zetten, weergave-instellingen aanpassen."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen navigeren en zoeken binnen een afgebakende digitale toepassing.",
+    "colK": "In een digitale boekjesapp een boekje kiezen om te laten voorlezen."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen navigeren en zoeken binnen een afgebakende digitale toepassing.",
+    "colK": "In een digitaal leesboek navigeren naar het volgende hoofdstuk door op de knop 'verder' te drukken, en de juiste figuur zoeken door op de afbeelding van het personage te tikken."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen navigeren en zoeken binnen een afgebakende digitale toepassing.",
+    "colK": "In de leeromgeving navigeren van taaloefeningen naar wereldoriëntatie door op het juiste tabblad te klikken en een specifieke oefening te zoeken die de juf of meester heeft klaargezet."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen navigeren en zoeken binnen een afgebakende digitale toepassing.",
+    "colK": "In de digitale atlaskaart navigeren door in en uit te zoomen op de kaart, en een specifieke stad te zoeken door de naam in het zoekveld te typen en op 'Enter' te drukken."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: formuleren van zoekvraag.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: kiezen van zoektool.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: formuleren van zoekopdracht.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: beoordelen van zoekresultaten.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding een zoekstrategie uitwerken en toepassen vanuit de principes van computationeel denken.",
+    "colK": "De zoektermen 'België-hoofdsteden-bezienswaardigheden' in die volgorde (sequentie) gebruiken om de beste reisinformatie te vinden en de resultaten over andere landen uit (abstractie) te sluiten."
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: formuleren van zoekvraag.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: kiezen van zoektool.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: formuleren van zoekopdracht.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen zoekstrategieën om digitale bronnen te vinden en raadplegen: beoordelen van zoekresultaten.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen onder begeleiding een zoekstrategie uitwerken en toepassen vanuit de principes van computationeel denken.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een zoekstrategie uitwerken, toepassen en indien nodig bijsturen vanuit de principes van computationeel denken.",
+    "colK": "Voordat je op zoek gaat naar een afbeelding van een ijsbeer voor je werkstuk, bedenk je eerst de stappen (algoritme), en als je te veel resultaten krijgt, pas je je zoekwoorden onmiddellijk aan (debuggen)."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aan de hand van aangereikte criteria digitale bronnen beoordelen op bruikbaarheid, betrouwbaarheid en correctheid.",
+    "colK": "Een website over de Tweede Wereldoorlog op betrouwbaarheid beoordelen door te controleren of de auteur een historicus is, op bruikbaarheid door te kijken of de informatie eenvoudig te vinden is, en op correctheid door de feiten te vergelijken met andere bronnen."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: de artificiële intelligentie.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een zoekstrategie uitwerken, toepassen en indien nodig bijsturen vanuit de principes van computationeel denken.",
+    "colK": "Om een grote spreekbeurt over de Romeinen voor te bereiden, verdeel je het onderzoek in kleinere onderdelen (decompositie) en zoek je voor elk deel afzonderlijk de nodige informatie."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aan de hand van aangereikte criteria digitale bronnen beoordelen op bruikbaarheid, betrouwbaarheid en correctheid.",
+    "colK": "Een nieuwsartikel over het klimaat op bruikbaarheid beoordelen door te onderzoeken of het voldoende details bevat, op betrouwbaarheid door te zien of de bron recent is, en op correctheid door te controleren of de cijfers niet overdreven zijn."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen voorbeelden geven van toepassingen waarin AI gebruikt wordt.",
+    "colK": "Spraakherkenning, vertaaltools, aanbevelingssysteem"
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: de artificiële intelligentie.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een zoekstrategie uitwerken, toepassen en indien nodig bijsturen vanuit de principes van computationeel denken.",
+    "colK": "Een eenvoudige en effectieve prompt formuleren in een door de school beschikbaar gestelde AI-tool om content/informatie te verkrijgen."
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aan de hand van aangereikte criteria digitale bronnen beoordelen op bruikbaarheid, betrouwbaarheid en correctheid.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Digitale informatieveiligheid",
+    "subdomein": "Informatiegeletterdheid",
+    "colI": null,
+    "colJ": "De leerlingen kunnen voorbeelden geven van toepassingen waarin AI gebruikt wordt.",
+    "colK": "Spraakherkenning, vertaaltools, aanbevelingssysteem."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning afspraken maken over digitaal gebruik.",
+    "colK": "Voorzichtig omgaan met apparaten."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen het begrip account en weten dat ze veilig met hun account en wachtwoord moeten omgaan.",
+    "colK": "Je account is als jouw digitale kluis in de app waar je wachtwoord de geheime sleutel is die je niet hardop mag zeggen zodat alleen jij erin kan."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen veilig omgaan met de accounts die ze krijgen.",
+    "colK": "Een geheim wachtwoord in de app typen en dit aan niemand anders vertellen dan aan de leerkracht, zodat niemand zijn werk kan veranderen."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: de persoonlijke gegevens.",
+    "colK": "Je naam, je woonplaats, en je telefoonnummer zijn persoonlijke gegevens die je niet zomaar online deelt omdat ze alleen van jou zijn."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen het volgende begrip: de online privacy.",
+    "colK": "Je online privacy bescherm je door in een spelletje een schuilnaam te gebruiken, zodat vreemden op het internet niet weten wie je echt bent."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen: de online privacy, de persoonlijke gegevens, de/het account.",
+    "colK": "Online privacy: zelf kiezen welke informatie je deelt en met wie persoonlijke gegevens: zaken zoals naam, adres, geboortedatum, telefoonnummer of school account: digitale toegang om in te loggen op een leerplatform, website of spel, vaak met een gebruikersnaam, wachtwoord en/of code."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: wat iemand zelf maakt, zoals een tekst, foto of video, mag niet zomaar door anderen gebruikt of gekopieerd worden.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: iemand mag niet gefotografeerd of gefilmd worden zonder goedkeuring van die persoon.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: een foto of video waarop iemand herkenbaar afgebeeld staat mag enkel gepubliceerd of gedeeld worden als die persoon toestemming geeft.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen mogelijkheden om zichzelf en anderen online te beschermen.",
+    "colK": "Een sterk wachtwoord kiezen, weten met wie je omgaat, weten bij wie je terechtkunt voor hulp."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen: het auteursrecht, het portretrecht, de online veiligheid, het nepnieuws.",
+    "colK": "Auteursrecht: bescherming van eigen creaties \nPortretrecht: recht op afbeelding \nOnline veiligheid: verantwoord gedrag om jezelf en anderen te beschermen op het internet. \nNepnieuws: informatie die bewust fout of verzonnen is om mensen te misleiden."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: wat iemand zelf maakt, zoals een tekst, foto of video, mag niet zomaar door anderen gebruikt of gekopieerd worden.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: iemand mag niet gefotografeerd of gefilmd worden zonder goedkeuring van die persoon.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: een foto of video waarop iemand herkenbaar afgebeeld staat mag enkel gepubliceerd of gedeeld worden als die persoon toestemming geeft.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen mogelijkheden om zichzelf en anderen online te beschermen.",
+    "colK": "Een sterk wachtwoord kiezen, weten met wie je omgaat, weten bij wie je terechtkunt voor hulp."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: ethische aspecten.",
+    "colK": "Berichten of screenshots bekijken en herkennen wanneer iemand wordt buitengesloten, gepest of gekwetst."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: sociale aspecten.",
+    "colK": "Herkennen hoe bedrijven leerlingen proberen te beïnvloeden via online reclame, spelletjes of influencers."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: regelgevende aspecten.",
+    "colK": "Cookies herkennen als het gevolg van de privacywet."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: gezondheidsaspecten.",
+    "colK": "Situaties herkennen waarin veel schermtijd leidt tot vermoeidheid of afleiding."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: veiligheidsaspecten.",
+    "colK": "Digitale media maken het makkelijker om snel te communiceren, maar hierdoor moet je extra goed opletten dat je geen persoonlijke informatie deelt met onbekenden om zo je online veiligheid te garanderen."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen de volgende begrippen: het auteursrecht, het portretrecht, de online veiligheid, het nepnieuws.",
+    "colK": "Auteursrecht: bescherming van eigen creaties portretrecht: recht op afbeelding Online veiligheid: verantwoord gedrag om jezelf en anderen te beschermen op het internet Nepnieuws: informatie die bewust fout of verzonnen is om mensen te misleiden."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: wat iemand zelf maakt, zoals een tekst, foto of video, mag niet zomaar door anderen gebruikt of gekopieerd worden.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: iemand mag niet gefotografeerd of gefilmd worden zonder goedkeuring van die persoon.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen basisprincipes van auteursrecht en portretrecht: een foto of video waarop iemand herkenbaar afgebeeld staat mag enkel gepubliceerd of gedeeld worden als die persoon toestemming geeft.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kennen mogelijkheden om zichzelf en anderen online te beschermen.",
+    "colK": "Een sterk wachtwoord kiezen, weten met wie je omgaat, weten bij wie je terechtkunt voor hulp."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: ethische aspecten.",
+    "colK": "Berichten of screenshots bekijken en herkennen wanneer iemand wordt buitengesloten, gepest of gekwetst."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: sociale aspecten.",
+    "colK": "Herkennen hoe bedrijven leerlingen proberen te beïnvloeden via online reclame, spelletjes of influencers."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: regelgevende aspecten.",
+    "colK": "Cookies herkennen als het gevolg van de privacywet."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: gezondheidsaspecten.",
+    "colK": "Situaties herkennen waarin veel schermtijd leidt tot vermoeidheid of afleiding."
+  },
+  {
+    "fase": null,
+    "domein": "Mediawijsheid",
+    "subdomein": "Auteurs- en portretrecht",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de impact van digitale media op hun eigen leefwereld en die van anderen illustreren waaronder: veiligheidsaspecten.",
+    "colK": null
+  },
+  {
+    "fase": "F4.",
+    "domein": "Digitale creatie",
+    "subdomein": "Communiceren",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen gebruiken om met anderen te communiceren.",
+    "colK": "Apps en/of programma's gebruiken voor mensen die moeite hebben met spreken, waarmee ze kunnen communiceren via symbolen, tekst of spraakgeneratie op apparaten zoals tablets en computers."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Digitale creatie",
+    "subdomein": "Communiceren",
+    "colI": null,
+    "colJ": "De leerling kan digitale hulpmiddelen gebruiken om met anderen te communiceren.",
+    "colK": "Eenvoudige berichten sturen en/of ontvangen. De spraakknop gebruiken om berichten in te spreken, omdat typen door beperking moeilijk is."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Digitale creatie",
+    "subdomein": "Communiceren",
+    "colI": null,
+    "colJ": "De leerlingen kennen mogelijkheden van digitale tools om te communiceren.",
+    "colK": "Verschillende digitale tools kennen en e-mail gebruiken om een officieel bericht naar de leerkracht te sturen, terwijl ze chat-apps gebruiken voor snelle vragen aan medeleerlingen."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Digitale creatie",
+    "subdomein": "Communiceren",
+    "colI": null,
+    "colJ": "De leerlingen kennen mogelijkheden van digitale tools om te communiceren.",
+    "colK": "Een online samenwerkingstool gebruiken om in real-time aan dezelfde presentatie te werken en spraakberichten sturen om snel hun ideeën uit te wisselen."
+  },
+  {
+    "fase": null,
+    "domein": "Digitale creatie",
+    "subdomein": "Communiceren",
+    "colI": null,
+    "colJ": "De leerlingen kennen mogelijkheden van digitale tools om te communiceren.",
+    "colK": "Berichten, e-mail, chat, reacties of videogesprekken"
+  }
+]

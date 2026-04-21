@@ -1,0 +1,2026 @@
+[
+  {
+    "fase": "F3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerling weet dat hij zich niet alleen op straat mag begeven.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen kunnen het voetpad herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Wegmarkeringen",
+    "colJ": "De leerlingen kunnen het zebrapad herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat men niet mag spelen op of bij de (openbare) weg.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat het verplicht is om een gordel te dragen in de auto en in de bus.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kunnen verkeerslichten herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kunnen verkeersborden herkennen aan vorm en kleur.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen weten dat de vorm en kleur van een verkeersbord een bepaald gedrag vraagt.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat men als voetganger op het voetpad of de berm moet blijven en langs de huizenkant moet stappen.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Wegmarkeringen",
+    "colJ": "De leerlingen kennen de betekenis van het zebrapad.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kennen de betekenis van verkeerslichten voor voetgangers en fietsers.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kunnen het stopbord B5 herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat men op het voetpad en de verhoogde berm mag fietsen tot 10 jaar.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten hoe men goed moet kijken bij het oversteken.",
+    "colK": "Stop eerst aan de rand van de weg.Kijk links, dan rechts, en nog eens links voordat je echt oversteekt."
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": null,
+    "colJ": "De kleuters kennen de betekenis van volgende verkeersregels, afspraken en signalen:\n·\tzebrapad;\n·\tverkeerslichten voor voetgangers en fietsers;\n·\tstoppen bij een stopbord;\n·\tniet spelen op of bij de straat;\n·\tals voetganger op het voetpad of de berm blijven en langs de huizenkant stappen;\n·\top het voetpad en de verhoogde berm fietsen tot 10 jaar;\n·\tgoed kijken bij het oversteken.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kennen de betekenis van auditieve signalen van fietsbel, claxon.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kennen de betekenis van bel- en lichtsignalen van hulpdiensten waaronder brandweer, ambulance, politie.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gebodsborden waaronder D1, D7, D10, D11.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van verbodsborden waaronder C3, C11, C19.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kunnen het bord B5 benoemen: stopbord.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Wegmarkeringen",
+    "colJ": "De leerlingen kunnen de stopstreep herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kennen de betekenis van auditieve signalen waaronder bel, tram.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kennen de betekenis van handgebaren van een gemachtigd opzichter.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten hoe men veilig moet oversteken als er geen voorzieningen zijn.",
+    "colK": "Kies een overzichtelijke plek en stop aan de rand van de weg. Kijk goed links – rechts – links en controleer of er verkeer aankomt en hoe snel het rijdt. Maak oogcontact met bestuurders en steek in één keer recht over."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gebodsborden waaronder D1, D7, D10, D11.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van verbodsborden waaronder C3, C11, C19.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Wegmarkeringen",
+    "colJ": "De leerlingen kunnen het fietspad, de fietssuggestiestrook, de parkeerstrook en de bushalte herkennen.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kennen de betekenis van fluitsignaal en armgebaren van een politieagent.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Signalen en verkeerslichten",
+    "colJ": "De leerlingen kennen de betekenis van waarschuwingssignalen op een spoorwegovergang waaronder knipperende rode lichten en een belgeluid.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gevaarsborden waaronder A31 en A33.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van voorrangsborden waaronder B5.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van aanwijsborden waaronder F49, F50.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat men op het fietspad rechts in de rijrichting of het voetpad moet fietsen (tot 10 jaar).",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gevaarsborden waaronder A31 en A33.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van voorrangsborden waaronder B5.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van aanwijsborden waaronder F49, F50.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": null,
+    "colI": null,
+    "colJ": "De leerlingen kennen de betekenis van volgende verkeersregels en signalen:\n●\thoe veilig oversteken als er geen voorzieningen zijn;\n●\tfietsen op het fietspad rechts in de rijrichting of het voetpad;\n●\tauditieve signalen: fietsbel, bel, tram, claxon;\n●\tfluitsignaal en armgebaren van een politieagent;\n●\thandgebaren van een gemachtigd opzichter;\n●\tbel- en lichtsignalen van hulpdiensten (brandweer, ambulance, politie);\n●\twaarschuwingssignalen op een spoorwegovergang: knipperende rode lichten en een belgeluid;\n●\tgevaarsborden waaronder A31 en A33;\n●\tvoorrangsborden waaronder B5;\n●\tgebodsborden waaronder D1, D7, D10, D11;\n●\tverbodsborden waaronder C3, C11, C19;\n●\taanwijsborden waaronder F49, F50.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen kennen de verplichte minimale fietsuitrusting waaronder een bel, twee goed functionerende remmen, reflectoren.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": null,
+    "colI": null,
+    "colJ": "De leerlingen kennen de verplichte minimale fietsuitrusting.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen kennen de betekenis van de algemene voorrangsregel ‘voorrang van rechts'.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Wegmarkeringen",
+    "colJ": "De leerlingen kennen de betekenis van de stopstreep.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gevaarsborden waaronder A21, A41, A47.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van voorrangsborden waaronder B1, B9, B11, B15a, B17, B19, B21.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gebodsborden waaronder D1a, D1b, D5.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van verbodsborden waaronder C1, C31b.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van aanwijsborden waaronder F14, F45, F111, F113.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van onderborden betreffende fietsen en bromfietsen waaronder M2, M5bis.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat voetgangers op het zebrapad voorrang hebben.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat passagiers van een bus of tram voorrang hebben bij het uit- of instappen.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "De openbare weg",
+    "colJ": "De leerlingen weten dat een bus die de bushalte verlaat, voorrang heeft.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Wegmarkeringen",
+    "colJ": "De leerlingen kennen de betekenis van haaientanden, fietsoversteekplaats, fietsopstelvak.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gevaarsborden waaronder A21, A41, A47.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van voorrangsborden waaronder B1, B9, B11, B15a, B17, B19, B21.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van gebodsborden waaronder D1a, D1b, D5.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van verbodsborden waaronder C1, C31b.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van volgende aanwijsborden waaronder F14, F45, F111, F113.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Verkeersregels",
+    "colI": "Verkeersborden",
+    "colJ": "De leerlingen kennen de betekenis van onderborden betreffende fietsen en bromfietsen waaronder M2, M5bis.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": null,
+    "colI": null,
+    "colJ": "De leerlingen kennen de betekenis van volgende verkeersregels en signalen:\n●\tvoetgangers op het zebrapad hebben voorrang;\n●\tpassagiers van een bus of tram hebben bij het uit- of instappen voorrang;\n●\teen bus, die de bushalte verlaat, heeft voorrang;\n●\tde algemene voorrangsregel ‘voorrang van rechts’;\n●\tde wegmarkeringen: stopstreep, haaientanden, fietsoversteekplaats, fietsopstelvlak;\n●\tgevaarsborden waaronder A21, A41, A47;\n●\tvoorrangsborden waaronder B1, B9, B11, B15a, B17, B19, B21;\n●\tgebodsborden waaronder D1a, D1b, D5;\n●\tverbodsborden waaronder C1, C31b;\n●\taanwijsborden waaronder F14, F45, F111, F113;\n●\tonderborden betreffende fietsen en bromfietsen waaronder M2, M5bis.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerling kan zich samen met een volwassene verplaatsen in de omgeving.",
+    "colK": null
+  },
+  {
+    "fase": "F3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerling kan eenvoudige verkeersroutines imiteren.",
+    "colK": "Een geel hesje dragen, de leerlingen worden begeleid door een begeleider/leraar of oudere leerling waarbij ze de leraar imiteren die wacht aan het zebrapad, rustig wandelt langs de kant van de huizen…"
+  },
+  {
+    "fase": "F3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerling verkent onder begeleiding de verkeersomgeving van de school.",
+    "colK": "Ze merken geluiden op, zien auto's of fietsers, zebrapad, voetpadrand, sporen van tram of trein… en duwen op het knopje van het verkeerslicht. De leraar geeft er betekenis aan."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerling begrijpt het belang van het dragen van ene fluohesje op uitstap.",
+    "colK": null
+  },
+  {
+    "fase": "F3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerling kan taal aan de zintuiglijke verkeersprikkels in de schoolomgeving koppelen.",
+    "colK": "Herhalen, imiteren en modelen van woordenschat om zich met onderersteuning uit te drukken over ervaringen in het verkeer."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerling kan met ondersteuning eenvoudige veiligheidsroutines uitvoeren.",
+    "colK": "Via modeling, herhaling, duidelijke begrenzing: wachten om over te steken, samen kijken. Beperkte subgroep per begeleider, geel hesje dragen."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerling ervaart verschil tussen veilige en onveilige plekken.",
+    "colK": "In het park of de schooltuin komen geen auto's en bussen, op straat, busparking wel."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Passagier",
+    "colJ": "De leerling kent de busafspraken.",
+    "colK": "zoals gordel dragen, niet rechtstaan, anderen niet storen, de instructies van de busbegeleider opvolgen."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Passagier",
+    "colJ": "De leerling kan met ondersteuning veilig de bus verlaten.",
+    "colK": "zoals  instructies opvolgen, niet duwen, niet plots oversteken"
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kennen het belang van een veilige voetgangersuitrusting: fluorescerende kledij.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kennen het belang van een veilige fietsuitrusting: fluorescerende kledij, fietshelm.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": null,
+    "colI": null,
+    "colJ": "De kleuters kennen het belang van een veilige voetgangers- of fietsuitrusting: fluorescerende kledij en fietshelm.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen onder begeleiding veilig oversteken op een zebrapad.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Passagier",
+    "colJ": "De leerlingen kunnen als passagier veilig verkeersgedrag toepassen onder begeleiding.",
+    "colK": "Een gordel dragen, de bus veilig verlaten tijdens een busevacuatie."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen zich als voetganger op de openbare weg onder begeleiding verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen als voetganger veilig verkeersgedrag  toepassen onder begeleiding.",
+    "colK": "Stoppen aan de stoeprand, bij de groep aansluiten, afstand houden van grote voertuigen, communiceren via oogcontact en lichaamstaal, opvallende kledij dragen."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen weten dat ze als voetganger niet altijd zichtbaar zijn voor bestuurders van voertuigen.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Passagier",
+    "colJ": "De leerlingen kunnen als passagier veilig verkeersgedrag toepassen onder begeleiding.",
+    "colK": "Een bestuurder niet afleiden door storend gedrag, in- en uitstappen aan de veilige kant van de auto (huizenkant)."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen zich als voetganger op de openbare weg onder begeleiding verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen als voetganger veilig verkeersgedrag toepassen onder begeleiding.",
+    "colK": "Stappen op een voetpad, voorbij een hindernis stappen langs de huizenkant als het voetpad deels versperd is, zichzelf zichtbaar maken voor bestuurders van grote voertuigen."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen zich als voetganger op de openbare weg onder begeleiding verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen als voetganger veilig verkeersgedrag toepassen onder begeleiding.",
+    "colK": "Zichzelf en anderen niet in gevaar brengen, een veilige plaats kiezen op het voetpad als er een groot voertuig op de rijbaan staat."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen als fietser in een beschermde omgeving veilig verkeersgedrag toepassen.",
+    "colK": "Omkijken over de linkerschouder, arm uitsteken, rekening houden met anderen, afleiding vermijden."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen zich als voetganger op de openbare weg onder begeleiding verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen zich als fietser op de openbare weg onder begeleiding verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen als voetganger veilig verkeersgedrag toepassen onder begeleiding.",
+    "colK": "Oversteken op een weg met en zonder voorzieningen, oversteken op een rustig kruispunt met en zonder voorzieningen, langs een hindernis stappen die het voetpad volledig verspert, oogcontact maken met een bestuurder die wil afslaan en wachten op bevestiging van de bestuurder vooraleer over te steken."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen als fietser veilig verkeersgedrag toepassen onder begeleiding.",
+    "colK": "Fietsen tot aan het zebrapad, afstappen en te voet oversteken. Controleren of de fiets in orde is."
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": null,
+    "colI": null,
+    "colJ": "De leerlingen kunnen zich als voetganger en fietser op de openbare weg onder begeleiding verplaatsen en de verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen als voetganger anticiperen op risicovolle situaties in het verkeer: de dode hoek.",
+    "colK": "Op een afstand blijven staan, oogcontact maken met de chauffeur en pas oversteken wanneer de vrachtwagen volledig is weggereden."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen als voetganger anticiperen op risicovolle situaties in het verkeer: voorrangsregels voor de tram en de bus.",
+    "colK": "Op het trottoir blijven staan, goed kijken of de tram die in aantocht is stopt en en pas oversteken wanneer de tram volledig is gepasseerd."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen als voetganger anticiperen op risicovolle situaties in het verkeer: voorrangsregels voor de hulpdiensten.",
+    "colK": "Wachten met oversteken totdat een ambulance met zwaailcht en sirene veilig voorbij is."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen als fietser anticiperen op risicovolle situaties in het verkeer: de dode hoek.",
+    "colK": "Vertragen, achter de vrachtwagen blijven en pas verder rechtdoor fietsen op het kruispunt wanneer de vrachtwagen is afgeslagen."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen als fietser anticiperen op risicovolle situaties in het verkeer: voorrangsregels voor de tram en de bus.",
+    "colK": "Kijken of de bus het knipperlicht aanzet om te vertrekken, vertragen, de bus eerst laten invoegen en pas verder fietsen wanneer het veilig is."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen als fietser anticiperen op risicovolle situaties in het verkeer: voorrangsregels voor de hulpdiensten.",
+    "colK": "Wachten met oversteken totdat een politiewagen met zwaailcht en sirene veilig voorbij is."
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": null,
+    "colI": null,
+    "colJ": "De leerlingen kunnen als voetganger en fietser anticiperen op risicovolle situaties in het verkeer:\n●\tde dode hoek;\n●\tvoorrangsregels voor de tram en de bus;\n●\tvoorrangsregels voor de hulpdiensten.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kennen het belang van een veilige voetgangersuitrusting: geen koptelefoon dragen.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kennen het belang van een veilige fietsuitrusting: geen koptelefoon dragen.",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Verkeer",
+    "subdomein": null,
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van een veilige voetgangers- of fietsuitrusting: geen koptelefoon dragen.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen zich als voetganger op de openbare weg verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen zich als fietser op de openbare weg onder begeleiding verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen als fietser veilig verkeersgedrag toepassen onder begeleiding.",
+    "colK": "Links en rechts afslaan, langs een hindernis rijden."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Voetganger",
+    "colJ": "De leerlingen kunnen zich als voetganger op de openbare weg verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen zich als fietser op de openbare weg verplaatsen en de aangeleerde verkeersregels en signalisaties naleven.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Verkeer",
+    "subdomein": "Veilige verplaatsingen",
+    "colI": "Fietser",
+    "colJ": "De leerlingen kunnen als fietser veilig verkeersgedrag toepassen.",
+    "colK": "Rekening houden met andere weggebruikers, fietsen in groep, zichzelf en anderen niet in gevaar brengen,  achter een groot voertuig blijven, anticiperen op mogelijke afleidingen van andere weggebruikers."
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerling bouwt vertrouwdheid op met de smaak van verschillende soorten etenswaren.",
+    "colK": "proeven, kennis maken - niet forceren - lang herhalen van dezelfde smaak"
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerling verkent verschillende soorten fruit en groenten.",
+    "colK": "smaak, geur, uitzicht, tast"
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerling legt het verband tussen wat ze proeven, tasten, zien en de soort etenswaren.",
+    "colK": "geschilde peer, het stuk fruit en het woord/picto..."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning taal koppelen aan verschillende gezonde etenswaren.",
+    "colK": "via modeling, imitatie, herhaling mondelinge taal of onderstenende of alternatieve communictaievormen betekenis geven aan ervaring of etenswaar."
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: het fruit.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verschillende soorten fruit benoemen.",
+    "colK": "appel, banaan, appelsien, kiwi, druiven…"
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verschillende soorten fruit proeven en beschrijven.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: het brood.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de dranken.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verschillende soorten dranken benoemen.",
+    "colK": "water, melk, fruitsap, appelsiensap"
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de groenten.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verschillende soorten groenten benoemen.",
+    "colK": "wortel, komkommer, pompoen…"
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verschillende soorten groenten proeven en beschrijven.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de aardappelen.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: het ei.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de kaas.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de vis.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: het vlees.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de melkproducten.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verschillende soorten melkproducten benoemen.",
+    "colK": "de melk, de yoghurt, de pudding, de kaas, de platte kaas, de boter, de room"
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de graanproducten.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de noten.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een onderscheid maken tussen gezonde en minder gezonde voedingsmiddelen.",
+    "colK": "Een appel is gezond terwijl een snoepreep niet gezond is."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen met behulp van de voedingsdriehoek voedingsmiddelen identificeren die goed zijn voor de gezondheid.",
+    "colK": "Groenten en fruit"
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen met behulp van de voedingsdriehoek voedingsmiddelen identificeren die minder gezond zijn.",
+    "colK": "Rood vlees"
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het begrip: de zaden.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen het begrip: de peulvruchten.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen de begrippen: de oliën en de vetten.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen de begrippen: plantaardig, dierlijk.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen de begrippen: melk en alternatieven.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": "Begrippen",
+    "colJ": "De leerlingen kennen de begrippen: zoet, zuur, zout, bitter, umami.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de vijf basissmaken herkennen en benoemen door te proeven.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verwoorden waarom gezonde voeding nodig is om te groeien en om actief te zijn.",
+    "colK": "Ik heb voldoende fruit, groenten en vlees nodig om actief te kunnen zijn."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verwoorden waarom voldoende water drinken doorheen de dag belangrijk is.",
+    "colK": null
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen weten met behulp van de voedingsdriehoek welke voedingsmiddelen ze best zoveel mogelijk - minder - zo weinig mogelijk eten.",
+    "colK": "Verwoorden dat groenten, fruit, volkoren producten, peulvruchten, noten best meer worden gegeten. Verwoorden dat vlees (vooral rood vlees) en boter best minder gegeten worden. Verwoorden dat frisdrank, alcohol, fastfood, charcuterie, snoep en koeken best zo weinig mogelijk gegeten worden."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van gezonde voeding.",
+    "colK": "Gezonde voeding zorgt ervoor dat we gezond kunnen leven, ik ervaar meer energie, betere concentratie en humeur , ik krijg sterkere botten en spieren, ik heb minder kans op ziektes, ik heb een goed gewicht, goede ontwikkeling en groei."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Gezonde voeding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van gezonde voeding.",
+    "colK": null
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling kan meewerken aan verzorgings- en toiletmomenten.",
+    "colK": "Door het ervaren van veiligheid en voorspelbaarheid."
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling bouwt vertrouwen op met de aanrakingen die binnen de verzorgingscontext gebeuren.",
+    "colK": "routine, voorspelbaar maken van aanrakingen door afspraken binnen team, bv. eerst contact maken dan pas pamper losmaken..."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling anticipeert op elementen uit de verzorgingsroutine.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling verkent verzorgingsmateriaal.",
+    "colK": "Kort vasthouden, doelgericht naar reiken, tasten, met de mond verkennen, zoals nat washandje , tandenborstel, zakdoek."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling ervaart comfort na verschonen.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling kan eenvoudige handelingen imiteren tijdens verzorgingsmomenten.",
+    "colK": "Mond openen bij poetsen, hand uitsteken bij wassen."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling kan met ondersteuning verzorgingsmateriaal juist gebruiken.",
+    "colK": "Kam, tandenborstel, zakdoek"
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling kan onbehagen bij vuile pamper of broek aangeven.",
+    "colK": "Via ondersteunende communictaie, woord, gebaar"
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling gebruikt met ondersteuning potje of toilet.",
+    "colK": "Nabijheid leraar - visuele of tactiele steun - zich met een toiletrolletje naar de verzorgingsruimte begeven, het rolletje  in puzzelen en toiletroutine uitvoeren."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling kan deelhandelingen bij het naar toilet gaan uitvoeren.",
+    "colK": "Broek naar beneden duwen nadat leraar 'broek' zegt, op toilet gaan zitten nadat hand op hulpbeugel wordt gelegd, doorspoelen na wijzen van de leraar."
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen aandrang om te plassen herkennen en uiten.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen verzorgingshandelingen uitvoeren in dagelijkse routines.",
+    "colK": "Onder begeleiding neus snuiten, handen wassen."
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen met begeleiding toiletbezoek uitvoeren in dagelijkse routines.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kennen de basis hygiëneregels zoals doorspoelen na toiletbezoek.",
+    "colK": null
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kennen de basis hygiëneregels zoals handen wassen na toiletbezoek.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen verzorgingshandelingen en toiletbezoek uitvoeren in dagelijkse routines.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen hun handen wassen en neus snuiten.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen basis hygiëneregels als toiletpapier gebruiken en doorspoelen na toiletbezoek uitvoeren.",
+    "colK": null
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen zelfstandig broek/kledij aan- en uitdoen bij het toiletbezoek.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen zelfstandig toiletpapier correct gebruiken, doorspoelen en handen wassen bij toiletbezoek.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen privacy en beurt respecteren.",
+    "colK": "Deur sluiten, wachten."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen het toilet netjes achterlaten.",
+    "colK": "Bril naar beneden, doorspoelen, deur dicht."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerlingen kunnen basishygiëneregels zoals hand voor de mond houden bij hoesten en niezen, toepassen in klascontext.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De kleuters kunnen basis hygiëneregels uitvoeren.",
+    "colK": "Tandenpoetsen en handen wassen."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De kleuters kunnen basis hygiëneregels uitvoeren.",
+    "colK": null
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling kan volledig zelfstandig en sociaal aangepast omgaan met persoonlijke hygiëne.",
+    "colK": null
+  },
+  {
+    "fase": "F6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling kan verzorgingsmateriaal gebruiken bij menstruatie.",
+    "colK": null
+  },
+  {
+    "fase": "F6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling weet dat persoonlijke hygiëne verandert in de puberteit.",
+    "colK": "Verantwoordelijkheid opnemen voor persoonlijke verzorging (checklist/routine). Gezondheid en welbevinden koppelen aan hygiëne (oorzaak-gevolg begrijpen). Inzien dat naarmate het lichaam ontwikkelt, bijkomende lichaamshygiëne nodig is."
+  },
+  {
+    "fase": "F6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Hygiëne en zindelijkheid",
+    "colJ": "De leerling neemt verantwoordelijkheid over hun persoonlijke hygiëne.",
+    "colK": null
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerling kan meewerken aan omkleedroutines.",
+    "colK": "Aanraking en beweging tijdens aankleden verdragen. Armen of benen uitstrekken als leraar er op tikt."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerling bouwt vertrouwdheid op met omkleedroutines.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerling anticipeert op elementen uit de omkleedroutine.",
+    "colK": "Leraar toont jas, leerling steekt arm omhoog."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerling kan eenvoudige handelingen imiteren bij aan- en uitkleden.",
+    "colK": "Handen en voeten aanbieden bij kledij aan- of uittrekken. Hoofd door halsopening steken met hulp. Eenvoudige kledingstukken losmaken: muts, schoenen. Verschil ervaren tussen vuile en propere kledij."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerling kan deelhandelingen van aan- en uitkleden uitvoeren in functionele situaties.",
+    "colK": "Zelf kledingstukken uittrekken: jas, schoenen, trui. Enkele kledingstukken aantrekken met hulp: broek, t-shirt. Sluitingen verkennen: rits, knoop, velcro. Eenvoudige routines leren: jas aan de kapstok, vuile kledij in wasmand."
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerlingen kunnen eenvoudige handelingen uitvoeren in functie van aan- en uitkleden.",
+    "colK": "Jas aandoen, sluitingen hanteren."
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerlingen kunnen eenvoudige handelingen uitvoeren in functie van aan- en uitkleden.",
+    "colK": "Jas aandoen, sluitingen hanteren."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerlingen kunnen zich zelfstandig aan- en uitkleden in functionele situaties.",
+    "colK": "Zelfstandig jas en schoenen aan- en uittrekken. Broek en t-shirt aantrekken zonder hulp. Sluitingen met toenemende vaardigheid hanteren: rits, velcro, drukknopen. Kledij opvouwen of wegleggen met hulp."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerlingen kunnen zelfstandig sportkledij wisselen in groep.",
+    "colK": "Volledig zelfstandig aan- en uitkleden met correcte volgorde. Verschillende sluitingen zelfstandig hanteren: knopen, rits, veters. (Coherentie naar kleine motoriek)"
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerlingen kunnen zelfstandig sportkledij wisselen in groep.",
+    "colK": "Volledig zelfstandig aan- en uitkleden met correcte volgorde. Verschillende sluitingen zelfstandig hanteren: knopen, rits, veters. (Coherentie naar kleine motoriek)"
+  },
+  {
+    "fase": "L3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerlingen kunnen zelfstandig sportkledij wisselen in groep.",
+    "colK": "Volledig zelfstandig aan- en uitkleden met correcte volgorde. Verschillende sluitingen zelfstandig hanteren: knopen, rits, veters. (Coherentie naar kleine motoriek)"
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Aan- en uitkleden",
+    "colJ": "De leerling kan zorg dragen voor eigen kledij.",
+    "colK": null
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan meewerken aan eetroutines.",
+    "colK": null
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan honger en verzadiging tonen.",
+    "colK": null
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling eet (half)vaste voeding tijdens functionele eetmomenten.",
+    "colK": "Via fles of aangepaste beker, vaste voeding en lepelvoeding"
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan eenvoudige handelingen imiteren tijdens functionele eetmomenten in de klas.",
+    "colK": "aangereikte lepel naar mond brengen. Drinken uit beker met teut. Zelf stukjes brood of koek naar de mond brengen. Zitten aan tafel tijdens maaltijd. Enkele tafelregels begrijpen: geen eten gooien, wachten."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan eenvoudige deelhandelingen uitvoeren bij het eten en drinken.",
+    "colK": null
+  },
+  {
+    "fase": "F4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan zelfstandig eten en drinken tijdens functionele eetmomenten.",
+    "colK": "Lepel en vork gebruiken. Drinken zonder morsen. Beleefdheidsvormen gebruiken: dank je, smakelijk. Zich houden aan tafelregels: zitten blijven, beurt afwachten. Opruimen na maaltijd."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan samen een maaltijd nuttigen met aandacht voor basis hygiëne- en tafelregels.",
+    "colK": "Vork en lepel juist gebruiken, mes bij brood of zachte voeding. Servet gebruiken, handen wassen voor en na eten. Samen eten volgens afgesproken regels van tafelcultuur. Anderen helpen en bedienen."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan gedragsregels volgen bij school- of groepsmaaltijden.",
+    "colK": "Samen eten volgens de schoolafspraken. Anderen helpen en bedienen."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Hygiëne en persoonlijke redzaamheid",
+    "colI": "Eten en drinken",
+    "colJ": "De leerling kan deelname aan tafelgesprek en sociale omgangsvormen respecteren.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Opruimen",
+    "colJ": "De leerling kan meewerken aan opruimen van een speelbox.",
+    "colK": "Een voorwerp dat de volwassene aangeeft, in een box leggen. Een voorwerp aangeven aan een volwassene tijdens opruimen."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Opruimen",
+    "colJ": "De leerling kan opruimacties imiteren.",
+    "colK": "Imiteren van oprapen van blokken, verzamelen van voorwerpen in een kast, matchen van voorwerp en plaats in een rek door foto aangegeven."
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Opruimen",
+    "colJ": "De leerlingen kunnen opruimopdrachten uitvoeren.",
+    "colK": "Met hulp speelgoed of materiaal op vaste plaats terugleggen. Eenvoudige opruimtaak uitvoeren (blokjes in doos, boek in kast). Inzien dat opruimen hoort bij afronden van spel. Weten dat materiaal een vaste plaats heeft. Met ondersteuning afval sorteren in schoolcontainers."
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Opruimen",
+    "colJ": "De leerlingen kunnen zelfstandig materiaal terugbrengen naar een vaste plaats en eenvoudige opruimroutines volgen.",
+    "colK": "Zelfstandig eigen materiaal op vaste plaats leggen. Meedoen met klasopruimroutines: stoelen op tafel, speelgoed in kast. Beginnen begrijpen dat speelgoed niet overal mag blijven liggen."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Opruimen",
+    "colJ": "De leerlingen kunnen de basisafspraken van opruimen in de klas uitvoeren.",
+    "colK": null
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Opruimen",
+    "colJ": "De leerling neemt verantwoordelijkheid op voor het opruimen van materiaal.",
+    "colK": "Eigen materiaal verzorgen en in goede staat houden. Verantwoordelijkheid nemen bij opruimtaak  taak per beurtrol. Afval sorteren volgens de afspraken."
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling bouwt vertrouwdheid op met materialen die gebruikt worden voor huishoudelijke taken.",
+    "colK": "Reageren op verschillende tactiele prikkels: water, schuim, zeepsop, texturen als stofdoek, spons, borstel, servet. Reageren op verschillende geuren van  wasproducten, zeep. Voorwerpen kort vasthouden of loslaten."
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling verkent het gebruik van huishoudelijke materialen.",
+    "colK": "Samen met de leraar over de tafel wrijven met een vod, vegen met een veegbostel, handdoeken plooien."
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling kan met ondersteuning deelvaardigheden van huishoudelijke taken uitvoeren.",
+    "colK": "Een doek op tafel leggen met begeleiding."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling kan deelvaardigheden van huishoudelijke taken uitvoeren.",
+    "colK": "Eenvoudige deelvaardigheden: voorwerpen op tafel zetten; placemats neerleggen bij het dekken van de tafel; tafel deken met hulpmiddel zoals een placemat met contouren van een bord, glas, lepel; meehelpen bij plooien van wasgoed zoals handdoeken, poppenkleedjes."
+  },
+  {
+    "fase": "F4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling kent basismateriaal voor huishoudelijke taken.",
+    "colK": "Woordenschat: doek, spons, borstel, tafel, bord, servet, was opvouwen, vegen"
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling kan zelfstandig huishoudelijke (deel)handelingen uitvoeren en verantwoordelijkheid nemen.",
+    "colK": "Zelfstandig kledingstukken plooien en stapelen. Zelfstandig tafel volledig dekken en afruimen. Zelfstandig een oppervlak stofvrij maken. Meehelpen bij afwassen en afdrogen."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling kent basisafspraken bij huishoudelijke taken.",
+    "colK": "Kennen van regels als materiaal na gebruik opruimen, voorzichtig zijn met messen. Inzien dat huishoudelijke taken bijdragen aan een nette en veilige leefomgeving."
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Opruimen en huishoudelijke taken",
+    "colI": "Huishoudelijke taken",
+    "colJ": "De leerling kan samenwerken om huishoudelijke taken te organiseren, af te werken en te evalueren.",
+    "colK": "Samen werkafspraken maken over de opdrachten op de takenlijst. Verantwoordelijkheid nemen over de eigen taken. Samenwerken om  stof op een vuilblik te vegen. Met ondersteuning van de leraar reflecteren over de afwerking van de taken en het proces van samenwerken."
+  },
+  {
+    "fase": "F1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": "medicatie",
+    "colJ": "De leerling bouwt vertrouwdheid op met de routines in functie van toedienen van (voorgeschreven) medicatie.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": "medicatie",
+    "colJ": "De leerling participeert aan de routine in functie van het toedienen van medicatie.",
+    "colK": "Houdt samen met de leraar beker water vast"
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": "medicatie",
+    "colJ": "De leerling volgt met ondersteuning de routine bij het innemen van zijn/haar (dagelijkse) medicatie.",
+    "colK": null
+  },
+  {
+    "fase": "F5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": "medicatie",
+    "colJ": "De leerling volgt de richtlijnen van een volwassenen bij het innemen van medicatie.",
+    "colK": null
+  },
+  {
+    "fase": "F2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerling ervaart grenzen die volwassenen stellen in functie van hun veiligheid.",
+    "colK": "afblijven van giftige planten, wat niet eetbaar is niet in de mond steken"
+  },
+  {
+    "fase": "F3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerling kan met ondersteuning taal en betekenis geven aan grenzen die volwassenen stellen in functie van hun veiligheid.",
+    "colK": "mag/mag niet - stop of afblijven gevaarlijk"
+  },
+  {
+    "fase": "JK.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de hulp inroepen van een volwassene bij een probleem.",
+    "colK": "De beker met water is omgevallen en de leerling roept om hulp."
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een probleem beschrijven aan een volwassene.",
+    "colK": "Kind zegt tegen de leraar dat iemand gevallen is op de speelplaats en pijn heeft."
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen het verschil tussen een niet-ernstige gebeurtenis en een noodsituatie.",
+    "colK": "Kind is gevallen en heeft een open wonde met veel bloed versus kind is gevallen en heeft gewoon pijn zonder open wonde."
+  },
+  {
+    "fase": "K2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen noodsituaties herkennen.",
+    "colK": "Kind is gevallen of gewond geraakt, iemand is flauw gevallen."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De kleuters weten dat ze in een noodsituatie meteen een volwassene moeten verwittigen.",
+    "colK": "Juf is gevallen in de klas en bloedt aan de arm, leerlingen gaan om andere juf in andere klas."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De kleuters weten dat ze in een noodsituatie meteen een volwassene moeten verwittigen.",
+    "colK": null
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen herkennen de cijfercombinatie 112 op een kaart of blad met noodnummers.",
+    "colK": "In de klas hangen de noodnummers uit, de leerlingen herkennen de cijfercombinatie."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen aangeven in welke noodsituaties het noodnummer gebruikt kan worden.",
+    "colK": "Als het brandt dan bel je naar 112, als er een ongeval is voorgevallen op straat dan bel je naar 112."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen in een gesimuleerde situatie het noodnummer indrukken en hun naam zeggen en de locatie meedelen.",
+    "colK": "Met een dummytelefoon het noodnummer indrukken en voor- en familienaam en de adres zeggen."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen in een gesimuleerde situatie een noodoproep uitvoeren en de juiste meldingen doen.",
+    "colK": "Met een dummytelefoon het noodnummer indrukken, voor en familienaam doorgeven, adres zeggen, melding doen van de noodsituatie."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen het noodnummer 112.*",
+    "colK": null
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen het noodnummer 112.",
+    "colK": null
+  },
+  {
+    "fase": "L4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen stap voor stap beschrijven wat ze moeten doen bij het bellen van het noodnummer 112.",
+    "colK": "Rustig blijven, locatie zeggen (straatnaam + huisnummer) omschrijven wat er is voorgevallen, welke zorgen al werden toegediend)."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een noodoproep uitvoeren in een gesimuleerde situatie.",
+    "colK": "In een gesimuleerde situatie de noodoproep uitvoeren en alle nodige meldingen doen."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een noodoproep uitvoeren in een gesimuleerde situatie.",
+    "colK": null
+  },
+  {
+    "fase": "L5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen voorbeelden van genotsmiddelen geven.",
+    "colK": "Koffie, alcohol, tabak, energiedrank, vape, drugs…"
+  },
+  {
+    "fase": "L5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de invloed van genotsmiddelen op hun gedragingen beschrijven.",
+    "colK": "Teveel koffie maakt me zenuwachtig, teveel alcohol zorgt dat je dronken kan worden, roken/ vapen is slecht voor je gezondheid, drugs maakt dat je je anders zal gedragen."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen enkele gevarenpictogrammen van materialen en substanties.",
+    "colK": "Zoals ontvlambaar (vlam symbool), schadelijk/irriterend (uitroepteken), corrosief (vloeistof op hand + oppervlak aantast), giftig (doodshoofd), milieugevaarlijk (dode boom en vis)"
+  },
+  {
+    "fase": "L5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen gevarenpictogrammen van materialen en substanties naleven.",
+    "colK": "Op de etiketten van producten en materialen de pictogrammen kunnen lezen en naleven."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen veiligheidsvoorschriften herkennen en beschrijven.",
+    "colK": "In de gangen lopen we niet, klasregels en afspraken volgen wanneer gevaarlijke materialen gebruikt worden zoals bijvoorbeeld in de techniekles."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen de gevaren van genotsmiddelen.",
+    "colK": "Alcohol laat je hersenen trager werken, roken en vapen kan je longen beschadigen, energiedranken kunnen je hartkloppingen geven."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen de gevaren van genotsmiddelen",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen de voordelen van medicatie.",
+    "colK": "Pijnstillend, krampwerend, verzachtende zalf, ontsmettende spray, sommige medicijnen zijn levensreddend zoals insuline als ik hoofdpijn heb neem ik een pijnstiller en dan zal mijn hoofdpijn na een tijdje verminderen."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen de nadelen van medicatie.",
+    "colK": "Sommige medicatie heeft bijwerkingen die last kunnen veroorzaken in de darmen, de ledematen, het hoofd, teveel pijnstillers kunnen maagpijn veroorzaken, sommige medicijnen veroorzaken jeuk of huiduitslag."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kennen de voor- en nadelen van medicatie.",
+    "colK": null
+  },
+  {
+    "fase": "L6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen veiligheidsvoorschriften van materialen en substanties naleven.",
+    "colK": "Draag een veiligheidsbril bij een proefje met azijn en bakpoeder, draag handschoenen bij het gebruik van een lijmpistool."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Veiligheid en eerste hulp",
+    "colI": null,
+    "colJ": "De leerlingen kunnen gevarenpictogrammen van materialen en substanties en veiligheidsvoorschriften naleven.",
+    "colK": null
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen ervaren dat bewegen hen blij maakt.",
+    "colK": "Als we dansen en bewegen op muziek dan vinden we dit leuk."
+  },
+  {
+    "fase": "K3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen herkennen correcte lichaamshoudingen tijdens het zitten, staan, bewegen, heffen en dragen.",
+    "colK": "Als we in de kring zitten dan zitten we op de bank of stoel, met de rug recht tegen de leuning.  Als ik recht sta dan sta ik op mijn beide voeten. Als ik iets moet dragen dan neem ik dit dicht bij mij."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen zich uitdrukken over hun ervaringen met bewegen.",
+    "colK": "Als ik beweeg tijdens het sporten dan maakt me dit sterker en gezonder."
+  },
+  {
+    "fase": "L1.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen een goede zithouding aannemen.",
+    "colK": "Rug tegen de rugleuning, zitvlak op de stoel, benen in 90°"
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen weten dat dagelijkse beweging helpt om gezond te blijven.",
+    "colK": "Elke dag wandelen is goed voor je spieren, lichaam en geest."
+  },
+  {
+    "fase": "L2.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verwoorden waarom een correcte lichaamshouding van belang is.",
+    "colK": "Als ik rechtop zit met twee voeten op de grond, kan ik me beter focussen op de les."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen begrijpen dat bewegen invloed heeft op gezondheid en fitheid.",
+    "colK": "Als ik elke dag wandel dan ben ik fitter en gezonder."
+  },
+  {
+    "fase": "L3.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen de eigen lichaamshouding zelfstandig corrigeren.",
+    "colK": "De correcte houding aannemen om deel te nemen aan de les."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van voldoende beweging.*",
+    "colK": "Beschrijven dat bewegen goed is voor hoofd, hart en lichaam."
+  },
+  {
+    "fase": "L4.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van een correcte lichaamshouding.*",
+    "colK": "Beschrijven dat een correcte lichaamshouding latere problemen kan voorkomen."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van voldoende beweging.*",
+    "colK": "Beschrijven dat bewegen goed is voor hoofd, hart en lichaam."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het belang van een correcte lichaamshouding.*",
+    "colK": "Beschrijven dat een correcte lichaamshouding latere problemen kan voorkomen."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verwoorden wat het effect is van bewegen op mentaal welbevinden.",
+    "colK": "Bewegen zorgt voor rust in het hoofd en meer focus na het bewegen."
+  },
+  {
+    "fase": "L5.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kunnen verwoorden wat het effect is van bewegen op hun fysieke gezondheid.",
+    "colK": "Sporten zorgt ervoor dat ik sterkere spieren, een gezonde hartslag en een betere conditie heb."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het effect van bewegen op mentaal welbevinden.",
+    "colK": "Het verband beschrijven tussen bewegen en concentratie."
+  },
+  {
+    "fase": "L6.",
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het effect van bewegen op hun fysieke gezondheid.",
+    "colK": "Beschrijven hoe bewegen invloed heeft op het functioneren van hart en longen."
+  },
+  {
+    "fase": null,
+    "domein": "Gezondheid en redzaamheid",
+    "subdomein": "Beweging en lichaamshouding",
+    "colI": null,
+    "colJ": "De leerlingen kennen het effect van bewegen op gezondheid en mentaal welbevinden.*",
+    "colK": null
+  }
+]
