@@ -79,35 +79,39 @@
 
         <div class="mt-4 rounded-xl border border-slate-200 bg-slate-50 p-4">
           <p class="text-sm font-medium text-slate-700">Selecteer Cluster(s)</p>
-          <div id="clusterFilterGroup" class="mt-2 flex flex-col gap-2 text-sm text-slate-700">
-            <label class="inline-flex items-center gap-2">
-              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="G" checked />
-              <span>G: Gemeenschappelijke doelen</span>
-            </label>
-            <label class="inline-flex items-center gap-2">
-              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="MD" checked />
-              <span>MD: Minimum doelen</span>
-            </label>
-            <label class="inline-flex items-center gap-2">
-              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="P" checked />
-              <span>P: Persoonsgebonden doelen</span>
-            </label>
-            <label class="inline-flex items-center gap-2">
-              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="+" checked />
-              <span>+: Uitbreidingsdoelen</span>
-            </label>
-            <label class="inline-flex items-center gap-2">
-              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="S" checked />
-              <span>S: Leerroute structuur</span>
-            </label>
-            <label class="inline-flex items-center gap-2">
-              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="Z" checked />
-              <span>Z: Leerroute Zorg</span>
-            </label>
-            <label class="inline-flex items-center gap-2">
-              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="A" checked />
-              <span>A: Leerroute Aanpassingen</span>
-            </label>
+          <div id="clusterFilterGroup" class="mt-2 grid grid-cols-1 gap-3 text-sm text-slate-700 md:grid-cols-2">
+            <div class="flex flex-col gap-2">
+              <label class="inline-flex items-center gap-2">
+                <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="G" checked />
+                <span>G: Gemeenschappelijke doelen</span>
+              </label>
+              <label class="inline-flex items-center gap-2">
+                <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="MD" checked />
+                <span>MD: Minimum doelen</span>
+              </label>
+              <label class="inline-flex items-center gap-2">
+                <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="P" checked />
+                <span>P: Persoonsgebonden doelen</span>
+              </label>
+              <label class="inline-flex items-center gap-2">
+                <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="+" checked />
+                <span>+: Uitbreidingsdoelen</span>
+              </label>
+            </div>
+            <div class="flex flex-col gap-2">
+              <label class="inline-flex items-center gap-2">
+                <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="S" checked />
+                <span>S: Leerroute structuur</span>
+              </label>
+              <label class="inline-flex items-center gap-2">
+                <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="Z" checked />
+                <span>Z: Leerroute Zorg</span>
+              </label>
+              <label class="inline-flex items-center gap-2">
+                <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="A" checked />
+                <span>A: Leerroute Aanpassingen</span>
+              </label>
+            </div>
           </div>
         </div>
 
