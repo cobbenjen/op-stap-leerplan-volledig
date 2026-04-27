@@ -1,5 +1,6 @@
 [
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -8,6 +9,7 @@
     "colK": "Kijkt op bij verschijnen van een gezicht of object, reageert bij terugkomen van een vertrouwde volwassene, volgt met de ogen een object dat kort verdwijnt en terugkomt, toont anticipatie bij herhaald kiekeboe-spel."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -16,6 +18,7 @@
     "colK": "Reikt naar een deels bedekt object, verplaatst hoofd of hand om een voorwerp opnieuw te zien, reageert wanneer een deel van een zichtbaar object onder een doek verdwijnt."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -24,6 +27,7 @@
     "colK": "Haalt een doek weg om een object te vinden, kruipt of loopt naar de plaats waar iemand verdween, blijft zoeken wanneer het object niet meteen zichtbaar is."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -32,6 +36,7 @@
     "colK": "Gaat een gekend object halen zonder visuele aanwijzing, wijst of gebaart naar iets dat er niet is, wacht of vraagt naar een afwezige persoon."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -40,6 +45,7 @@
     "colK": "Activiteit tiktak: anticiperen op een muziekje of herkenbare routine, wachten tot een object opnieuw verschijnt."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -48,6 +54,7 @@
     "colK": "Zoeken naar een object dat niet zichtbaar is: halen van de jas in de gang op vraag."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -56,6 +63,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -64,6 +72,7 @@
     "colK": "Opgeruimde voorwerpen zijn niet zichtbaar, de extra begeleider tijdens snackmoment verlaat de klas na het snackmoment."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -72,6 +81,7 @@
     "colK": "Vertelt dat hij naar het bos is geweest na het legen van zakken met gevonden blaadjes, legt prenten in de juiste volgorde om te tonen wat er eerst en daarna gebeurde."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -80,6 +90,7 @@
     "colK": "Speelt een recente gebeurtenis na in de poppenhoek."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -88,6 +99,7 @@
     "colK": "Wacht aan de deur omdat hij weet dat er nog iemand komt, neemt automatisch een jas wanneer het buiten koud is of wanneer de routine dit vraagt, kiest ander materiaal omdat het vorige niet werkte, past tempo of aanpak aan op basis van eerdere ervaringen (voorzichtiger werken), start een handeling omdat hij verwacht wat de volgende stap zal zijn."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -96,6 +108,7 @@
     "colK": "Gaat na een pauze spontaan verder met een puzzel of bouwsel, neemt opnieuw de juiste rol of handeling op in een spel na onderbreking, haalt materiaal dat nodig is om een activiteit af te maken die eerder gestart was, gaat terug zitten op de plek waar het spel eerder stopte, toont via handelen dat hij weet 'waar we gebleven waren' zonder extra aanwijzing."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -104,6 +117,7 @@
     "colK": "Reageert op geluiden, lichtjes... van het activitycenter in de buurt van eigen armen en benen."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -112,6 +126,7 @@
     "colK": "Herhaald bewegen om het activitycenter te activeren: opnieuw schudden van rammelaar voor geluid."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -120,6 +135,7 @@
     "colK": "Drukt op knop om muziek te starten, trekt aan koordje om speelgoed te laten bewegen."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -128,6 +144,7 @@
     "colK": "Probeert harder/zachter drukken, wisselt handelingen om effect te veranderen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -136,6 +153,7 @@
     "colK": "Als-dan-relaties verkennen: duwt bal zodat die rolt, kantelt beker en merkt dat inhoud eruit gaat. \nManipuleren van voorwerpen: open-toe draaien, in-uit."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -144,6 +162,7 @@
     "colK": "Als de bel gaat, dan ik stop met spelen."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -152,6 +171,7 @@
     "colK": "Speelt situaties na met duidelijke oorzaak-gevolg, vertelt waarom iets gebeurt."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -160,6 +180,7 @@
     "colK": "Begrijpt volgorde van handelingen, voert opeenvolgende stappen uit om gewenst resultaat te bereiken."
   },
   {
+    "colA": "S",
     "fase": "F6.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -168,6 +189,7 @@
     "colK": "Bedenkt aanpak vooraf, ordent boekentas op basis van wanneer hij het materiaal de volgende dag nodig heeft."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -176,6 +198,7 @@
     "colK": "Spelen, eten, drank, hond"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -184,6 +207,7 @@
     "colK": "Spelen, eten, drank, hond"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -192,6 +216,7 @@
     "colK": "Turnen kan je met een bal, je kan ook klimmen en klauteren, je kan ook gewichten heffen en naar de overkant dragen..."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -200,6 +225,7 @@
     "colK": "Een labrador is een hond, een poedel is ook een hond, er zijn veel verschilledne honden."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -208,6 +234,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -216,6 +243,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Cognitieve vaardigheden",
@@ -224,6 +252,7 @@
     "colK": "Hond"
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -232,6 +261,7 @@
     "colK": "Vaste plaats aan tafel of verzorgingsplek, herkenbare decoratie of geur in snoezelruimte. Herkenbare grenzen: dit is mijn plekje aan tafel door vaste placemat."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -240,6 +270,7 @@
     "colK": "Nieuw speelgoed of meubilair wordt toegevoegd zonder dat het kind gedesoriënteerd raakt."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -248,6 +279,7 @@
     "colK": "De badkamer wordt snoezelbadkamer door toevoeging geur, dempen licht."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -256,6 +288,7 @@
     "colK": "Begeleider zegt of toont met gebaar ‘naar buiten’, ‘naar eetruimte’, inpuzzelen van voorwerpen of matchen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -264,6 +297,7 @@
     "colK": "Speelruimte wordt eetruimte door tafellaken op tafel."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -272,6 +306,7 @@
     "colK": "Wordt rustiger bij vaste rustmomenten, toont slaperigheid of ontspanning bij rustroutine, reageert herkenbaar op einde van het rustmoment-ritueel (licht, muziek, begroeting), heeft minder ontregeling wanneer rust- en activiteitsmomenten consequent worden aangeboden."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -280,6 +315,7 @@
     "colK": "Vaste volgorde van verzorging, voeding, rustmoment."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -288,6 +324,7 @@
     "colK": "Handjes wassen → eten → afdrogen: begeleider benoemt stappen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -296,6 +333,7 @@
     "colK": "Van spel naar eten, van eten naar rust: overgang wordt ondersteund met liedje of gebaar."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -304,6 +342,7 @@
     "colK": "Activiteit valt weg of wordt verplaatst: kind zoekt steun, maar hervindt rust."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -312,6 +351,7 @@
     "colK": "Na signaal ruimt kind op en gaat naar volgende activiteit."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -320,6 +360,7 @@
     "colK": "Kalmeert bij stem of aanraking, ontspant bij vaste verzorger, herkent vertrouwde nabijheid."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -328,6 +369,7 @@
     "colK": "Blijft in activiteit terwijl nieuwe begeleider meekijkt, zoekt nabijheid van vertrouwde volwassene zonder escalatie."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -336,6 +378,7 @@
     "colK": "Blijft spelen terwijl begeleiders wisselen, kijkt kort naar nieuwe persoon en hervat activiteit."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -344,6 +387,7 @@
     "colK": "Rolt bal samen, kijkt, imiteert of volgt handeling van nieuwe begeleider terwijl vertrouwde nabij is."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -352,6 +396,7 @@
     "colK": "Aanvaardt wissel na aankondiging, gebruikt overgangsobject, blijft in ruimte zonder ontregeling."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -360,6 +405,7 @@
     "colK": "Aanvaardt andere begeleider bij routine, toont minder weerstand bij onverwachte wissel."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -368,6 +414,7 @@
     "colK": "Zoekt dagschema, vraagt nabijheid, benoemt of toont 'andere juf of meester'."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -376,6 +423,7 @@
     "colK": "Aanvaardt dat andere begeleider helpt bij verzorging of activiteit, volgt instructie van nieuwe persoon."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -384,6 +432,7 @@
     "colK": "Werkt samen met verschillende leerkrachten, volgt instructies van onbekendere volwassene."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -392,6 +441,7 @@
     "colK": "Zegt of toont 'andere juf doet anders', past gedrag aan zonder escalatie."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -400,6 +450,7 @@
     "colK": "Verzorging verloopt telkens op dezelfde manier."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -408,6 +459,7 @@
     "colK": "Liedje bij start of einde activiteit, opbergdoos sluiten."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -416,6 +468,7 @@
     "colK": "Begeleider benoemt verandering (‘nieuw speelgoed’, ‘ander boek’), begeleider blijft in de buurt wanneer de leerling het nieuwe aanbod verkent."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -424,6 +477,7 @@
     "colK": "Reageert rustiger bij vaste volgorde van handelingen, ontspant bij herkenbare stem, aanraking of lied, toont minder stress bij herhaling van dezelfde routine."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -432,6 +486,7 @@
     "colK": "Begeleider benoemt 'nieuw speelgoed'. Leerling kijkt, voelt, verkent of zoekt contact, pauzeert bij verandering in handeling."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -440,6 +495,7 @@
     "colK": "Maakt overgang tussen ruimtes of personen, wisselt materiaal binnen activiteit, volgt overgang met lied, pictogram of object."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -448,6 +504,7 @@
     "colK": "Stopt na signaal 'nu opruimen', schakelt met hulp naar nieuwe activiteit, gebruikt overgangsobject, aftelversje of pictogram."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -456,6 +513,7 @@
     "colK": "Probeert opnieuw bij mislukken, bouwt toren anders na vallen, begeleider modelt 'andere manier' zonder druk."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -464,6 +522,7 @@
     "colK": "Probeert puzzelstuk op meerdere manieren, toont minder frustratie, blijft bij activiteit met ondersteuning."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -472,6 +531,7 @@
     "colK": "Kijkt naar dagschema, kiest rustplek, vraagt nabijheid van leraar, gebruikt afgesproken copingstrategie."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -480,6 +540,7 @@
     "colK": "Probeert alternatief na mislukking, vraagt hulp, verandert manier van stapelen, tekenen of sorteren."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -488,6 +549,7 @@
     "colK": "Accepteert andere werkwijze van klasgenoot, volgt aangepaste spelregel, benoemt 'dat is anders' zonder escalatie."
   },
   {
+    "colA": "S",
     "fase": "F6.",
     "domein": "Leerfundamenten",
     "subdomein": "Flexibiliteit",
@@ -496,6 +558,7 @@
     "colK": "Past strategie aan na feedback, verandert plan na klassengesprek, verwoordt met hulp wat anders kan."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -504,6 +567,7 @@
     "colK": "Door vaste volgorde van de routine ontstaat er herkenbaarheid en vertrouwdheid. De leerling verzet zich minder tegen de nieuwe routine door het opbouwen van zintuigelijke herkenning in het hier en nu."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -512,6 +576,7 @@
     "colK": "Steekt hand uit wanneer hij wordt aangeraakt, hoort belletje en kijkt naar microgolf."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -520,6 +585,7 @@
     "colK": "Lacht/spant op bij startlied, zoekt beker bij ‘drinken’-cue, wordt onrustig bij onderbreking van vaste volgorde."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -528,6 +594,7 @@
     "colK": "Fysiek begeleid, op afstand voordoen, modeling = de leraar geeft taal (verbaal, visueel, klanken, tactiele prikkels) aan de stappen."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -536,6 +603,7 @@
     "colK": "Eerst placemats leggen, dan borden op placemat zetten op getekende grotere ronde, beker op kleine ronde, dan vork of lepel matchen op hun vorm op placemat.  Eéndoostaak: nemen voorwerp, in juiste vormpot matchen en daar loslaten."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -544,6 +612,7 @@
     "colK": "Deelvaardigheid binnen een stappenplan uitvoeren zoals een broek naar beneden duwen bij het aan- en uitkleden of toiletmoment, leraar wacht tot stap is uitgevoerd en doet dan de rest van de routine terug samen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -552,6 +621,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -560,6 +630,7 @@
     "colK": "Kiest materiaal, bepaalt volgorde, voert stap voor stap uit."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -568,6 +639,7 @@
     "colK": "Volgt pictogram , tactieke cue of korte verbale instructie ‘wachten’, ‘stop’, begrijpt wat hij moet doen door organisatorische aanwijzingen bij ééndoostaak."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -576,6 +648,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -584,6 +657,7 @@
     "colK": "\"Geef maar aan mij.\" - \"Kom bij mij.\""
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -592,6 +666,7 @@
     "colK": "Aangepaste (werk-)omgeving zoals het matchen van pictogrammen, werkdozen die na elkaar gemaakt moeten worden, eindige speel- of werktaken en aansluitend overgang maken naar dagschema ."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -600,6 +675,7 @@
     "colK": "Aangeleerde werkdozen, herhalende routines, korte, duidelijke instructie met ondersteunende communicatie, visuele of tactiele organisatorische hulpmiddelen"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -608,6 +684,7 @@
     "colK": "Boekentas leegmaken in de juiste bakken in de klas."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -616,6 +693,7 @@
     "colK": "\"Haal je jas.\" - \"Boekentas leeg maken.\" Leraar gebruikt ondersteunende communicatie indien nodig."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -624,6 +702,7 @@
     "colK": "Past eerst–dan toe, volgt vaste stappen bij aankleden."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerfundamenten",
     "subdomein": "Taakgerichtheid",
@@ -632,6 +711,7 @@
     "colK": "Heeft minder hulp nodig, voert handeling sneller of nauwkeuriger uit."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -640,6 +720,7 @@
     "colK": "Merkt nieuw spelmateriaal op."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -648,6 +729,7 @@
     "colK": "Herkent de sensorische prikkels uit een belevingsverhaal, staat er meer voor open/alerter, volgt de prikkel, langere aandacht."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -656,6 +738,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -664,6 +747,7 @@
     "colK": "Reageert op stem boven achtergrondgeluid, volgt lichtpunt, kiest voorkeursobject tussen twee aangeboden objecten."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -672,6 +756,7 @@
     "colK": "De leraar begeleidt het verkennen met alle zintuigen van het thema-materiaal, zorgt er voor dat de leerling nieuwe ervaringen opdoet."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -680,6 +765,7 @@
     "colK": "Reikt naar voorwerp, draait naar stem, verkent ‘in/uit’ door voorwerpen uit doos halen, kruipt naar vertrouwde persoon."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -688,6 +774,7 @@
     "colK": "Drukt op knop na voordoen, matcht foto op foto bij speelhoek."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -696,6 +783,7 @@
     "colK": "Beker is om te drinken, lepel is om te eten, schoen hoort aan de voet."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -704,6 +792,7 @@
     "colK": "Matchen van hetzelfde voorwerp op basis van kleur of vorm, legt gelijke afbeeldingen samen, inpuzzelen zoals een beker in bekerhouder, een balletje in een eidopje."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -712,6 +801,7 @@
     "colK": "Brengt voorwerp naar vaste plek, brengt voorwerp naar vaste persoon, matcht ene voorwerp bij gelijkaardige voorwerpen, zoals bekers in de kast."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -720,6 +810,7 @@
     "colK": "Stapelt verschillende soorten blokken (hout, plastic, groot/klein) op dezelfde manier.\nMaakt klank door te slaan met verschillende voorwerpen (lepel, stokje, rammelaar).\nDuwt knoppen in bij verschillende speeltjes met gelijkaardig effect.\nGiet water/zand/korrels van het ene recipiënt in het andere.\nRolt verschillende ballen weg op dezelfde manier."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -728,6 +819,7 @@
     "colK": "Gebruikt duw-beweging bij lichtknop, daarna bij speelgoedknop.\nGebruikt open-en-dicht-handeling bij een doos, daarna bij een pot, de deur...\nBreidt het matchen of inpuzzelen uit bij het maken van overgangen en legt steeds sneller de link."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -736,6 +828,7 @@
     "colK": "Kijkt naar voordoen, volgt handeling van begeleider."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -744,6 +837,7 @@
     "colK": "Herhalen van contextgebonden woordenschat, herhalen van de handelingen die horen bij een 1-doostaak."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -752,6 +846,7 @@
     "colK": "Hamer–timmeren, koe–melken, kapper–knippen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -760,6 +855,7 @@
     "colK": "Via woorden, gebaren of ondersteunende communicatiemiddelen (kijkt naar pictogram, gebruikt stappenkaart)"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -768,6 +864,7 @@
     "colK": "Neemt juiste vorm, kiest passend materiaal."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -776,6 +873,7 @@
     "colK": "Combineert materialen om een constructie te maken, maakt van verschillende ingrediënten een taart."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -784,6 +882,7 @@
     "colK": "eerst-dan, dag-nacht: vaste volgorde"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -792,6 +891,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -800,6 +900,7 @@
     "colK": "De leraar toont prenten van dieren in het bos en vraagt: 'Welke dieren kennen jullie al?' De kleuters wijzen en noemen de dieren die ze kennen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -808,6 +909,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -816,6 +918,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -824,6 +927,7 @@
     "colK": "De leeringen hebben en blad met rijen van een zelfde soort fruit op. De leraar zegt een getal. De leerlingen tellen en kleuren het aantal appels."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -832,6 +936,7 @@
     "colK": "De leerlingen hebben een doosje met de reeds aangeleerde letters. Ze lezen elke dag alle letters die in het doosje zitten."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -840,6 +945,7 @@
     "colK": "De leerlingen maken via een app voor hoofdrekenen oefeningen rond het optellen en aftrekken van natuurlijke getallen door elkaar."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -848,6 +954,7 @@
     "colK": "De leerlingen benoemen op de woordmuur de afgebeelde gebouwen in de stad: het rijhuis, het vrijstaand huis, het appartementsgebouw, het kantoor, de bank, het winkelcentrum."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -856,6 +963,7 @@
     "colK": "De leerlingen hebben een doosje met de reeds aangeleerde tafels. Ze automatiseren elke dag alle tafels die in het doosje zitten."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -864,6 +972,7 @@
     "colK": "De leerlingen maken via een app voor hoofdrekenen oefeningen rond het vermenigvuldigen en delen van natuurlijke getallen door elkaar."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -872,6 +981,7 @@
     "colK": "De leerlingen benoemen op de woordmuur de afgebeelde bodemsoorten: het zand, de klei, de leem, steenachtig."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -880,6 +990,7 @@
     "colK": "De leerlingen hebben een kaart van de Belgische provincies. Ze automatiseren gedurende een week voor de toets elke dag de naam en de ligging van de provincies."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -888,6 +999,7 @@
     "colK": "De leerlingen maken een blad met hoofdrekenoefeningen over de verschillende eigenschappen van en relaties tussen bewerkingen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -896,6 +1008,7 @@
     "colK": "De leerlingen maken een (oefen)toets over de principes van de democratische rechtstaat."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -904,6 +1017,7 @@
     "colK": "De leerlingen geven voorbeelden bij rechten die in het VN-kinderrechtenverdrag opgenomen zijn."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -912,6 +1026,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -920,6 +1035,7 @@
     "colK": "De leerlingen hebben een kaart van de Belgische provincies en hun hoofplaatsen. Ze automatiseren gedurende een week voor de toets elke dag de naam en de ligging van de provinciehoofdplaatsen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -928,6 +1044,7 @@
     "colK": "De leerlingen maken een blad met cijferoefeningen van de vier hoofdbewerkingen door elkaar."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -936,6 +1053,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -944,6 +1062,7 @@
     "colK": "De leerlingen maken een (oefen)toets over bij de spijsvertering betrokken lichaamsdelen, weefsels en organen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -952,6 +1071,7 @@
     "colK": "De leerlingen maken en schema over de classificatie van organismen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -960,6 +1080,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -968,6 +1089,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -976,6 +1098,7 @@
     "colK": "De leerlingen leggen aan een schoudermaatje uit hoe je in het Frans regelmatige werkwoorden in de tegenwoordige tijd vervoegt en geven een voorbeeld."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -984,6 +1107,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -992,6 +1116,7 @@
     "colK": "De leerlingen maken een mindmap over de functies van kleuren binnen het domein beeld."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1000,6 +1125,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Cognitie",
@@ -1008,6 +1134,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1016,6 +1143,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Leerstrategieën",
     "subdomein": "metacognitie",
@@ -1024,6 +1152,7 @@
     "colK": "Na uitleg of model van de leraar probeert de leerling alternatieve werkwijze: omdraaien van puzzelstuk, eerst hoekjes en randen zoeken bij het puzzelen…"
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1032,6 +1161,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1040,6 +1170,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1048,6 +1179,7 @@
     "colK": "Zelfde handeling in andere ruimte of met een andere persoon"
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1056,6 +1188,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1064,6 +1197,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1072,6 +1206,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F6.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1080,6 +1215,7 @@
     "colK": "Schattend hoofdrekenen in de winkel."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1088,6 +1224,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1096,6 +1233,7 @@
     "colK": "De volgorde van de stappen om een schilderij over de herfst te maken."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1104,6 +1242,7 @@
     "colK": "Bij nabootsen van de stappen bij beertjes van Meichenbaum vertellen de leerlingen wat ze doen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1112,6 +1251,7 @@
     "colK": "Magjes en moetjes bepalen, tijd inschatten, moeilijkheid inschatten, op een vooraf gekozen deel van de aanpak reflecteren via een zelfinstructiemethode zoals 'De beertjes van Meichenbaum'."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1120,6 +1260,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1128,6 +1269,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1136,6 +1278,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1144,6 +1287,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1152,6 +1296,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1160,6 +1305,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1168,6 +1314,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1176,6 +1323,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1184,6 +1332,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1192,6 +1341,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1200,6 +1350,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1208,6 +1359,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1216,6 +1368,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Metacognitie",
@@ -1224,6 +1377,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1232,6 +1386,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1240,6 +1395,7 @@
     "colK": "Toont resultaat aan anderen, probeert opnieuw wat lukte."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1248,6 +1404,7 @@
     "colK": "Doet een voorstel en/of heeft inbreng, verandert of breidt activiteit uit."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1256,6 +1413,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1264,6 +1422,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1272,6 +1431,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1280,6 +1440,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1288,6 +1449,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Motivatie",
@@ -1296,6 +1458,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1304,6 +1467,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Leerstrategieën",
     "subdomein": "Organisatie",
@@ -1312,6 +1476,7 @@
     "colK": "Een ordelijke schoolbank, een ordelijke boekentas"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Leerstrategieën",
     "subdomein": "Organisatie",
@@ -1320,6 +1485,7 @@
     "colK": "Een ordelijke schoolbank, een ordelijke boekentas"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerstrategieën",
     "subdomein": "Organisatie",
@@ -1328,6 +1494,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerstrategieën",
     "subdomein": "Organisatie",
@@ -1336,6 +1503,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1344,6 +1512,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerstrategieën",
     "subdomein": "Organisatie",
@@ -1352,6 +1521,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerstrategieën",
     "subdomein": "Organisatie",
@@ -1360,6 +1530,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1368,6 +1539,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1376,6 +1548,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1384,6 +1557,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1392,6 +1566,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1400,6 +1575,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1408,6 +1584,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1416,6 +1593,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1424,6 +1602,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1432,6 +1611,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1440,6 +1620,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerproces",
     "subdomein": "Werking brein",
@@ -1448,6 +1629,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1456,6 +1638,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Leerproces",
     "subdomein": "Cyclisch leerproces",
@@ -1464,6 +1647,7 @@
     "colK": "‘De beertjes van Meichenbaum' \n'Stop, denk, doe!'"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Leerproces",
     "subdomein": "Cyclisch leerproces",
@@ -1472,6 +1656,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Leerproces",
     "subdomein": "Cyclisch leerproces",
@@ -1480,6 +1665,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Leerproces",
     "subdomein": "Cyclisch leerproces",
@@ -1488,6 +1674,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Leerproces",
     "subdomein": "Cyclisch leerproces",
@@ -1496,6 +1683,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Leerproces",
     "subdomein": "Cyclisch leerproces",
@@ -1504,6 +1692,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Leerproces",
     "subdomein": "Cyclisch leerproces",
@@ -1512,6 +1701,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": null,
     "subdomein": null,
@@ -1520,6 +1710,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1528,6 +1719,7 @@
     "colK": "Voorkeur tonen door langer kijken, rustiger worden.\nAfwenden of spanning tonen bij niet-aangename prikkels.\nNog geen actief kiezen, wel selectieve respons."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1536,6 +1728,7 @@
     "colK": "Reikt naar favoriete rammelaar, draait hoofd naar muziek."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1544,6 +1737,7 @@
     "colK": "Duwt voorwerp weg, wendt hoofd af, protesteert vocaal."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1552,6 +1746,7 @@
     "colK": "Reikt naar beker i.p.v. fles, kijkt doelgericht naar gewenste activiteit, kiest tussen een koek of fruit."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1560,6 +1755,7 @@
     "colK": "Kiest snack - spelactiviteit."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1568,6 +1764,7 @@
     "colK": "Reageert verwachtingsvol wanneer een keuzemoment wordt aangekondigd ('Kies maar!, twee objecten zichtbaar).\nRicht aandacht en lichaam duidelijk naar één optie vóór er gehandeld wordt.\nBlijft gericht op het gekozen object of activiteit wanneer deze wordt uitgevoerd.\nToont tevredenheid of bevestiging wanneer de gekozen optie wordt aangeboden.\nReageert anders wanneer een niet-gekozen optie wordt aangeboden (wegdraaien, protest, stoppen)."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1576,6 +1773,7 @@
     "colK": "Blijft kijken naar gekozen voorwerp, pakt opnieuw dezelfde optie."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1584,6 +1782,7 @@
     "colK": "\"Die leuk, die niet”, duidt voorkeur aan."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1592,6 +1791,7 @@
     "colK": "#REF!"
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "keuzeproces",
     "subdomein": "kiezen",
@@ -1600,6 +1800,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1608,6 +1809,7 @@
     "colK": "De hoeken in de klas"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1616,6 +1818,7 @@
     "colK": "Drie verschillende puzzels, samenspelen of alleen spelen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1624,6 +1827,7 @@
     "colK": "De boeken in de boekenhoek, de muziekinstrumenten in de muziekkoffer"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1632,6 +1836,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "keuzeproces",
     "subdomein": "Kiezen",
@@ -1640,6 +1845,7 @@
     "colK": "Leerling met een beperking kiest om wel of geen hulpmiddel te gebruiken."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1648,6 +1854,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1656,6 +1863,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1664,6 +1872,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Keuzeproces",
     "subdomein": "Kiezen",
@@ -1672,6 +1881,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Keuzeproces",
     "subdomein": "Studiekeuze",
@@ -1680,6 +1890,7 @@
     "colK": "Hobby's, studiekeuze"
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Keuzeproces",
     "subdomein": "Studiekeuze",
@@ -1688,6 +1899,7 @@
     "colK": "Hobby's, studiekeuze"
   },
   {
+    "colA": "S",
     "fase": "F6.",
     "domein": "keuzeproces",
     "subdomein": "kiezen",
@@ -1696,6 +1908,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Keuzeproces",
     "subdomein": "Studiekeuze",
@@ -1704,6 +1917,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L5.",
     "domein": "Keuzeproces",
     "subdomein": "Studiekeuze",
@@ -1712,6 +1926,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Keuzeproces",
     "subdomein": "Studiekeuze",
@@ -1720,6 +1935,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Keuzeproces",
     "subdomein": "Studiekeuze",

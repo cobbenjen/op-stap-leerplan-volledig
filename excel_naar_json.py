@@ -19,14 +19,21 @@ def convert_excel_to_json(input_path: Path, output_path: Path, sheet_name: str |
     worksheet = workbook[sheet_name] if sheet_name else workbook.worksheets[0]
 
     rows = []
-    for row in worksheet.iter_rows(min_row=2, min_col=6, max_col=11, values_only=True):
-        fase, domein, subdomein, col_i, col_j, col_k = map(normalize, row)
+    for row in worksheet.iter_rows(min_row=2, min_col=1, max_col=11, values_only=True):
+        col_a = normalize(row[0])
+        fase = normalize(row[5])
+        domein = normalize(row[6])
+        subdomein = normalize(row[7])
+        col_i = normalize(row[8])
+        col_j = normalize(row[9])
+        col_k = normalize(row[10])
 
-        if all(value is None for value in (fase, domein, subdomein, col_i, col_j, col_k)):
+        if all(value is None for value in (col_a, fase, domein, subdomein, col_i, col_j, col_k)):
             continue
 
         rows.append(
             {
+                "colA": col_a,
                 "fase": fase,
                 "domein": domein,
                 "subdomein": subdomein,
@@ -41,7 +48,7 @@ def convert_excel_to_json(input_path: Path, output_path: Path, sheet_name: str |
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Zet Excel om naar JSON met kolommen F-K.")
+    parser = argparse.ArgumentParser(description="Zet Excel om naar JSON met kolom A en kolommen F-K.")
     parser.add_argument("--input", required=True, help="Pad naar input Excel-bestand.")
     parser.add_argument("--output", required=True, help="Pad naar output JSON-bestand.")
     parser.add_argument("--sheet", default=None, help="Optionele sheetnaam.")

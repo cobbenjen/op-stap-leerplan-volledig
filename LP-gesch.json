@@ -1,5 +1,6 @@
 [
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -8,6 +9,7 @@
     "colK": "Vuur als beveiliging tegen roofdieren en tegen koude; sociaal leven (verhalen vertellen) rond vuur"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -16,6 +18,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -24,6 +27,7 @@
     "colK": "Vuur en voedselbereiding (roken, braden, koken, bewaren, makkelijker verteren…)"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -32,6 +36,7 @@
     "colK": "Gebruiken om te jagen, prooien te bewerken (vlees snijden, huid afschrapen)"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -40,6 +45,7 @@
     "colK": "Mensen leren elkaar technieken aan om werktuigen te maken."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -48,6 +54,7 @@
     "colK": "Lascaux"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -56,6 +63,7 @@
     "colK": "Vuur als beveiliging tegen roofdieren en tegen koude; sociaal leven (verhalen vertellen) rond vuur"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -64,6 +72,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -72,6 +81,7 @@
     "colK": "Vuur en voedselbereiding (roken, braden, koken, bewaren, makkelijker verteren…)"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -80,6 +90,7 @@
     "colK": "Jagen, bewerken prooien (vlees verwerken, huid bewerken)"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -88,6 +99,7 @@
     "colK": "Mensen leren elkaar technieken aan om werktuigen te maken."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -96,6 +108,7 @@
     "colK": "Lascaux"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -104,6 +117,7 @@
     "colK": "Vuur als beveiliging tegen roofdieren en tegen koude, samen leven (verhalen vertellen) rond vuur"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -112,6 +126,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -120,6 +135,7 @@
     "colK": "Vuur en voedselbereiding (roken, braden, koken, bewaren, makkelijker verteren…)"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -128,6 +144,7 @@
     "colK": "Jagen, bewerken prooien (vlees verwerken, huid bewerken)"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -136,6 +153,7 @@
     "colK": "Mensen leren elkaar technieken aan om werktuigen te maken."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -144,6 +162,7 @@
     "colK": "Lascaux"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -152,6 +171,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -160,6 +180,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -168,6 +189,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -176,6 +198,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -184,6 +207,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -192,6 +216,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -200,6 +225,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -208,6 +234,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -216,6 +243,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -224,6 +252,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -232,6 +261,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -240,6 +270,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -248,6 +279,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -256,6 +288,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -264,6 +297,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -272,6 +306,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -280,6 +315,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -288,6 +324,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -296,6 +333,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -304,6 +342,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -312,6 +351,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -320,6 +360,7 @@
     "colK": "Beenderen, fossielen, werktuig, rotsschildering, graf"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -328,6 +369,7 @@
     "colK": "Standbeeld, foto"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -336,6 +378,7 @@
     "colK": "Dagboek, brief"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -344,6 +387,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -352,6 +396,7 @@
     "colK": "Vaste telefoon vs. smartphone, OLED-tv vs radiokast, tram in dorp vs. auto's in dorp, kasseien vs. asfalt"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -360,6 +405,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -368,6 +414,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -376,6 +423,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -384,6 +432,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -392,6 +441,7 @@
     "colK": "Foto van een vuistbijl, foto van de piramides van Gizeh, een radio, foto van de grotschilderingen in Lascaux, oude postkaart van de eigen gemeente, foto van de straat waar de school gelegen is"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -400,6 +450,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -408,6 +459,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -416,6 +468,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -424,6 +477,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -432,6 +486,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -440,6 +495,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -448,6 +504,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -456,6 +513,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -464,6 +522,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -472,6 +531,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -480,6 +540,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -488,6 +549,7 @@
     "colK": "Ontstaan van de menselijke soort, de mens als deel van de natuur, ook als deel van een voedselketen/ecologisch web"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -496,6 +558,7 @@
     "colK": "Taal als middel om informatie uit te wisselen."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -504,6 +567,7 @@
     "colK": "Overgang jagen-verzamelen => landbouw"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -512,6 +576,7 @@
     "colK": "Aanwijzingen voor sociale gelijkheid"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -520,6 +585,7 @@
     "colK": "Mens past zich aan verschillende omgevingen aan, daardoor ook verschillende vormen (soorten) van de mens."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -528,6 +594,7 @@
     "colK": "Mens past zich aan verschillende omgevingen aan, onze soort (Homo Sapiens) enige overlever van mensachtigen (leden geslacht Homo)."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -536,6 +603,7 @@
     "colK": "Soort verwant aan Homo sapiens, gelijkenissen en verschillen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Prehistorie",
@@ -544,6 +612,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -552,6 +621,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -560,6 +630,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -568,6 +639,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -576,6 +648,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -584,6 +657,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -592,6 +666,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -600,6 +675,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -608,6 +684,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -616,6 +693,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -624,6 +702,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -632,6 +711,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -640,6 +720,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -648,6 +729,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -656,6 +738,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -664,6 +747,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -672,6 +756,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -680,6 +765,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -688,6 +774,7 @@
     "colK": "Belegering van Rome door de Kelten in 390 v.o.t."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -696,6 +783,7 @@
     "colK": "Site Pompeï geeft inzicht in het dagelijks leven van de Romeinen. Slaven als deel van de Romeinse samenleving."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -704,6 +792,7 @@
     "colK": "Fresco’s"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -712,6 +801,7 @@
     "colK": "Verovering Keltisch Gallië door Caesar"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -720,6 +810,7 @@
     "colK": "Ontstaan Gallo-Romeinse cultuur (houten vaten, lange broeken, naamplaatsen…)"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -728,6 +819,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -736,6 +828,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -744,6 +837,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -752,6 +846,7 @@
     "colK": "Rol vrouw in Romeinse samenleving, sociale spanningen"
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -760,6 +855,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Oudheid",
@@ -768,6 +864,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -776,6 +873,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -784,6 +882,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -792,6 +891,7 @@
     "colK": "Stadsrechten, lijfeigenen, vrije burgers"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -800,6 +900,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -808,6 +909,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -816,6 +918,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -824,6 +927,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -832,6 +936,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -840,6 +945,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -848,6 +954,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -856,6 +963,7 @@
     "colK": "Bewaren en doorgeven van kennis, de bibliotheek, het scriptorium, de kopiist, de miniatuur."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -864,6 +972,7 @@
     "colK": "Klooster en abdijen als plaatsen waar mensen omwille van hun geloof samenleven en -werken."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -872,6 +981,7 @@
     "colK": "Verspreiding pest in dichtbevolkte gebieden en via handelswegen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -880,6 +990,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -888,6 +999,7 @@
     "colK": "Kalligrafie, mozaïeken, architectuur (moskee)"
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -896,6 +1008,7 @@
     "colK": "Samenwerking tussen christenen, joden en moslims in Al-Andaluz"
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -904,6 +1017,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -912,6 +1026,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -920,6 +1035,7 @@
     "colK": "Als gelovige, als kunstenares, als sociaal invloedrijke vrouw"
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -928,6 +1044,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -936,6 +1053,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -944,6 +1062,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -952,6 +1071,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Middeleeuwen",
@@ -960,6 +1080,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -968,6 +1089,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -976,6 +1098,7 @@
     "colK": "Ontdekking en kolonisatie Amerika"
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -984,6 +1107,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -992,6 +1116,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1000,6 +1125,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1008,6 +1134,7 @@
     "colK": "Leerling, gezel, meester, koopman, ploeg, heiligendagen, monnik, non, de adel, de clerus, charter\n\nbv. handel tussen Vikingen en Arabieren, samenwerking tussen christenen, joden en\nmoslims in Al-Andaluz"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1016,6 +1143,7 @@
     "colK": "Bewijst de bron “Codex Hammurabi” dat koning Hammurabi de zwakkeren in zijn rijk wilde beschermen?"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1024,6 +1152,7 @@
     "colK": "Waarom liet Hammurabi zijn wetten in een stenen zuil graveren i.p.v. ze gewoon op kleitabletten te laten noteren?"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1032,6 +1161,7 @@
     "colK": "Wanneer is de Codex Hammurabi gemaakt? In welke regio kunnen we ze situeren?"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1040,6 +1170,7 @@
     "colK": "Hoe kunnen we weten op welke manier mensen in de prehistorie leefden? grafgiften (sieraden uit been, schelpen…), afval in vroeger bewoonde grotten…"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1048,6 +1179,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1056,6 +1188,7 @@
     "colK": "Geeft de manier waarop de Romeinen over de Kelten schrijven ons betrouwbare informatie over hoe de Kelten leefden?"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1064,6 +1197,7 @@
     "colK": "Waarom verfraaiden de Grieken in Athene de Akropolis met tempels en beelden?"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1072,6 +1206,7 @@
     "colK": "Wanneer kreeg de Akropolis het uitzicht zoals we het nu kennen?"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1080,6 +1215,7 @@
     "colK": "Hoe kunnen we weten op welke manier mensen in de prehistorie leefden? grafgiften (sieraden uit been, schelpen…), afval in vroeger bewoonde grotten…"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1088,6 +1224,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1096,6 +1233,7 @@
     "colK": "Bewijst de bron “Codex Hammurabi” dat koning Hammurabi de zwakkeren in zijn rijk wilde beschermen?"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1104,6 +1242,7 @@
     "colK": "Waarom liet Hammurabi zijn wetten in een stenen zuil graveren i.p.v. ze gewoon op kleitabletten te laten noteren?"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1112,6 +1251,7 @@
     "colK": "Wanneer is de Codex Hammurabi gemaakt? In welke regio kunnen we ze situeren?"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1120,6 +1260,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1128,6 +1269,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1136,6 +1278,7 @@
     "colK": "Bewijst de bron “Codex Hammurabi” dat koning Hammurabi de zwakkeren in zijn rijk wilde beschermen?"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1144,6 +1287,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1152,6 +1296,7 @@
     "colK": "Waarom liet Hammurabi zijn wetten in een stenen zuil graveren i.p.v. ze gewoon op kleitabletten te laten noteren?"
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1160,6 +1305,7 @@
     "colK": "Wanneer is de Codex Hammurabi gemaakt? In welke regio kunnen we ze situeren?"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1168,6 +1314,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1176,6 +1323,7 @@
     "colK": "Hoe kunnen we weten op welke manier mensen in de prehistorie leefden? grafgiften (sieraden uit been, schelpen…), afval in vroeger bewoonde grotten…"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1184,6 +1332,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1192,6 +1341,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1200,6 +1350,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1208,6 +1359,7 @@
     "colK": "Vergelijking van Mesopotamische en Egyptische samenlevingen of vergelijking van ervaringen van mannen en vrouwen, boeren en reizende kooplieden, binnen Mesopotamië"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1216,6 +1368,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1224,6 +1377,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1232,6 +1386,7 @@
     "colK": "Vergelijking tussen aspecten van stedelijke samenleving in de Romeinse wereld en in de Middeleeuwen in Europa (stratenplan, badhuizen, aanleg wegen…)"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1240,6 +1395,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1248,6 +1404,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1256,6 +1413,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1264,6 +1422,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1272,6 +1431,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1280,6 +1440,7 @@
     "colK": "Vergelijking van Mesopotamische en Egyptische samenlevingen of vergelijking van ervaringen van mannen en vrouwen, boeren en reizende kooplieden, binnen Mesopotamië"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1288,6 +1449,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1296,6 +1458,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1304,6 +1467,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1312,6 +1476,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1320,6 +1485,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -1328,6 +1494,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -1336,6 +1503,7 @@
     "colK": "Slavernij in de Oudheid; de Romeinen: Hoe keken de Romeinen daar naar? Hoe kijken wij daar naar?"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -1344,6 +1512,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -1352,6 +1521,7 @@
     "colK": "Waarom was het zo belangrijk voor Alfonso I dat zijn zoon bisschop was? Waarom schafte de Europese clerus de Congolese bisschopszetel gauw terug af? Waarom stelde Pieter Breugel de Oude “de Korenoogst” voor als erg hard werken en armoedig?"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -1360,6 +1530,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1368,6 +1539,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1376,6 +1548,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1384,6 +1557,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1392,6 +1566,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1400,6 +1575,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1408,6 +1584,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1416,6 +1593,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1424,6 +1602,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -1432,6 +1611,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1440,6 +1620,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1448,6 +1629,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1456,6 +1638,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1464,6 +1647,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1472,6 +1656,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1480,6 +1665,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1488,6 +1674,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1496,6 +1683,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1504,6 +1692,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1512,6 +1701,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1520,6 +1710,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1528,6 +1719,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1536,6 +1728,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1544,6 +1737,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1552,6 +1746,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -1560,6 +1755,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1568,6 +1764,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1576,6 +1773,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1584,6 +1782,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -1592,6 +1791,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1600,6 +1800,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1608,6 +1809,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1616,6 +1818,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1624,6 +1827,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1632,6 +1836,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1640,6 +1845,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1648,6 +1854,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1656,6 +1863,7 @@
     "colK": "Schilderij 'De soldaat en het lachende meisje': kaart op de achtergrond"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1664,6 +1872,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1672,6 +1881,7 @@
     "colK": "Verhoudingen tussen Europese kolonisatoren en gekoloniseerden, beeldvorming rond La Malinche (colloborateur of niet?)"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Vroegmoderne tijd",
@@ -1680,6 +1890,7 @@
     "colK": "Ritueel, ceremonie"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1688,6 +1899,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1696,6 +1908,7 @@
     "colK": "Migratie zowel tussen regio’s als tussen staten als gevolg van industriële revolutie"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1704,6 +1917,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1712,6 +1926,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1720,6 +1935,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1728,6 +1944,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1736,6 +1953,7 @@
     "colK": "Militaire begraafplaatsen Westhoek"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1744,6 +1962,7 @@
     "colK": "Menenpoort"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1752,6 +1971,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1760,6 +1980,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1768,6 +1989,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1776,6 +1998,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1784,6 +2007,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1792,6 +2016,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Moderne tijd",
@@ -1800,6 +2025,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1808,6 +2034,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1816,6 +2043,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1824,6 +2052,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1832,6 +2061,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1840,6 +2070,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1848,6 +2079,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1856,6 +2088,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1864,6 +2097,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1872,6 +2106,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1880,6 +2115,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1888,6 +2124,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1896,6 +2133,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van het verleden",
     "subdomein": "Hedendaagse tijd",
@@ -1904,6 +2142,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1912,6 +2151,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1920,6 +2160,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1928,6 +2169,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1936,6 +2178,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1944,6 +2187,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Bronnengebruik",
@@ -1952,6 +2196,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1960,6 +2205,7 @@
     "colK": "Wat veranderde er voor vrouwen in de 20ste eeuw? Oorzaak-gevolg: Welke impact had de Europese handel op het Kongo-koninkrijk? Waarom werd de Muur van Berlijn afgebroken?"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1968,6 +2214,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1976,6 +2223,7 @@
     "colK": "Wat veranderde er voor vrouwen in de 20ste eeuw? Oorzaak-gevolg: Welke impact had de Europese handel op het Kongo-koninkrijk? Waarom werd de Muur van Berlijn afgebroken?"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1984,6 +2232,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -1992,6 +2241,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Historisch redeneren",
@@ -2000,6 +2250,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -2008,6 +2259,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -2016,6 +2268,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -2024,6 +2277,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -2032,6 +2286,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -2040,6 +2295,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Perspectieven",
@@ -2048,6 +2304,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -2056,6 +2313,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -2064,6 +2322,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Kennis van geschiedenis",
     "subdomein": "Chronologisch bewustzijn",
@@ -2072,6 +2331,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -2080,6 +2340,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -2088,6 +2349,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -2096,6 +2358,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -2104,6 +2367,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -2112,6 +2376,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -2120,6 +2385,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Erfgoed identiteit betekenis relatie verleden-heden",
@@ -2128,6 +2394,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",
@@ -2136,6 +2403,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": null,
     "subdomein": null,
@@ -2144,6 +2412,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": null,
     "subdomein": null,
@@ -2152,6 +2421,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Reflectie en dialoog over verleden en geschiedenis",
     "subdomein": "Burgerschap",

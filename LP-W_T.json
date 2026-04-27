@@ -1,5 +1,6 @@
 [
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -8,6 +9,7 @@
     "colK": "Tijdens een wandeling de leerling attent maken door 'samen-doen': voelen aan  schors van een boom of nat gras, verwondering spiegelen voor of aandacht richten op 'kijk', 'hoor' vogelgeluiden, bloemen die geuren, dieren in de omgeving van de school."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -16,6 +18,7 @@
     "colK": "Voelen aan schors van een boom, gras, aarde… Horen van dierengeluiden, ruiken van dieren in de klas, bloemengeur."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -24,6 +27,7 @@
     "colK": "Hand wegtrekken, opnieuw voelen, voorkeur of afkeer tonen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -32,6 +36,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -40,6 +45,7 @@
     "colK": "Een konijn en een hond zijn beide dieren, ze zien er verschillend uit. We plukken bloemen met verschillende kleuren, mama en ik zijn allebei mensen."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -48,6 +54,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -56,6 +63,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -64,6 +72,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -72,6 +81,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -80,6 +90,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -88,6 +99,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -96,6 +108,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -104,6 +117,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -112,6 +126,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -120,6 +135,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -128,6 +144,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -136,6 +153,7 @@
     "colK": "Eieren van vissen die ze kunnen tegenkomen in dagelijkse leven: haai, rog op het strand, lompviseieren op schotels."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -144,6 +162,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -152,6 +171,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -160,6 +180,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -168,6 +189,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -176,6 +198,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -184,6 +207,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -192,6 +216,7 @@
     "colK": "Jonge dieren verschijnen niet plots maar groeien eerst in de buik van de moeder (zoals bij een kat of een koe - zoogdieren); zitten in een ei tot ze uitkomen (zoals bij een kip - vogels); vissen groeien eerst in eitjes die in het water worden afgezet (zoals bij een goudvis); insecten ontwikkelen zich vanuit eitjes (zoals bij een vlinder)."
   },
   {
+    "colA": "+",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -200,6 +225,7 @@
     "colK": "De hond-fauna, de vogel-fauna, de vis-fauna, de bloem-flora"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -208,6 +234,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -216,6 +243,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -224,6 +252,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -232,6 +261,7 @@
     "colK": "De hond hoort thuis bij de fauna: de zoogdieren."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -240,6 +270,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -248,6 +279,7 @@
     "colK": "De hond hoort thuis bij de fauna: de zoogdieren."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -256,6 +288,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -264,6 +297,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -272,6 +306,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -280,6 +315,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -288,6 +324,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -296,6 +333,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -304,6 +342,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -312,6 +351,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -320,6 +360,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -328,6 +369,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -336,6 +378,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -344,6 +387,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -352,6 +396,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -360,6 +405,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -368,6 +414,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -376,6 +423,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -384,6 +432,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -392,6 +441,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -400,6 +450,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -408,6 +459,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -416,6 +468,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -424,6 +477,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -432,6 +486,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -440,6 +495,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -448,6 +504,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -456,6 +513,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -464,6 +522,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -472,6 +531,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -480,6 +540,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -488,6 +549,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -496,6 +558,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -504,6 +567,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -512,6 +576,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -520,6 +585,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -528,6 +594,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -536,6 +603,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -544,6 +612,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -552,6 +621,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -560,6 +630,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -568,6 +639,7 @@
     "colK": "Een eenvoudige determinatietabel gebruiken om organismen te classificeren en binnen een taxonomische indeling plaatsen."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -576,6 +648,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -584,6 +657,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -592,6 +666,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -600,6 +675,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Classificatie van organismen",
@@ -608,6 +684,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -616,6 +693,7 @@
     "colK": "Zaadjes planten in de klas die uitgroeien tot een plant."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -624,6 +702,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -632,6 +711,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -640,6 +720,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -648,6 +729,7 @@
     "colK": "Afbeeldingen van baby tot volwassene bespreken, foto's van zichzelf en jonge dieren bespreken."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -656,6 +738,7 @@
     "colK": "Zaden van een boon of tuinkers planten, bespreken wat ze zien: de plant wordt groter, er komen blaadjes bij, de wortels groeien in de aarde."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -664,6 +747,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -672,6 +756,7 @@
     "colK": "Dode bladeren of insecten laten observeren, vertellen over een overledene."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -680,6 +765,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -688,6 +774,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -696,6 +783,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -704,6 +792,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -712,6 +801,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -720,6 +810,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -728,6 +819,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -736,6 +828,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -744,6 +837,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -752,6 +846,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -760,6 +855,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -768,6 +864,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -776,6 +873,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -784,6 +882,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -792,6 +891,7 @@
     "colK": "Een kikker legt eitjes die uitgroeien tot kikkervisjes terwijl een kat haar jongen levend baart."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -800,6 +900,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -808,6 +909,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -816,6 +918,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -824,6 +927,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -832,6 +936,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -840,6 +945,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -848,6 +954,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -856,6 +963,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -864,6 +972,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -872,6 +981,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -880,6 +990,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -888,6 +999,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -896,6 +1008,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -904,6 +1017,7 @@
     "colK": "Door voortplanting ontstaan nakomelingen met als gevolg dat een populatie en soort kan voortbestaan."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -912,6 +1026,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -920,6 +1035,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -928,6 +1044,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -936,6 +1053,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Organismen",
     "subdomein": "Ontwikkeling en voortplanting van organismen",
@@ -944,6 +1062,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -952,6 +1071,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -960,6 +1080,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -968,6 +1089,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -976,6 +1098,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -984,6 +1107,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -992,6 +1116,7 @@
     "colK": "De koe eet gras, de vogel eet wormen, de kat eet vlees."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1000,6 +1125,7 @@
     "colK": "De vogel zoekt wormen in de grond, de vis vangt voedsel in het water."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1008,6 +1134,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1016,6 +1143,7 @@
     "colK": "Foto's van materialen die in de bak horen, pictogrammen of een andere communicatievorm, corrigeren zichzelf na visuele hint van de leraar."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1024,6 +1152,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1032,6 +1161,7 @@
     "colK": "Het konijn eet gras-de vos eet het konijn, de kikker eet een vlieg-de ooievaar eet de kikker, de vogel eet een worm-de kat vangt de vogel, mensen eten groenten (planten) en ook dieren (kip, biefstuk, vis…)."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1040,6 +1170,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1048,6 +1179,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1056,6 +1188,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1064,6 +1197,7 @@
     "colK": "Bijen halen nectar uit en bestuiven de bloemen, wat nodig is voor de voortplanting van de plant. In het bos vinden we plantensoorten: bomen, gras, struiken... en ook diersoorten: reeën, uilen, pissebedden... Die verschillende soorten zijn onderling met elkaar\nverbonden, maar ook met hun leefomgeving. Wat gebeurt er wanneer een bepaalde soort wegvalt?"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1072,6 +1206,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1080,6 +1215,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1088,6 +1224,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1096,6 +1233,7 @@
     "colK": "Zelf papier maken.\nGebruikt papier (tekening…) komt terecht in de papierbak. Van oud papier wordt nieuw papier gemaakt: tekenbladen, schriften, boeken. Er moeten minder bomen gekapt worden die kunnen blijven groeien. Er is minder oud papier op straat, in de natuur, in de klas, op de speelplaats... Dieren kunnen het papier niet opeten of in hun nest verwerken. Het papier moet niet verbrand worden zodat de lucht zuiverder blijft. Er zijn dus ook minder machines, elektriciteit... nodig om het te verbranden."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1104,6 +1242,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1112,6 +1251,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1120,6 +1260,7 @@
     "colK": "Fleece, tuinbanken van gerecycleerd materiaal"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1128,6 +1269,7 @@
     "colK": "Afval verzameld in de (omgeving van) de school in de klas sorteren in gevaarlijk of niet gevaarlijk voor dieren, voor planten, voor mensen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1136,6 +1278,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1144,6 +1287,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1152,6 +1296,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1160,6 +1305,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1168,6 +1314,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1176,6 +1323,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1184,6 +1332,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1192,6 +1341,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1200,6 +1350,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1208,6 +1359,7 @@
     "colK": "Voedselrelatie: een rups eet bladeren en kan dus niet op zee leven.\nStrijden om hetzelfde: planten dicht bijeen zoeken beiden licht.\nSamenwerken: een bij haalt nectar en helpt de bloem bij bestuiven.\nVoordeel-nadeel: luizen leven op het hoofd van een mens.\nRoofdier-prooi: een spin vangt een vlieg.\nSchuilplaats: een vogel maakt een nest in een hoge boom."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1216,6 +1368,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1224,6 +1377,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1232,6 +1386,7 @@
     "colK": "Gerecycleerd plastic kan gebruikt worden om nieuwe flessen te maken waardoor er minder nieuwe grondstoffen nodig zijn."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1240,6 +1395,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1248,6 +1404,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1256,6 +1413,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1264,6 +1422,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1272,6 +1431,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1280,6 +1440,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1288,6 +1449,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1296,6 +1458,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1304,6 +1467,7 @@
     "colK": "Het gras wordt gegeten door het konijn, het konijn wordt gegeten door de vos…"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1312,6 +1476,7 @@
     "colK": "Wat gebeurt er als er minder konijnen zijn?"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1320,6 +1485,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1328,6 +1494,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1336,6 +1503,7 @@
     "colK": "Mogelijke redenen: voedsel, zuurstof/water, bescherming/leefplaats, voortplanting.\n- Regenworm leeft in de grond, eet dode plantenresten. Hij maakt de grond los en gezond. Daardoor groeien planten beter. De regenworm heeft dode plantenresten nodig als voedsel. De grond mag niet te droog of vervuild zijn.\n- Op en in het lichaam van de mens leven goede bacteriën, vooral in de darmen. Ze helpen het voedsel verteren, ze maken vitamines die het lichaam nodig heeft, ze beschermen tegen slechte bacteriën. De bacteriën in de darm krijgen voedsel en warmte. Ze hebben een veilige leefplaats in het lichaam."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1344,6 +1512,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1352,6 +1521,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1360,6 +1530,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1368,6 +1539,7 @@
     "colK": "Bomen zuiveren de lucht, bodem en planten filteren water, bijen en insecten bestuiven bloemen en gewassen, biologische bestrijding met insecten: lieveheersbeestje of sluipwesp tegen bladluizen, sluipwesp tegen rups."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1376,6 +1548,7 @@
     "colK": "Positief: groene daken, groene speelplaatsen, natuurgebieden beschermen, bomen planten, recycleren en afval vermijden, groene energie. \nNegatief: plasticsoep, bomen kappen, fossiele brandstoffen (opwarming van de aarde), gebruik van pesticiden."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1384,6 +1557,7 @@
     "colK": "Natuurlijke oorzaken van verandering: seizoenen, tyfoon, overstroming, bosbrand door blikseminslag, vulkaanuitbarsting.\nMenselijke oorzaken: ontbossing, teveel verharding, klimaatverandering door broeikasgassen, gebruik van bestrijdingsmiddelen in landbouw..."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1392,6 +1566,7 @@
     "colK": "Biodiversiteit verzacht effecten die de natuur of de mens onder druk kunnen zetten: een gemengd bos gaat niet zo snel plat tijdens een storm in tegenstelling tot een dennenbos, in water langsheen de kust met een grote biodiversiteit zal er minder snel een kwallenplaag kunnen optreden, gemengd grasland met een gezonde bodem kan water vasthouden voor periodes van droogte, heel veel van onze landbouwgewassen zijn afhankelijk van bestuiving, mensen voelen zich beter in een groene omgeving."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1400,6 +1575,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1408,6 +1584,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1416,6 +1593,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1424,6 +1602,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1432,6 +1611,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1440,6 +1620,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1448,6 +1629,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Relatie tussen organismen onderling en hun omgeving",
@@ -1456,6 +1638,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1464,6 +1647,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1472,6 +1656,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1480,6 +1665,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1488,6 +1674,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1496,6 +1683,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1504,6 +1692,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1512,6 +1701,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1520,6 +1710,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1528,6 +1719,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1536,6 +1728,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1544,6 +1737,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1552,6 +1746,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1560,6 +1755,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1568,6 +1764,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1576,6 +1773,7 @@
     "colK": "In een afbeeldingsschema of echt materiaal aanwijzen."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1584,6 +1782,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1592,6 +1791,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1600,6 +1800,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1608,6 +1809,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1616,6 +1818,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1624,6 +1827,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1632,6 +1836,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1640,6 +1845,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1648,6 +1854,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1656,6 +1863,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1664,6 +1872,7 @@
     "colK": "Voorspellen - waarnemen - uitleggen\n- Planten met vergrootglas observeren vanuit dwarsdoorsnede hoe de stengel is opgebouwd uit verschillende buisjes, onderzoeken hoe water via buisjes in de stengel naar de bloem wordt gebracht: witte anjer in water met voedingskleurstof en hoe belangrijk transport is om de bloem te laten overleven, bloem met en zonder water.\n- Dieren met vergrootglas observeren hoe bloed stroomt in doorzichtig lichaam van een kikkervisje (of via vinnen zebravisje), onderzoeken hoe bij slak of regenworm in water met een veilige voedingskleurstof de kleurstof door het lichaam wordt verspreid."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1672,6 +1881,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1680,6 +1890,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1688,6 +1899,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1696,6 +1908,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1704,6 +1917,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1712,6 +1926,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1720,6 +1935,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1728,6 +1944,7 @@
     "colK": "Planten: wortels nemen water op, bladeren maken voedsel met zonlicht, stengels zorgen voor steun en transport.\nMensen: het hart pompt bloed, de longen halen zuurstof, de maag verteert voedsel."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1736,6 +1953,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1744,6 +1962,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1752,6 +1971,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1760,6 +1980,7 @@
     "colK": "Een bacterie kan leven op zichzelf: bestaat uit één cel. \nMens, kat, plant: de cellen werken samen in weefsels en organen."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1768,6 +1989,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1776,6 +1998,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1784,6 +2007,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1792,6 +2016,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1800,6 +2025,7 @@
     "colK": "Lang geleden leefden de eerste geleedpotigen in het water: ze hadden kieuwen om te ademen en poten om te zwemmen, doordat gebieden droogvielen, konden enkel dieren overleven die aangepast waren aan leven op het land."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1808,6 +2034,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1816,6 +2043,7 @@
     "colK": "Dieren: de witte vacht van ijsberen zorgt voor camouflage in de sneeuw, kamelen slaan water en voedsel op in hun bulten om te overleven in de woestijn, een kameleon kan zich camoufleren door kleurverandering.\nPlanten: de dikke stengel van een cactus zorgt voor wateropslag terwijl de stekels zorgen voor bescherming tegen planteneters, de wortels van grassen in het grasland zijn diep in de grond om te overleven bij droogte en begrazing.\nMensen: zijn rechtop gaan lopen en hadden dus een beter zicht op een open landschap en ook hun handen vrij voor het gebruiken van gereedschap, kunnen door grotere hersenen beter problemen oplossen, dingen plannen, taal gebruiken, gereedschap maken."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1824,6 +2052,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1832,6 +2061,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1840,6 +2070,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1848,6 +2079,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1856,6 +2088,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1864,6 +2097,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1872,6 +2106,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Bouw van organismen",
@@ -1880,6 +2115,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1888,6 +2124,7 @@
     "colK": "De leerling zegt: 'Ik eet een appel, ik drink water, met Pasen eten we paaseieren.'"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1896,6 +2133,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1904,6 +2142,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1912,6 +2151,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1920,6 +2160,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1928,6 +2169,7 @@
     "colK": "Beschrijven na de turnles: 'Ik krijg honger en dorst omdat ik veel bewoog.'"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1936,6 +2178,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1944,6 +2187,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1952,6 +2196,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1960,6 +2205,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1968,6 +2214,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1976,6 +2223,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1984,6 +2232,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -1992,6 +2241,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2000,6 +2250,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2008,6 +2259,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2016,6 +2268,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2024,6 +2277,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2032,6 +2286,7 @@
     "colK": "Leg een boterham in een afgesloten doos, op een donkere plaats. Na enkele dagen verschijnt er schimmel. De schimmel groeit zonder zonlicht en haalt zijn energie uit het voedsel (organisch materiaal). Zet een plant op de vensterbank. De plant krijgt zonlicht en water. De plant gebruikt zonlicht als energiebron om te groeien."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2040,6 +2295,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2048,6 +2304,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2056,6 +2313,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2064,6 +2322,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2072,6 +2331,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2080,6 +2340,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2088,6 +2349,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2096,6 +2358,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2104,6 +2367,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2112,6 +2376,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2120,6 +2385,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2128,6 +2394,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2136,6 +2403,7 @@
     "colK": "Beweging: lopen, springen, fietsen…\nGroei: groter worden (lengtegroei), sterkere spieren, wondjes die genezen.\nWarmte: warm blijven bij winterwandeling, bij zwemmen in koud water, bij slapen, rillen bij kou."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2144,6 +2412,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2152,6 +2421,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2160,6 +2430,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2168,6 +2439,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2176,6 +2448,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2184,6 +2457,7 @@
     "colK": "Bij elke stap wordt een deel van de energie gebruikt voor beweging, groei en warmte: daarom zijn er minder dieren bovenaan de voedselpiramide."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2192,6 +2466,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2200,6 +2475,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2208,6 +2484,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2216,6 +2493,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Relatie tussen organismen en tussen organismen en omgevingsfactoren in een biotoop",
     "subdomein": "Energiebronnen en voedingsstoffen",
@@ -2224,6 +2502,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2232,6 +2511,7 @@
     "colK": "Tijdens verzorgingsmoment raakt verzorger neus van de leerling aan en zegt daarbij hier is je neus. Lied 'hoofd en schouder' samen uitvoeren."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2240,6 +2520,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2248,6 +2529,7 @@
     "colK": "Via modeling, imitatie, herhaling en met ondersteunende communicatievormen"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2256,6 +2538,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2264,6 +2547,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2272,6 +2556,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2280,6 +2565,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2288,6 +2574,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2296,6 +2583,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2304,6 +2592,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2312,6 +2601,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2320,6 +2610,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2328,6 +2619,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2336,6 +2628,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2344,6 +2637,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2352,6 +2646,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2360,6 +2655,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2368,6 +2664,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2376,6 +2673,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2384,6 +2682,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2392,6 +2691,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2400,6 +2700,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2408,6 +2709,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2416,6 +2718,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2424,6 +2727,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2432,6 +2736,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2440,6 +2745,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2448,6 +2754,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2456,6 +2763,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2464,6 +2772,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2472,6 +2781,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2480,6 +2790,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2488,6 +2799,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2496,6 +2808,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2504,6 +2817,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2512,6 +2826,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2520,6 +2835,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2528,6 +2844,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2536,6 +2853,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2544,6 +2862,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2552,6 +2871,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2560,6 +2880,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2568,6 +2889,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2576,6 +2898,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2584,6 +2907,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2592,6 +2916,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2600,6 +2925,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2608,6 +2934,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2616,6 +2943,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Menselijk lichaam",
     "subdomein": "Fysieke functies van de mens",
@@ -2624,6 +2952,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2632,6 +2961,7 @@
     "colK": "Steen, stof, hout vasthouden of wegduwen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2640,6 +2970,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2648,6 +2979,7 @@
     "colK": "Alle stenen bij elkaar, kranten en tekenpapier behoren tot papier."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2656,6 +2988,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2664,6 +2997,7 @@
     "colK": "Voelen aan verschillende vormen van materialen en benoemen de eigenschappen die ze voelen.\nHouden verschillende vormen van materialen vast en benoemen de eigenschappen die ze voelen."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2672,6 +3006,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2680,6 +3015,7 @@
     "colK": "Bewust kiezen voor blokken om een toren te bouwen."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2688,6 +3024,7 @@
     "colK": "Voorwerpen die licht zijn, voorwerpen die zwaar zijn."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2696,6 +3033,7 @@
     "colK": "Zeggen dat een pot bestaat uit glas en een plastic deksel."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2704,6 +3042,7 @@
     "colK": "Materialen sorteren die tegelijk hard en zwaar zijn."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2712,6 +3051,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2720,6 +3060,7 @@
     "colK": "Met een hamer en nagel op een oppervlak van verschillende voorwerpen kloppen. Daarna de inslag onderzoeken en vergelijken."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2728,6 +3069,7 @@
     "colK": "Onderzoeken hoe materialen reageren op trek- en drukkrachten door materialen te buigen, uit te rekken of te belasten (bv. een latje tussen twee banken met een gewicht eraan) en beschrijven a.d.h.v. begrippen zoals elasticiteit, plasticiteit, breekbaarheid en sterkte."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2736,6 +3078,7 @@
     "colK": "Hoe zorgen we ervoor dat onze beer niet nat wordt als we hem meenemen op de fiets? De leerlingen onderzoeken verschillende materialen (bv. karton, plastic, tegel, steen) op hun waterdoorlaatbaarheid. Ze vergelijken materialen door eenzelfde hoeveelheid water op elk materiaal aan te brengen en na te gaan hoeveel water wordt doorgelaten of opgenomen na een vast tijdstip."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2744,6 +3087,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2752,6 +3096,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2760,6 +3105,7 @@
     "colK": "Eigen temperatuur behouden door jas (welke vulling?).\nMetalen voorwerp vastnemen (voelt koud aan) vs. een houten voorwerp vastnemen (voelt warmer aan)."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2768,6 +3114,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2776,6 +3123,7 @@
     "colK": "Omkeerbare verschijnselen: zout lost op in water, zout kan terug van het water gescheiden worden door het water te laten verdampen. Water dat verdampt is in de klas kan terug waterdruppels vormen wanneer het op de koude ramen terechtkomt. Smelten van een klontje boter in de pan.\nNiet-omkeerbare verschijnselen: een kaars die opbrandt kan niet terug worden omgezet in een kaars, roesten van ijzeren ketting, verbranden van boter in de pan."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2784,6 +3132,7 @@
     "colK": "Oplosbaarheid van zout, suiker, olie in water"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Eigenschappen van materie",
     "subdomein": "Eigenschappen van materie",
@@ -2792,6 +3141,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Eigenschappen van materie",
     "subdomein": "Eigenschappen van materie",
@@ -2800,6 +3150,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2808,6 +3159,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2816,6 +3168,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2824,6 +3177,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2832,6 +3186,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2840,6 +3195,7 @@
     "colK": "De leerlingen vergelijken een houten blokje, een metalen blokje en een plastic blokje met hetzelfde volume, meten of wegen de massa en stellen vast dat voorwerpen met hetzelfde volume een verschillende massa kunnen hebben."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2848,6 +3204,7 @@
     "colK": "Welke materiaal zullen we gebruiken om … te construeren? Eerst materiaalonderzoek: sterkte, massa"
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2856,6 +3213,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2864,6 +3222,7 @@
     "colK": "Een elektrische geleider bestaat uit elektrisch geleidende materie en isolerende materie. De isolerende materie is een veiligheidsoplossing.\nEen schrikdraad langs de weide is niet geïsoleerd. Opletten voor elektrocutie."
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Materie",
     "subdomein": "Eigenschappen van materie",
@@ -2872,6 +3231,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Eigenschappen van materie",
     "subdomein": "Eigenschappen van materie",
@@ -2880,6 +3240,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Eigenschappen van materie",
     "subdomein": "Eigenschappen van materie",
@@ -2888,6 +3249,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Eigenschappen van materie",
     "subdomein": "Eigenschappen van materie",
@@ -2896,6 +3258,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Eigenschappen van materie",
     "subdomein": "Eigenschappen van materie",
@@ -2904,6 +3267,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2912,6 +3276,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2920,6 +3285,7 @@
     "colK": "'s Nachts is het donker en overdag is het licht."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2928,6 +3294,7 @@
     "colK": "De leerlingen wijzen de zon, lampen of een kaars aan wanneer de leraar vraagt wat licht geeft."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2936,6 +3303,7 @@
     "colK": "De leraar vertelt het verhaal van de Gruffalo, die bang is van de Grote Gevaarlijke Muis (Donaldson, 2004). Grote Gevaarlijke Muis blijkt de grote schaduw te zijn van Muis, die eigenlijk heel klein is. De kleuters zijn nieuwsgierig om te weten te komen hoe Muis hierin slaagde. Ze gaan na de bespreking van het verhaal naar buiten om zelf hun schaduw te vormen met behulp van de zon (Vervaet S., 2020)."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2944,6 +3312,7 @@
     "colK": "De zon, de sterren, de lamp, de zaklamp, de kaars"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2952,6 +3321,7 @@
     "colK": "Een schimmenspel spelen, experimenteren met een zaklamp en voorwerpen om te zien dat schaduw ontstaat wanneer iets het licht tegenhoudt."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2960,6 +3330,7 @@
     "colK": "Lampen hanteren, aanduiden vanwaar het licht komt: ook in een prent, tekening, schilderij, foto…"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2968,6 +3339,7 @@
     "colK": "Het gaat hier om het concept licht: de leerlingen laten licht invallen op een spiegel en verwoorden: 'Het licht kaatst terug.'"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -2976,6 +3348,7 @@
     "colK": "Een donkere doos met verschillende voorwerpen-telkens meer licht-meer gaatjes in de doos openen-vaststellen dat je bepaalde voorwerpen eerder ziet dan andere."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -2984,6 +3357,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -2992,6 +3366,7 @@
     "colK": "Hard: een deur die dichtslaat, zacht: iemand die fluistert. Hard: een trom waarop geklopt wordt, zacht: het ritselen van papier."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3000,6 +3375,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3008,6 +3384,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3016,6 +3393,7 @@
     "colK": "Hoog: een vogeltje, laag: een hond die blaft. Hoog: een triangel, laag: een grote trom"
   },
   {
+    "colA": "+",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3024,6 +3402,7 @@
     "colK": "Beeldschaal: pictogrammen of prenten van een pratend kind - een brullende leeuw - opstijgend vliegtuig"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3032,6 +3411,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3040,6 +3420,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3048,6 +3429,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3056,6 +3438,7 @@
     "colK": "De leerlingen zien dat een radio pas werkt wanneer de stekker in het stopcontact zit en de schakelaar aan ligt."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3064,6 +3447,7 @@
     "colK": "Een batterij kan een zaklamp of speelgoedauto van energie voorzien."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3072,6 +3456,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3080,6 +3465,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3088,6 +3474,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3096,6 +3483,7 @@
     "colK": "De leerlingen proberen met een magneet welke voorwerpen blijven kleven (spijker, paperclip) en welke niet (hout, plastic)."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": null,
@@ -3104,6 +3492,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3112,6 +3501,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3120,6 +3510,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3128,6 +3519,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3136,6 +3528,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Verandering van aggregatietoestand",
@@ -3144,6 +3537,7 @@
     "colK": "Ijs, kaarsvet, boter, chocolade die smelt en stolt, plassen verdampen, was drogen, klei die droogt, planten die water laten verdampen, de werking van zweet."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Verandering van aggregatietoestand",
@@ -3152,6 +3546,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Verandering van aggregatietoestand",
@@ -3160,6 +3555,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Verandering van aggregatietoestand",
@@ -3168,6 +3564,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Verandering van aggregatietoestand",
@@ -3176,6 +3573,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3184,6 +3582,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3192,6 +3591,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3200,6 +3600,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3208,6 +3609,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3216,6 +3618,7 @@
     "colK": "De haardroger: iets laten bewegen, warm maken. \nAls je trapt op de fiets, gaat hij vooruit.\nDe wind kan een windmolen laten bewegen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3224,6 +3627,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3232,6 +3636,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3240,6 +3645,7 @@
     "colK": "De kachel, de boiler, zonnecollectoren…"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3248,6 +3654,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3256,6 +3663,7 @@
     "colK": "Elektriciteit in licht, in warmte\nWater wordt door een rad omgezet in elektriciteit. Wind wordt door een windmolen omgezet in elektriciteit."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3264,6 +3672,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3272,6 +3681,7 @@
     "colK": "Een voorwerp achter een ander voorwerp wordt niet verlicht omdat het licht in een rechte lijn gaat en niet om bochten kan."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3280,6 +3690,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3288,6 +3699,7 @@
     "colK": "De schaduw wordt kleiner wanneer de zaklamp verder weg staat van het voorwerp."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3296,6 +3708,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3304,6 +3717,7 @@
     "colK": "Met twee spiegels een lichtstraal om een hoekje sturen."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3312,6 +3726,7 @@
     "colK": "Je legt je duim en wijsvinger om je keel. Als je dan praat, voel je de lucht in je keel trillen. Dat komt omdat de lucht tussen je gespannen stembanden beweegt. De lucht trilt niet overal even hard. Door je stembanden meer te spannen, maak je een hoger geluid. Zo kun je tijdens het praten hoge en lage tonen maken."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3320,6 +3735,7 @@
     "colK": "Stem, radio, luidspreker, muziekinstrument, natuurlijke geluiden zoals water, wind, dieren."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3328,6 +3744,7 @@
     "colK": "Wanneer je dicht bij een luidspreker staat, klinkt muziek harder dan verderop in de klas."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3336,6 +3753,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3344,6 +3762,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3352,6 +3771,7 @@
     "colK": "De leerlingen slaan op een triangel en horen het geluid, daarna steken ze deze gedeeltelijk in water en zien ze aan de rimpelingen in het water de trilling."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3360,6 +3780,7 @@
     "colK": "Je houdt een stemvork tegen een tafel: je hoort het geluid veel beter omdat de trillingen zich in vaste stoffen sneller voortplanten. In water hoor je geluiden onder water soms harder dan boven water."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3368,6 +3789,7 @@
     "colK": "Wanneer je met je oor tegen een tafel luistert, hoor je tikgeluiden beter doordat hout trillingen goed doorgeeft."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3376,6 +3798,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3384,6 +3807,7 @@
     "colK": "Een bal die rolt, krijgt een duw van opzij en verandert daardoor van richting."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3392,6 +3816,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3400,6 +3825,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3408,6 +3834,7 @@
     "colK": "Verschillende voorwerpen laten vallen (een knikker, een spons, een veer) en zien dat alles naar de grond valt door zwaartekracht."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3416,6 +3843,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3424,6 +3852,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3432,6 +3861,7 @@
     "colK": "Als je iets in beweging wil krijgen, heb je kracht nodig. Als je iets wilt stoppen, heb je ook kracht nodig. Touwtrekken. Eigen lichaam heeft ook kracht nodig om in beweging te komen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3440,6 +3870,7 @@
     "colK": "Wanneer op een lichte en een zware bal dezelfde kracht wordt uitgeoefend, zal de lichte bal sterker versnellen dan de zware bal."
   },
   {
+    "colA": "+",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3448,6 +3879,7 @@
     "colK": "Zowel massa als vorm kunnen van invloed zijn. Een bootje van klei drijft wel maar een bol klei zinkt."
   },
   {
+    "colA": "+",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3456,6 +3888,7 @@
     "colK": "Een bal onder water duwen en voelen dat het water de bal omhoog duwt."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3464,6 +3897,7 @@
     "colK": "De leerlingen verbinden batterij-geleider-lampje in een kring en het lampje laten branden."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3472,6 +3906,7 @@
     "colK": "De leerlingen merken dat het lampje niet brandt wanneer één draad los zit."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3480,6 +3915,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3488,6 +3924,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3496,6 +3933,7 @@
     "colK": "Herkennen een stroomkring in een tekening met batterij, geleider en lamp."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3504,6 +3942,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3512,6 +3951,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3520,6 +3960,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3528,6 +3969,7 @@
     "colK": "Een stroomkring bouwen met batterij-schakelaar-lamp en schakelen het lampje aan en uit."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3536,6 +3978,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3544,6 +3987,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3552,6 +3996,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3560,6 +4005,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3568,6 +4014,7 @@
     "colK": "De leerlingen zien dat een magneet een paperclip kan optillen zonder contact: krachtwerking op afstand."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3576,6 +4023,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3584,6 +4032,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3592,6 +4041,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3600,6 +4050,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3608,6 +4059,7 @@
     "colK": "De leerlingen brengen een magneet in de buurt van een kompas en zien de naald draaien zonder dat er aanraking is."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": null,
@@ -3616,6 +4068,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3624,6 +4077,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3632,6 +4086,7 @@
     "colK": "- windenergie\n- zonne-energie"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3640,6 +4095,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3648,6 +4104,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3656,6 +4113,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Verandering van aggregatietoestand",
@@ -3664,6 +4122,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Verandering van aggregatietoestand",
@@ -3672,6 +4131,7 @@
     "colK": null
   },
   {
+    "colA": "+",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3680,6 +4140,7 @@
     "colK": "Een metalen lepel wordt warm in hete soep (goede geleider), terwijl een houten lepel koel blijft (isolator)."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3688,6 +4149,7 @@
     "colK": "Een zonnecel zet lichtenergie om in elektrische energie. Een verbrandingsmotor zet chemische energie van brandstof om in bewegingsenergie."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3696,6 +4158,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3704,6 +4167,7 @@
     "colK": "Elektrische energie kan opgewerkt worden door systemen die een andere energievorm omzetten: \n- zonnecellen zetten stralingsenergie om naar elektrische energie \n- windmolens zetten bewegingsenergie van de wind om naar elektrische energie \n- waterturbines zetten bewegingsenergie in waterstromen om naar elektrische energie."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3712,6 +4176,7 @@
     "colK": "Batterij"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3720,6 +4185,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3728,6 +4194,7 @@
     "colK": "Reflecterende strip op fluojas voor de veiligheid, een gordijn laat deels licht door, zwarte kleding wordt sneller warm dan witte, helder glas laat licht nagenoeg volledig door."
   },
   {
+    "colA": "+",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3736,6 +4203,7 @@
     "colK": "Met een waterspuit in de zon een regenboog maken."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3744,6 +4212,7 @@
     "colK": "Een klasgenoot praat normaal van dichtbij maar wanneer hij naar het andere einde van de ruimte wandelt, klinkt zijn stem veel stiller."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3752,6 +4221,7 @@
     "colK": "Wanneer een deur dicht is, hoor je de geluiden uit de gang veel zachter dan wanneer de deur openstaat.\nIn de eetzaal hangen we akoestische panelen of textiel om het geluid te dempen."
   },
   {
+    "colA": "+",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3760,6 +4230,7 @@
     "colK": "Wanneer je in een lege sportzaal hard in je handen klapt, hoor je een tweede klap terug. Wanneer je in een diepe waterput roept, dan hoor je even later wat je geroepen hebt uit de put terugkomen."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3768,6 +4239,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3776,6 +4248,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3784,6 +4257,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3792,6 +4266,7 @@
     "colK": "Krachten voelen tijdens het versnellen of vertragen of het nemen van een bocht in een voertuig of pretparkattractie."
   },
   {
+    "colA": "+",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3800,6 +4275,7 @@
     "colK": "De leerling testen een ei in water, olie en zout water: het ei drijft in zout water maar zinkt in gewoon water."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": null,
@@ -3808,6 +4284,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3816,6 +4293,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3824,6 +4302,7 @@
     "colK": "Doosje met verschillende materialen. Een testapparaatje bestaande uit een stroomkring met een lampje. Als het lampje niet brand, dan geleidt het geteste materiaal niet."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3832,6 +4311,7 @@
     "colK": "De leerlingen groeperen materialen in twee bakjes: 'geleiders' en 'isolatoren'."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3840,6 +4320,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3848,6 +4329,7 @@
     "colK": "De leerlingen leggen uit dat een open stroomkring de energiestroom onderbreekt."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3856,6 +4338,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3864,6 +4347,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3872,6 +4356,7 @@
     "colK": "Slechte contacten, losse verbindingen, defecte schakelaar, lege batterij, gebroken elektrische geleider"
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3880,6 +4365,7 @@
     "colK": "Een haardroger die elektrische energie omzet in warmte, beweging (luchtstroom) en geluid."
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3888,6 +4374,7 @@
     "colK": "Een ballon tegen haar wrijven, laat de ballon aan de muur kleven."
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3896,6 +4383,7 @@
     "colK": "De leerling wrijven een ballon op een trui en zien dat papiersnippers worden aangetrokken."
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3904,6 +4392,7 @@
     "colK": "Wol, katoen, plastic of rubber wrijven en testen welk materiaal de sterkste lading heeft."
   },
   {
+    "colA": "+",
     "fase": "L5.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Magnetisme",
@@ -3912,6 +4401,7 @@
     "colK": "Een elektromagneet in een kraan, een magneetrem in een achtbaan, scheiding van metalen bij recyclage."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Natuurkundige verschijnselen",
     "subdomein": null,
@@ -3920,6 +4410,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": null,
@@ -3928,6 +4419,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Kracht en beweging",
@@ -3936,6 +4428,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Energie en warmte",
@@ -3944,6 +4437,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Licht",
@@ -3952,6 +4446,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Geluid",
@@ -3960,6 +4455,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": "Elektriciteit",
@@ -3968,6 +4464,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Natuurkundige verschijnselen",
     "subdomein": null,
@@ -3976,6 +4473,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -3984,6 +4482,7 @@
     "colK": "-Voelen aan materialen, luisteren naar geluiden, kijken naar wat beweegt of verandert.\n- De leerlingen voelen sneeuw met hun handen en merken dat die koud en nat is."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -3992,6 +4491,7 @@
     "colK": "Het water is nat, de bal rolt."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4000,6 +4500,7 @@
     "colK": "Waarom valt dat? Waar komt dat geluid vandaan?"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4008,6 +4509,7 @@
     "colK": "- Als ik op de knop duw, gaat het licht branden.\n- Als ik te lang wacht om aan mijn ijsje te likken, smelt het."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4016,6 +4518,7 @@
     "colK": "-Kijken wat er verandert wanneer de leerlingen water toevoegen aan zand.\n-Een auto van een helling laten rollen en zien dat hij vanzelf begint te bewegen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4024,6 +4527,7 @@
     "colK": "Als ik blaas, beweegt het veertje."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4032,6 +4536,7 @@
     "colK": "-De ijzeren spijkers blijven plakken aan een magneet en de houten stok niet.\n-De steen zinkt maar het stukje hout blijft drijven."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4040,6 +4545,7 @@
     "colK": "De plant is gegroeid omdat we water hebben gegeven."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4048,6 +4554,7 @@
     "colK": "Woorden gebruiken als: warm, koud, zwaar, licht, magnetisch bij het uitleggen van waarnemingen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4056,6 +4563,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4064,6 +4572,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4072,6 +4581,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4080,6 +4590,7 @@
     "colK": "Smelt chocolade sneller in je hand dan op een bord?"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4088,6 +4599,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4096,6 +4608,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4104,6 +4617,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4112,6 +4626,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4120,6 +4635,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4128,6 +4644,7 @@
     "colK": "Meester, als ik een pitje van een appel opeet, kan er dan een boompje in mijn buik groeien?' Een echte onderzoeksvraag! Ongetwijfeld ken je het experiment waarbij de ene plant water krijgt en een andere plant niet. Nog een andere plant wordt in het donker gezet, een vierde in de koelkast. Maar hoeveel plantjes moet je onderzoek nu bevatten om aan eerlijk onderzoek te doen (zodat je precies weet welke omstandigheden ervoor zorgen dat een plant groeit)? Krijgt de plant in de zon water? Of zet je twee potten op de vensterbank?... Een doordenkertje. (Van De Keere & Neyrynck, 2020)."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4136,6 +4653,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4144,6 +4662,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4152,6 +4671,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4160,6 +4680,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4168,6 +4689,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4176,6 +4698,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4184,6 +4707,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4192,6 +4716,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4200,6 +4725,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4208,6 +4734,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4216,6 +4743,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4224,6 +4752,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4232,6 +4761,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4240,6 +4770,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4248,6 +4779,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Onderzoekende houding",
@@ -4256,6 +4788,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4264,6 +4797,7 @@
     "colK": "Manipulerend spel"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4272,6 +4806,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4280,6 +4815,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4288,6 +4824,7 @@
     "colK": "Ik maak een garage voor mijn auto."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4296,6 +4833,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4304,6 +4842,7 @@
     "colK": "Dit is een hok voor de hond zodat hij niet nat wordt."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4312,6 +4851,7 @@
     "colK": "De knuffel valt uit het bed, we maken een hek; de eieren vallen uit het nest, we maken een rand aan het nest; de vogels pikken de zaadjes uit de moestuin, we maken een vogelverschrikker."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4320,6 +4860,7 @@
     "colK": "Uitleggen dat een lepel is gemaakt om te scheppen, een paraplu om droog te blijven, een brug om over water te gaan."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4328,6 +4869,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4336,6 +4878,7 @@
     "colK": "Een brooddoos zorgt ervoor dat je boterhammen vers blijven tot de middag."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4344,6 +4887,7 @@
     "colK": "Het ontwerpen van een slinger voor een verjaardagsfeestje."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4352,6 +4896,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4360,6 +4905,7 @@
     "colK": "De wind waait je werkblad weg. => Je ontwerpt een bladhouder met knijpers."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4368,6 +4914,7 @@
     "colK": "Sterk, waterdicht, hoog"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4376,6 +4923,7 @@
     "colK": "Het ontwerpen van een slinger voor een verjaardagsfeestje."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4384,6 +4932,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4392,6 +4941,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4400,6 +4950,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4408,6 +4959,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4416,6 +4968,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4424,6 +4977,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4432,6 +4986,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4440,6 +4995,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4448,6 +5004,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4456,6 +5013,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4464,6 +5022,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4472,6 +5031,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4480,6 +5040,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4488,6 +5049,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4496,6 +5058,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4504,6 +5067,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4512,6 +5076,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4520,6 +5085,7 @@
     "colK": "Wagen op lucht: In het kader van een activiteit rond duurzaam transport gaan leerlingen aan de slag met een prototype van een wagentje dat zich kan voortbewegen op de kracht van lucht. Elk groepje krijgt het materiaal om het wagentje te bouwen, maar ze krijgen geen stappenplan. Na overleg of een tekening wordt er echt gebouwd. Bij het voortdurend testen merkt het leerlingengroepje dat het autootje niet vooruitkomt. De leerkracht heeft hier de rol om vragen te stellen, niet om antwoorden te geven: 'Wat is het probleem precies?' 'Hoe komt het dat...?' 'Wat zou je kunnen veranderen zodat...?' Een voorbeeld waarbij het ontwerp gebreken vertoont en bijgevolg moet worden geoptimaliseerd: de as van de wielen wordt vastgekleefd tegen de onderkant van de wagen. ('Hé, dat rijdt niet!') Je kan dat oplossen door te werken met een satéstokje dat door een rietje geschoven wordt. Het rietje wordt dan vastgekleefd, zodat het stokje vrij kan bewegen. Een ander voorbeeld: bij het uittesten gaat de wagen wel goed vooruit, maar hij rijdt schuin. Hoe kunnen we dat oplossen? De leerlingen moeten hun eerste ontwerp bijsturen zodat het beantwoordt aan de vooropgestelde criteria (uit zichzelf voortbewegen op de kracht van lucht, mooi rechtdoor rijden,...). (Van De Keere & Neyrynck, 2020)"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4528,6 +5094,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4536,6 +5103,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4544,6 +5112,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Systematische en methodische benadering van wetenschappelijke en technologische problemen",
     "subdomein": "Ontwerpend leren",
@@ -4552,6 +5121,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4560,6 +5130,7 @@
     "colK": "Een paraplu helpt om droog te blijven in de regen maar niet helpt bij wind omdat hij omklapt."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4568,6 +5139,7 @@
     "colK": "Een schooltas met wieltjes helpt wanneer een boekentas te zwaar is om te dragen."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4576,6 +5148,7 @@
     "colK": "Een fietshelm helpt om je hoofd te beschermen bij een val, maar dat je meer risico loopt zonder helm."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4584,6 +5157,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4592,6 +5166,7 @@
     "colK": "Een fluohesje maakt je zichtbaar in het verkeer maar kan zweterig zijn in de zomer."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4600,6 +5175,7 @@
     "colK": "Een fiets voor een kind een lage instap en stabiele wielen heeft terwijl een fiets voor een sporter licht en aerodynamisch is."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4608,6 +5184,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4616,6 +5193,7 @@
     "colK": "Sociale media kan mensen met elkaar kan verbinden maar ook zorgen voor schermverslaving of cyberpesten."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4624,6 +5202,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4632,6 +5211,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4640,6 +5220,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4648,6 +5229,7 @@
     "colK": "Een vaccin beschermt tegen ernstige ziektes. Bij nieuwe medische technologie weten we soms nog niet alle langetermijneffecten. Mensen leven langer en gezonder.\nSneller informatie opzoeken en leren met educatieve apps. Te veel schermtijd kan mijn concentratie en slaap beïnvloeden. Mensen kunnen gemakkelijker contact houden, ook met familie ver weg. Online pesten kan sneller en anoniemer gebeuren. Digitale technologie zorgt voor nieuwe beroepen en efficiënter werken. Sommige jobs verdwijnen door automatisering."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4656,6 +5238,7 @@
     "colK": "Door droogte zijn er vaker bosbranden en moeten ingenieurs nieuwe systemen bedenken om water beter te bewaren.\nMensen worden zich meer bewust van het belang van duurzaamheid waardoor ze energie besparen, minder afval produceren en bewuster omgaan met vervoer en voeding."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4664,6 +5247,7 @@
     "colK": "Zonnepanelen leveren energie zonder CO2-uitstoot."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4672,6 +5256,7 @@
     "colK": "Waterzuiveringsinstallaties maken vuil water opnieuw schoon."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4680,6 +5265,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Hoe mens, wetenschap en technologie elkaar beïnvloeden",
@@ -4688,6 +5274,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4696,6 +5283,7 @@
     "colK": "Onder impuls van de leraar verwondering voor technische systemen zoals een scharnier van een deur, vloeistof overgieten met trechter, een zeef gebruiken in de zandbak…"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4704,6 +5292,7 @@
     "colK": "Een deur open en dicht doen, een kraan opendraaien, een knop indrukken, een dop opdraaien."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4712,6 +5301,7 @@
     "colK": "Een deksel op een potje draaien; water gieten met een kan in de watertafel."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4720,6 +5310,7 @@
     "colK": "Een schaar gebruiken zonder te lopen, voorzichtig omgaan met hamers of vijzen in de bouwhoek, opletten voor vingers tussen de deur."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4728,6 +5319,7 @@
     "colK": "Blokken, dozen, bekers op elkaar zetten tot een toren."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4736,6 +5328,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4744,6 +5337,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4752,6 +5346,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4760,6 +5355,7 @@
     "colK": "Een schaar gebruiken zonder te lopen, voorzichtig omgaan met hamers of vijzen in de bouwhoek, opletten voor vingers tussen de deur."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4768,6 +5364,7 @@
     "colK": "Stapelen, in elkaar passen, in-verband-leggen o.a. met constructiematerialen."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4776,6 +5373,7 @@
     "colK": "Lijm, knopen, spijkers, schroeven, bouten, moeren."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4784,6 +5382,7 @@
     "colK": "Grote blokken onderaan zetten en kleinere bovenaan zodat de toren minder snel omvalt. Bouwblokjes vastklikken in plaats van ze los op elkaar te leggen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4792,6 +5391,7 @@
     "colK": "Vaste verbinding zoals lijmen. Losse verbinding zoals een splitpen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4800,6 +5400,7 @@
     "colK": "Een schaar gebruiken om te knippen, een rits om te sluiten, een hijskraan in de bouwhoek bedienen door aan een touw te trekken."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4808,6 +5409,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4816,6 +5418,7 @@
     "colK": "Als ik op de knop druk, gaat het licht aan., Als ik aan de kraan draai, stroomt er water uit."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4824,6 +5427,7 @@
     "colK": "Stapelen, in elkaar passen, in-verband-leggen o.a. met constructiematerialen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4832,6 +5436,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4840,6 +5445,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4848,6 +5454,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4856,6 +5463,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4864,6 +5472,7 @@
     "colK": "Hechten, knopen."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4872,6 +5481,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4880,6 +5490,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4888,6 +5499,7 @@
     "colK": "Scharnieren, klikverbindingen, hechtingen zoals lijmen, schroeven, lassen, nagelen, naaien, knopen …"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4896,6 +5508,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4904,6 +5517,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4912,6 +5526,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4920,6 +5535,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4928,6 +5544,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4936,6 +5553,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4944,6 +5562,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4952,6 +5571,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4960,6 +5580,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4968,6 +5589,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4976,6 +5598,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4984,6 +5607,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -4992,6 +5616,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5000,6 +5625,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5008,6 +5634,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5016,6 +5643,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5024,6 +5652,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5032,6 +5661,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5040,6 +5670,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5048,6 +5679,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5056,6 +5688,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5064,6 +5697,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5072,6 +5706,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5080,6 +5715,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5088,6 +5724,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5096,6 +5733,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5104,6 +5742,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen hanteren",
@@ -5112,6 +5751,7 @@
     "colK": "Fietsband plakken, batterij vervangen."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5120,6 +5760,7 @@
     "colK": "De stoel: de poten dragen, de rugleuning ondersteunt, de zitting dient om op te zitten."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5128,6 +5769,7 @@
     "colK": "De schaar: knipt doordat de twee bladen over elkaar schuiven wanneer je de handgrepen samenknijpt."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5136,6 +5778,7 @@
     "colK": "De fiets: het frame is van metaal (stevig), de banden van rubber (grip), het zadel van kunststof (comfort)"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5144,6 +5787,7 @@
     "colK": "De drinkfles: het dopje heeft een rubberen ring zodat het waterdicht afsluit, de fles zelf is van kunststof of metaal omdat die stevig en herbruikbaar is."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5152,6 +5796,7 @@
     "colK": "Een muur van blokken blijft steviger staan als de blokken in stapelverbanden liggen en niet gewoon recht op elkaar gestapeld zijn."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5160,6 +5805,7 @@
     "colK": "De fiets: de trappers zetten de ketting in beweging, de ketting laat het achterwiel draaien, de remmen werken samen met de velg om te stoppen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5168,6 +5814,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5176,6 +5823,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5184,6 +5832,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5192,6 +5841,7 @@
     "colK": "Een nagel: heeft een punt om gemakkelijk door het hout te klieven en een plat vlak om gemakkelijk op te kunnen kloppen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5200,6 +5850,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5208,6 +5859,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5216,6 +5868,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5224,6 +5877,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5232,6 +5886,7 @@
     "colK": "Hefboomwerking: door een kleine kracht uit te oefenen op een lange hefboomarm ontstaat op de korte arm een grotere kracht, die toelaat een massa te verplaatsen (bv. schaar, tang, wip, flesopener)."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5240,6 +5895,7 @@
     "colK": "De katrol: door aan een lang stuk touw met een kleine kracht te trekken, zorgt de katrol ervoor dat aan de last een grotere kracht werkt over een kortere verplaatsing, zodat een zware massa kan worden opgetild."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5248,6 +5904,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5256,6 +5913,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5264,6 +5922,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5272,6 +5931,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5280,6 +5940,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5288,6 +5949,7 @@
     "colK": "-De wip: samenhang van hefboomwerking en zwaartekracht.\n-Een magneetsluiting in een schooltas."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5296,6 +5958,7 @@
     "colK": "De laptop: behuizing van kunststof of licht metaal voor stevigheid én laag gewicht, ventilatiegleuven of koelribben om warmte af te voeren."
   },
   {
+    "colA": "+",
     "fase": "L6.",
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5304,6 +5967,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5312,6 +5976,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5320,6 +5985,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",
@@ -5328,6 +5994,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Technologie",
     "subdomein": "Technische systemen beschrijven",

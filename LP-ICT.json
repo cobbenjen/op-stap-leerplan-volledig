@@ -1,5 +1,6 @@
 [
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -8,6 +9,7 @@
     "colK": "Zelfstandig een tablet nemen, een boekjes-app openen en weten dat wanneer je een verhaal op de tablet wil bekijken, je moet swipen over het scherm om de pagina van het boek om te draaien."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -16,6 +18,7 @@
     "colK": "Zelfstandig een toestel opstarten en een educatief spelletje openen, begrijpen dat je op een figuur moet klikken of tikken om het als spelfiguur te activeren."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -24,6 +27,7 @@
     "colK": "Analoog = een knuffelbeer, Digitaal = De robot \nDeze zit in een computerspelletje in de tablet of de computer. Je kunt hem niet vastpakken, wel zien en ermee spelen op het scherm. Deze robot is gemaakt van onzichtbare code, een soort geheime taal van nullen en enen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -32,6 +36,7 @@
     "colK": "Begrijpen dat een tablet een bericht verwerkt: je typt iets (invoer), het toestel verwerkt dit en toont het bericht op het scherm (uitvoer)."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -40,6 +45,7 @@
     "colK": "Online: een nieuw onlinefilmpje of een nieuwe game zoeken (jouw toestel haalt de informatie via het internet op van een andere, verre computer). \nOffline: een boek lezen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -48,6 +54,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -56,6 +63,7 @@
     "colK": "Je klikt op een icoon met de muis (invoer). De gebruiker klikt op start, het toestel start het spel op en het eerste level wordt getoond (verwerking). Het spel verschijnt op het scherm (uitvoer). Je vooruitgang wordt bewaard in het spel om later verder te spelen (opslag)."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -64,6 +72,7 @@
     "colK": "Wanneer jij een bericht verstuurt via een berichtenapp, wisselen jouw telefoon en de telefoon van je vriend razendsnel de digitale tekstgegevens met elkaar uit via het internet."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -72,6 +81,7 @@
     "colK": "Via kabel, wifi of mobiel internet"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -80,6 +90,7 @@
     "colK": "Wanneer je in een gedeeld document typt, worden jouw letters via internet verstuurd, verwerkt op een centrale cloudserver en dan doorgestuurd zodat je klasgenoot ze ook onmiddellijk ziet."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -88,6 +99,7 @@
     "colK": "De informatieverwerking is het proces waarbij de computer bijvoorbeeld na een klik op de app (invoer), door te rekenen met enen en nullen (verwerking), de app opstart (uitvoer) en dit eventueel opslaat voor later gebruik."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -96,6 +108,7 @@
     "colK": "Wanneer je op de fotoknop drukt (invoer), meet de camera het licht en stelt scherp (verwerking), toont de foto op je scherm (uitvoer) en bewaart het digitale bestand in het geheugen (opslag). Vervolgens deel je het bestand met de ontvanger."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -104,6 +117,7 @@
     "colK": "Wanneer je een foto op Instagram plaatst, stuurt jouw smartphone (digitaal systeem A) het fotobestand via het internet naar de servers van Instagram (digitaal systeem B), zodat je volgers de foto op hun eigen toestel kunnen zien."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -112,6 +126,7 @@
     "colK": "Via kabel, wifi of mobiel internet"
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -120,6 +135,7 @@
     "colK": "Begrijpen dat bij online gamen meerdere spelers tegelijk in verbinding staan via het internet, zodat ze samen kunnen spelen en communiceren (realtime gegevensuitwisseling)."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -128,6 +144,7 @@
     "colK": "Wanneer je een bericht typt via het toetsenbord (invoer), verschijnt de tekst op het scherm (uitvoer), waarna je op 'bewaren' klikt om het document op de harde schijf vast te leggen (opslag)."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -136,6 +153,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -144,6 +162,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -152,6 +171,7 @@
     "colK": "via kabel, wifi of mobiel internet"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -160,6 +180,7 @@
     "colK": "Leerlingen begrijpen dat een tablet een bericht verwerkt: je typt iets (invoer), het toestel verwerkt dit en toont het bericht op het scherm (uitvoer).  \nLeerlingen begrijpen dat bij online gamen meerdere spelers tegelijk in verbinding staan via het internet, zodat ze samen kunnen spelen en communiceren (realtime gegevensuitwisseling)."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Inzicht in digitale systemen",
@@ -168,6 +189,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -176,6 +198,7 @@
     "colK": "Een algoritme is een stap-voor-stap plan dat jij of een computer volgt om een taak uit te voeren of een probleem op te lossen zoals bijvoorbeeld de instructies voor het tekenen van een figuur."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -184,6 +207,7 @@
     "colK": "Een algoritme is een stap-voor-stap plan of een nauwkeurig recept dat een computer of jij kunt volgen om een specifiek probleem op te lossen of een taak te voltooien zoals bijvoorbeeld de instructies voor een recept volgen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -192,6 +216,7 @@
     "colK": "Abstractie betekent dat we alle kleine, onnodige details weglaten en ons enkel focussen op bijvoorbeeld de route van de Bee-Bot en niet op de details van de mat waar hij op rijdt."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -200,6 +225,7 @@
     "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen zoals wanneer leerlingen bijvoorbeeld zonder hulpmiddel voorwerpen seriëren van licht naar zwaar: je vergelijkt telkens de massa van twee voorwerpen door ze elk in één hand te nemen, tot je de lichtste gevonden hebt..."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -208,6 +234,7 @@
     "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden. Zo weten de kinderen bijvoorbeeld dat na een nieuwe strofe het refrein volgt in het lied."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -216,6 +243,7 @@
     "colK": "Een algoritme is een stappenplan om een specifiek probleem op te lossen of een taak te volbrengen zoals wanneer de leerlingen een stappenplan volgen om bijvoorbeeld hun handen te wassen: eerst de kraan open, dan zeep nemen, goed wrijven, spoelen, de kraan sluiten en tenslotte de handen afdrogen."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -224,6 +252,7 @@
     "colK": "Abstractie betekent dat we alle onnodige details weglaten en alleen de belangrijkste informatie overhouden zoals bijvoorbeeld bij het leren lezen focussen op de letters en niet op de kleur van de inkt of de paginanummers."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -232,6 +261,7 @@
     "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen, zoals bijvoorbeeld een taart versieren: eerst de slagroom, dan de hagelslag en tot slot de kaarsjes."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -240,6 +270,7 @@
     "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld ontdekken dat om een beebot in een vierkant te laten bewegen je vier keer na elkaar enkele stappen voorwaarts moet zetten, gevolgd door een kwartdraai."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -248,6 +279,7 @@
     "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld veters strikken: eerst kruisen, dan een lus maken, knopen en aantrekken."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -256,6 +288,7 @@
     "colK": "De essentie van sequentie is de volgorde waarin de stappen uitgevoerd moeten worden, zoals bijvoorbeeld het belang van het nemen van een boterham alvorens hem te besmeren."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -264,6 +297,7 @@
     "colK": "Abstractie betekent dat we alle kleine, onnodige details weglaten en alleen de belangrijkste informatie overhouden zoals bijvoorbeeld het tekenen van een auto met alleen de basisvorm en de wielen, zonder elk schroefje."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -272,6 +306,7 @@
     "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen, zoals bijvoorbeeld het opruimen in de klas waar iedereen een eigen rol of taak heeft."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -280,6 +315,7 @@
     "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld het werken met herhalingen bij het programmeren van een robot in plaats van alle stappen afzonderlijk in te voeren."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -288,6 +324,7 @@
     "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld het volgen van een koekjesrecept om een lekker resultaat te krijgen."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -296,6 +333,7 @@
     "colK": "De essentie van sequentie is de volgorde waarin de stappen uitgevoerd moeten worden, zoals dat het bijvoorbeeld bij het veilig oversteken van de straat belangrijk is dat je eerst kijkt naar links en rechts en pas de straat oversteekt wanneer het veilig is."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -304,6 +342,7 @@
     "colK": "Abstractie betekent het weglaten van details zoals bijvoorbeeld bij een kaart van België waarbij enkel de hoofdwegen en steden getekend zijn en je geen huis of stoep kan zien omdat ze minder relevant zijn om de weg te vinden."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -312,6 +351,7 @@
     "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen, zoals bijvoorbeeld bij het bouwen van een blokkenbouwsel belangrijk is om eerst te focussen op de basislaag om zo de grootte en stabiliteit van het bouwsel vast te leggen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -320,6 +360,7 @@
     "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld het werken met herhalingen bij het programmeren van een robot in plaats van alle stappen afzonderlijk in te voeren."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -328,6 +369,7 @@
     "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld het stappenplan om in te loggen op de klascomputer: je moet eerst de gebruikersnaam typen, dan op 'enter' drukken, vervolgens het wachtwoord correct invoeren en dan nogmaals op ‘enter’ drukken."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -336,6 +378,7 @@
     "colK": "Sequentie betekent dat je de stappen voor een taak in de juiste volgorde moet zetten, want de ene stap komt altijd vóór de andere zoals je bijvoorbeeld om een estafette-race te winnen, de loopvolgorde moet aanhouden: eerst loopt de eerste loper, dan geeft hij het stokje door, en pas als laatste mag de volgende loper starten."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -344,6 +387,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -352,6 +396,7 @@
     "colK": "Abstractie betekent dat we alle kleine, onnodige details weglaten en alleen de belangrijkste informatie overhouden zoals wanneer je bijvoorbeeld een fiets koopt, je alleen kijkt naar de belangrijkste eigenschappen (kleur, aantal versnellingen en wielen) en je details zoals de schroefjes en de bel onbelangrijk vindt om te beslissen welke fiets je wilt."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -360,6 +405,7 @@
     "colK": "Decompositie is het opdelen van een groot, moeilijk probleem in kleinere, makkelijker te beheren stukken om ze één voor één op te lossen zoals wanneer je bijvoorbeeld een digitale strip maakt, het werk verdeelt in het tekenen van de figuren, het schrijven van de tekstballonnen en het samenvoegen van de scènes in de juiste volgorde."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -368,6 +414,7 @@
     "colK": "Patroonherkenning is het zoeken naar gelijkenissen of terugkerende elementen in een probleem of situatie, om zo sneller een oplossing te vinden zoals bijvoorbeeld wanneer je de reeks 2, 4, 6, 8, 10 ziet, je weet dat er telkens 2 bijkomt, en je dan gemakkelijk de volgende getallen kan voorspellen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -376,6 +423,7 @@
     "colK": "Een algoritme is een precies stappenplan dat je moet volgen om een specifiek probleem op te lossen of een taak te volbrengen zoals bijvoorbeeld wanneer de leerlingen weten dat het invullen van een digitale quiz (lees de vraag, typ je antwoord, controleer of het juist is, ga naar de volgende vraag) een algoritme is dat je exact moet volgen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -384,6 +432,7 @@
     "colK": "Sequentie betekent dat je de stappen voor een taak in de juiste volgorde moet zetten, want de ene stap komt altijd vóór de andere zoals wanneer je bijvoorbeeld een nieuwe vriend toevoegt aan een digitaal project, je de commando's in de juiste volgorde moet zetten: eerst op de plus-knop klikken, dan de naam van de vriend intypen, en pas als laatste op 'bevestigen' drukken."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -392,6 +441,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -400,6 +450,7 @@
     "colK": "Abstractie: het focussen op wat belangrijk is en het weglaten van overbodige details Decompositie: het opdelen van een groot probleem in kleinere, hanteerbare delen Patroonherkenning: het zien van gelijkenissen en herhalingen in gegevens of opdrachten, bv. in reeksen, ritmes, bewegingen en programmeeropdrachten Algoritme: een expliciete reeks eenduidige instructies die stapsgewijs moet worden uitgevoerd, waarbij zowel de instructies als hun volgorde essentieel zijn om het gewenste resultaat te bereiken om zowel een niet-digitaal als digitaal probleem op te lossen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -408,6 +459,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -416,6 +468,7 @@
     "colK": "Om de finish te bereiken, moet het personage eerst beginnen met lopen (sequentie), blijven stappen zetten (herhaling), en kiezen (keuze) om naar links te gaan wanneer er een obstakel is."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -424,6 +477,7 @@
     "colK": "Om de robot door het doolhof te leiden, moet het programma eerst de beweging starten (sequentie), blijven controleren (herhaling) of er een muur is, en kiezen (keuze) om naar rechts te draaien als de weg rechtdoor geblokkeerd is."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Computationeel denken",
     "subdomein": "Principes van computationeel denken",
@@ -432,6 +486,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -440,6 +495,7 @@
     "colK": "Drukken en loslaten."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -448,6 +504,7 @@
     "colK": "Kijken naar licht of beeld op een scherm."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -456,6 +513,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -464,6 +522,7 @@
     "colK": "Drukken op een knop waardoor geluid of beeld verschijnt."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -472,6 +531,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -480,6 +540,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -488,6 +549,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -496,6 +558,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -504,6 +567,7 @@
     "colK": "Kijken, glimlachen of bewegen bij beeld of geluid."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -512,6 +576,7 @@
     "colK": "Samen kijken naar een scherm."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -520,6 +585,7 @@
     "colK": "Korte tijd blijven kijken naar een bewegend beeld of licht."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -528,6 +594,7 @@
     "colK": "Een bewegend object volgen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -536,6 +603,7 @@
     "colK": "Tikken of klikken en zien dat er iets verandert."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -544,6 +612,7 @@
     "colK": "Herhaaldelijk op dezelfde app klikken. Het filmpje aanklikken dat hij/zij wil zien."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -552,6 +621,7 @@
     "colK": "Een afbeelding of knop aantikken."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -560,6 +630,7 @@
     "colK": "Met ondersteuning een app openen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -568,6 +639,7 @@
     "colK": "Een touchscreen gebruiken om eenvoudige puzzels in elkaar te schuiven. Leraar helpt hem/haar blik te richten, op tijd los te laten."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -576,6 +648,7 @@
     "colK": "Een foto of pictogram aanraken aan om een behoefte te tonen."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -584,6 +657,7 @@
     "colK": "Een aangepaste muis, toetsenbord of oogbesturing gebruiken."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -592,6 +666,7 @@
     "colK": "Zelfstandig een app openen."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -600,6 +675,7 @@
     "colK": "Zelfstandig swipen, tikken of slepen."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -608,6 +684,7 @@
     "colK": "Tekst laten voorlezen of pictogrammen bekijken."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -616,6 +693,7 @@
     "colK": "Typen, iets inspreken of symbolen selecteren."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -624,6 +702,7 @@
     "colK": "Stappenplannen, timer of leerapp gebruiken."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -632,6 +711,7 @@
     "colK": "Zelfstandig een specifieke app of programma gebruiken."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -640,6 +720,7 @@
     "colK": "Zelfstandig een pictogram aanraken en vervolgens een woord horen."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -648,6 +729,7 @@
     "colK": "Een tekst laten voorlezen, vergrote tekst of pictogrammen bekijken."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -656,6 +738,7 @@
     "colK": "Typen, inspreken of pictogrammen selecteren."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -664,6 +747,7 @@
     "colK": "Een aangepaste muis, toetsenbord, oogbesturing of brailleregel gebruiken."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -672,6 +756,7 @@
     "colK": "Eenvoudige berichten sturen en/of ontvangen."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -680,6 +765,7 @@
     "colK": "Een visueel stappenplan of timer gebruiken."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -688,6 +774,7 @@
     "colK": "Zelfstandig met een leerapp werken."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -696,6 +783,7 @@
     "colK": "Typen, inspreken of visuele boodschappen selecteren."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -704,6 +792,7 @@
     "colK": "Weten hoe leerlingen naar een bepaalde app kunnen navigeren om een digitaal verhaal te bekijken en te beluisteren."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -712,6 +801,7 @@
     "colK": "Om de instructie van de juf te horen, sluit je de hoofdtelefoon (uitvoer) aan en klik je met de muis (invoer) op de afspeelknop."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -720,6 +810,7 @@
     "colK": "Je gebruikt het toetsenbord (invoer) om je naam te typen en de spatiebalk om een lege plek tussen je voornaam en familienaam op het scherm (uitvoer) te creëren."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -728,6 +819,7 @@
     "colK": "Een bestand: digitale informatie zoals tekst, beeld, geluid, video of programma die je kunt opslaan, openen of bewerken."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -736,6 +828,7 @@
     "colK": "Je gebruikt het toetsenbord (invoer) om een hoofdletter te typen door de shift-toets ingedrukt te houden in combinatie met de juiste letter zodat de juiste spelling op het scherm (uitvoer) verschijnt."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -744,6 +837,7 @@
     "colK": "Hun opgeslagen document openen door in de bestaande mappenstructuur van de computer eerst naar de map 'Documenten' te navigeren en dan de submap 'Klas 3' te selecteren."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -752,6 +846,7 @@
     "colK": "Je gebruikt het toetsenbord om de antwoorden bij een quiz in te typen (invoer), klikt op het printicoon met de muis (invoer) en de printer (uitvoer) drukt dan je afgewerkte blad af om in te dienen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -760,6 +855,7 @@
     "colK": "Hun opgeslagen document openen door in de bestaande mappenstructuur van de computer eerst naar de map 'Documenten' te navigeren en dan de submap 'Klas 4' te selecteren."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -768,6 +864,7 @@
     "colK": "Een bestand: digitale informatie zoals tekst, beeld, geluid, video of programma dat je kunt opslaan, openen of bewerken."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -776,6 +873,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -784,6 +882,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -792,6 +891,7 @@
     "colK": "Je gebruikt de muis of het touchpad om door de slides van je spreekbeurt te klikken (invoer), terwijl de beamer of touchscreen (uitvoer) de slides groot op het scherm projecteert voor de klas."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -800,6 +900,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -808,6 +909,7 @@
     "colK": "Duidelijke bestandsnamen gebruiken, bestanden opslaan in de juiste map, verwijderen van overbodige of foute bestanden, aanmaken van mappen, hernoemen van mappen en bestanden, terughalen van verwijderde bestanden."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -816,6 +918,7 @@
     "colK": "Taalinstellingen aanpassen, wifi aan/uit zetten, weergave-instellingen aanpassen."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -824,6 +927,7 @@
     "colK": "Je gebruikt de tabtoets op het toetsenbord (invoer) om tussen invoervelden in een online formulier te schakelen, waardoor je het formulier sneller en efficiënter invult."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -832,6 +936,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -840,6 +945,7 @@
     "colK": "Duidelijke bestandsnamen gebruiken, bestanden opslaan in de juiste map, verwijderen van overbodige of foute bestanden, aanmaken van mappen, hernoemen van mappen en bestanden, terughalen van verwijderde bestanden."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -848,6 +954,7 @@
     "colK": "Taalinstellingen aanpassen, wifi aan/uit zetten, weergave-instellingen aanpassen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -856,6 +963,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -864,6 +972,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -872,6 +981,7 @@
     "colK": "Duidelijke bestandsnamen gebruiken, bestanden opslaan in de juiste map, verwijderen van overbodige of foute bestanden, aanmaken van mappen, hernoemen van mappen en bestanden, terughalen van verwijderde bestanden."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Digitale geletterdheid",
@@ -880,6 +990,7 @@
     "colK": "Taalinstellingen aanpassen, wifi aan/uit zetten, weergave-instellingen aanpassen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -888,6 +999,7 @@
     "colK": "In een digitale boekjesapp een boekje kiezen om te laten voorlezen."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -896,6 +1008,7 @@
     "colK": "In een digitaal leesboek navigeren naar het volgende hoofdstuk door op de knop 'verder' te drukken, en de juiste figuur zoeken door op de afbeelding van het personage te tikken."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -904,6 +1017,7 @@
     "colK": "In de leeromgeving navigeren van taaloefeningen naar wereldoriëntatie door op het juiste tabblad te klikken en een specifieke oefening te zoeken die de juf of meester heeft klaargezet."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -912,6 +1026,7 @@
     "colK": "In de digitale atlaskaart navigeren door in en uit te zoomen op de kaart, en een specifieke stad te zoeken door de naam in het zoekveld te typen en op 'Enter' te drukken."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -920,6 +1035,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -928,6 +1044,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -936,6 +1053,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -944,6 +1062,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -952,6 +1071,7 @@
     "colK": "De zoektermen 'België-hoofdsteden-bezienswaardigheden' in die volgorde (sequentie) gebruiken om de beste reisinformatie te vinden en de resultaten over andere landen uit (abstractie) te sluiten."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -960,6 +1080,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -968,6 +1089,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -976,6 +1098,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -984,6 +1107,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -992,6 +1116,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1000,6 +1125,7 @@
     "colK": "Voordat je op zoek gaat naar een afbeelding van een ijsbeer voor je werkstuk, bedenk je eerst de stappen (algoritme), en als je te veel resultaten krijgt, pas je je zoekwoorden onmiddellijk aan (debuggen)."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1008,6 +1134,7 @@
     "colK": "Een website over de Tweede Wereldoorlog op betrouwbaarheid beoordelen door te controleren of de auteur een historicus is, op bruikbaarheid door te kijken of de informatie eenvoudig te vinden is, en op correctheid door de feiten te vergelijken met andere bronnen."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1016,6 +1143,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1024,6 +1152,7 @@
     "colK": "Om een grote spreekbeurt over de Romeinen voor te bereiden, verdeel je het onderzoek in kleinere onderdelen (decompositie) en zoek je voor elk deel afzonderlijk de nodige informatie."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1032,6 +1161,7 @@
     "colK": "Een nieuwsartikel over het klimaat op bruikbaarheid beoordelen door te onderzoeken of het voldoende details bevat, op betrouwbaarheid door te zien of de bron recent is, en op correctheid door te controleren of de cijfers niet overdreven zijn."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1040,6 +1170,7 @@
     "colK": "Spraakherkenning, vertaaltools, aanbevelingssysteem"
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1048,6 +1179,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1056,6 +1188,7 @@
     "colK": "Een eenvoudige en effectieve prompt formuleren in een door de school beschikbaar gestelde AI-tool om content/informatie te verkrijgen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1064,6 +1197,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale informatieveiligheid",
     "subdomein": "Informatiegeletterdheid",
@@ -1072,6 +1206,7 @@
     "colK": "Spraakherkenning, vertaaltools, aanbevelingssysteem."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1080,6 +1215,7 @@
     "colK": "Voorzichtig omgaan met apparaten."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1088,6 +1224,7 @@
     "colK": "Je account is als jouw digitale kluis in de app waar je wachtwoord de geheime sleutel is die je niet hardop mag zeggen zodat alleen jij erin kan."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1096,6 +1233,7 @@
     "colK": "Een geheim wachtwoord in de app typen en dit aan niemand anders vertellen dan aan de leerkracht, zodat niemand zijn werk kan veranderen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1104,6 +1242,7 @@
     "colK": "Je naam, je woonplaats, en je telefoonnummer zijn persoonlijke gegevens die je niet zomaar online deelt omdat ze alleen van jou zijn."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1112,6 +1251,7 @@
     "colK": "Je online privacy bescherm je door in een spelletje een schuilnaam te gebruiken, zodat vreemden op het internet niet weten wie je echt bent."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1120,6 +1260,7 @@
     "colK": "Online privacy: zelf kiezen welke informatie je deelt en met wie persoonlijke gegevens: zaken zoals naam, adres, geboortedatum, telefoonnummer of school account: digitale toegang om in te loggen op een leerplatform, website of spel, vaak met een gebruikersnaam, wachtwoord en/of code."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1128,6 +1269,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1136,6 +1278,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1144,6 +1287,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1152,6 +1296,7 @@
     "colK": "Een sterk wachtwoord kiezen, weten met wie je omgaat, weten bij wie je terechtkunt voor hulp."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1160,6 +1305,7 @@
     "colK": "Auteursrecht: bescherming van eigen creaties \nPortretrecht: recht op afbeelding \nOnline veiligheid: verantwoord gedrag om jezelf en anderen te beschermen op het internet. \nNepnieuws: informatie die bewust fout of verzonnen is om mensen te misleiden."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1168,6 +1314,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1176,6 +1323,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1184,6 +1332,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1192,6 +1341,7 @@
     "colK": "Een sterk wachtwoord kiezen, weten met wie je omgaat, weten bij wie je terechtkunt voor hulp."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1200,6 +1350,7 @@
     "colK": "Berichten of screenshots bekijken en herkennen wanneer iemand wordt buitengesloten, gepest of gekwetst."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1208,6 +1359,7 @@
     "colK": "Herkennen hoe bedrijven leerlingen proberen te beïnvloeden via online reclame, spelletjes of influencers."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1216,6 +1368,7 @@
     "colK": "Cookies herkennen als het gevolg van de privacywet."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1224,6 +1377,7 @@
     "colK": "Situaties herkennen waarin veel schermtijd leidt tot vermoeidheid of afleiding."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1232,6 +1386,7 @@
     "colK": "Digitale media maken het makkelijker om snel te communiceren, maar hierdoor moet je extra goed opletten dat je geen persoonlijke informatie deelt met onbekenden om zo je online veiligheid te garanderen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1240,6 +1395,7 @@
     "colK": "Auteursrecht: bescherming van eigen creaties portretrecht: recht op afbeelding Online veiligheid: verantwoord gedrag om jezelf en anderen te beschermen op het internet Nepnieuws: informatie die bewust fout of verzonnen is om mensen te misleiden."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1248,6 +1404,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1256,6 +1413,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1264,6 +1422,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1272,6 +1431,7 @@
     "colK": "Een sterk wachtwoord kiezen, weten met wie je omgaat, weten bij wie je terechtkunt voor hulp."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1280,6 +1440,7 @@
     "colK": "Berichten of screenshots bekijken en herkennen wanneer iemand wordt buitengesloten, gepest of gekwetst."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1288,6 +1449,7 @@
     "colK": "Herkennen hoe bedrijven leerlingen proberen te beïnvloeden via online reclame, spelletjes of influencers."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1296,6 +1458,7 @@
     "colK": "Cookies herkennen als het gevolg van de privacywet."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1304,6 +1467,7 @@
     "colK": "Situaties herkennen waarin veel schermtijd leidt tot vermoeidheid of afleiding."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Mediawijsheid",
     "subdomein": "Auteurs- en portretrecht",
@@ -1312,6 +1476,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Digitale creatie",
     "subdomein": "Communiceren",
@@ -1320,6 +1485,7 @@
     "colK": "Apps en/of programma's gebruiken voor mensen die moeite hebben met spreken, waarmee ze kunnen communiceren via symbolen, tekst of spraakgeneratie op apparaten zoals tablets en computers."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Digitale creatie",
     "subdomein": "Communiceren",
@@ -1328,6 +1494,7 @@
     "colK": "Eenvoudige berichten sturen en/of ontvangen. De spraakknop gebruiken om berichten in te spreken, omdat typen door beperking moeilijk is."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Digitale creatie",
     "subdomein": "Communiceren",
@@ -1336,6 +1503,7 @@
     "colK": "Verschillende digitale tools kennen en e-mail gebruiken om een officieel bericht naar de leerkracht te sturen, terwijl ze chat-apps gebruiken voor snelle vragen aan medeleerlingen."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Digitale creatie",
     "subdomein": "Communiceren",
@@ -1344,6 +1512,7 @@
     "colK": "Een online samenwerkingstool gebruiken om in real-time aan dezelfde presentatie te werken en spraakberichten sturen om snel hun ideeën uit te wisselen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Digitale creatie",
     "subdomein": "Communiceren",

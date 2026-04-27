@@ -77,6 +77,40 @@
           </label>
         </div>
 
+        <div class="mt-4 rounded-xl border border-slate-200 bg-slate-50 p-4">
+          <p class="text-sm font-medium text-slate-700">Selecteer Cluster(s)</p>
+          <div id="clusterFilterGroup" class="mt-2 flex flex-wrap gap-x-5 gap-y-2 text-sm text-slate-700">
+            <label class="inline-flex items-center gap-2">
+              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="G" checked />
+              <span>G</span>
+            </label>
+            <label class="inline-flex items-center gap-2">
+              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="MD" checked />
+              <span>MD</span>
+            </label>
+            <label class="inline-flex items-center gap-2">
+              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="P" checked />
+              <span>P</span>
+            </label>
+            <label class="inline-flex items-center gap-2">
+              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="+" checked />
+              <span>+</span>
+            </label>
+            <label class="inline-flex items-center gap-2">
+              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="S" checked />
+              <span>S</span>
+            </label>
+            <label class="inline-flex items-center gap-2">
+              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="Z" checked />
+              <span>Z</span>
+            </label>
+            <label class="inline-flex items-center gap-2">
+              <input type="checkbox" class="cluster-checkbox h-4 w-4 rounded border-slate-300" value="A" checked />
+              <span>A</span>
+            </label>
+          </div>
+        </div>
+
         <div class="mt-5 flex flex-col gap-3 sm:flex-row">
           <button
             id="showButton"
@@ -105,6 +139,7 @@
           <table class="min-w-full divide-y divide-slate-200 text-sm">
             <thead style="background-color: var(--c-soft)">
               <tr>
+                <th class="px-4 py-3 text-left font-semibold text-slate-700">niveau</th>
                 <th class="px-4 py-3 text-left font-semibold text-slate-700">cluster</th>
                 <th class="px-4 py-3 text-left font-semibold text-slate-700">leerplandoel</th>
                 <th class="px-4 py-3 text-left font-semibold text-slate-700">voorbeeld</th>

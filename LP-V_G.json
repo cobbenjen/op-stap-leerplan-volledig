@@ -1,5 +1,6 @@
 [
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -8,6 +9,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -16,6 +18,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -24,6 +27,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -32,6 +36,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -40,6 +45,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -48,6 +54,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -56,6 +63,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -64,6 +72,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -72,6 +81,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -80,6 +90,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -88,6 +99,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -96,6 +108,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -104,6 +117,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -112,6 +126,7 @@
     "colK": "Stop eerst aan de rand van de weg.Kijk links, dan rechts, en nog eens links voordat je echt oversteekt."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -120,6 +135,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -128,6 +144,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -136,6 +153,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -144,6 +162,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -152,6 +171,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -160,6 +180,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -168,6 +189,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -176,6 +198,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -184,6 +207,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -192,6 +216,7 @@
     "colK": "Kies een overzichtelijke plek en stop aan de rand van de weg. Kijk goed links – rechts – links en controleer of er verkeer aankomt en hoe snel het rijdt. Maak oogcontact met bestuurders en steek in één keer recht over."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -200,6 +225,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -208,6 +234,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -216,6 +243,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -224,6 +252,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -232,6 +261,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -240,6 +270,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -248,6 +279,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -256,6 +288,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -264,6 +297,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -272,6 +306,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -280,6 +315,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -288,6 +324,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": null,
@@ -296,6 +333,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -304,6 +342,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": null,
@@ -312,6 +351,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -320,6 +360,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -328,6 +369,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -336,6 +378,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -344,6 +387,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -352,6 +396,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -360,6 +405,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -368,6 +414,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -376,6 +423,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -384,6 +432,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -392,6 +441,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -400,6 +450,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -408,6 +459,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -416,6 +468,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -424,6 +477,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -432,6 +486,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -440,6 +495,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -448,6 +504,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Verkeersregels",
@@ -456,6 +513,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": null,
@@ -464,6 +522,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -472,6 +531,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -480,6 +540,7 @@
     "colK": "Een geel hesje dragen, de leerlingen worden begeleid door een begeleider/leraar of oudere leerling waarbij ze de leraar imiteren die wacht aan het zebrapad, rustig wandelt langs de kant van de huizen…"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -488,6 +549,7 @@
     "colK": "Ze merken geluiden op, zien auto's of fietsers, zebrapad, voetpadrand, sporen van tram of trein… en duwen op het knopje van het verkeerslicht. De leraar geeft er betekenis aan."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -496,6 +558,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -504,6 +567,7 @@
     "colK": "Herhalen, imiteren en modelen van woordenschat om zich met onderersteuning uit te drukken over ervaringen in het verkeer."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -512,6 +576,7 @@
     "colK": "Via modeling, herhaling, duidelijke begrenzing: wachten om over te steken, samen kijken. Beperkte subgroep per begeleider, geel hesje dragen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -520,6 +585,7 @@
     "colK": "In het park of de schooltuin komen geen auto's en bussen, op straat, busparking wel."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -528,6 +594,7 @@
     "colK": "zoals gordel dragen, niet rechtstaan, anderen niet storen, de instructies van de busbegeleider opvolgen."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -536,6 +603,7 @@
     "colK": "zoals  instructies opvolgen, niet duwen, niet plots oversteken"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -544,6 +612,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -552,6 +621,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": null,
@@ -560,6 +630,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -568,6 +639,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -576,6 +648,7 @@
     "colK": "Een gordel dragen, de bus veilig verlaten tijdens een busevacuatie."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -584,6 +657,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -592,6 +666,7 @@
     "colK": "Stoppen aan de stoeprand, bij de groep aansluiten, afstand houden van grote voertuigen, communiceren via oogcontact en lichaamstaal, opvallende kledij dragen."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -600,6 +675,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -608,6 +684,7 @@
     "colK": "Een bestuurder niet afleiden door storend gedrag, in- en uitstappen aan de veilige kant van de auto (huizenkant)."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -616,6 +693,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -624,6 +702,7 @@
     "colK": "Stappen op een voetpad, voorbij een hindernis stappen langs de huizenkant als het voetpad deels versperd is, zichzelf zichtbaar maken voor bestuurders van grote voertuigen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -632,6 +711,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -640,6 +720,7 @@
     "colK": "Zichzelf en anderen niet in gevaar brengen, een veilige plaats kiezen op het voetpad als er een groot voertuig op de rijbaan staat."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -648,6 +729,7 @@
     "colK": "Omkijken over de linkerschouder, arm uitsteken, rekening houden met anderen, afleiding vermijden."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -656,6 +738,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -664,6 +747,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -672,6 +756,7 @@
     "colK": "Oversteken op een weg met en zonder voorzieningen, oversteken op een rustig kruispunt met en zonder voorzieningen, langs een hindernis stappen die het voetpad volledig verspert, oogcontact maken met een bestuurder die wil afslaan en wachten op bevestiging van de bestuurder vooraleer over te steken."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -680,6 +765,7 @@
     "colK": "Fietsen tot aan het zebrapad, afstappen en te voet oversteken. Controleren of de fiets in orde is."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": null,
@@ -688,6 +774,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -696,6 +783,7 @@
     "colK": "Op een afstand blijven staan, oogcontact maken met de chauffeur en pas oversteken wanneer de vrachtwagen volledig is weggereden."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -704,6 +792,7 @@
     "colK": "Op het trottoir blijven staan, goed kijken of de tram die in aantocht is stopt en en pas oversteken wanneer de tram volledig is gepasseerd."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -712,6 +801,7 @@
     "colK": "Wachten met oversteken totdat een ambulance met zwaailcht en sirene veilig voorbij is."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -720,6 +810,7 @@
     "colK": "Vertragen, achter de vrachtwagen blijven en pas verder rechtdoor fietsen op het kruispunt wanneer de vrachtwagen is afgeslagen."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -728,6 +819,7 @@
     "colK": "Kijken of de bus het knipperlicht aanzet om te vertrekken, vertragen, de bus eerst laten invoegen en pas verder fietsen wanneer het veilig is."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -736,6 +828,7 @@
     "colK": "Wachten met oversteken totdat een politiewagen met zwaailcht en sirene veilig voorbij is."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": null,
@@ -744,6 +837,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -752,6 +846,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -760,6 +855,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Verkeer",
     "subdomein": null,
@@ -768,6 +864,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -776,6 +873,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -784,6 +882,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -792,6 +891,7 @@
     "colK": "Links en rechts afslaan, langs een hindernis rijden."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -800,6 +900,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -808,6 +909,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Verkeer",
     "subdomein": "Veilige verplaatsingen",
@@ -816,6 +918,7 @@
     "colK": "Rekening houden met andere weggebruikers, fietsen in groep, zichzelf en anderen niet in gevaar brengen,  achter een groot voertuig blijven, anticiperen op mogelijke afleidingen van andere weggebruikers."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -824,6 +927,7 @@
     "colK": "proeven, kennis maken - niet forceren - lang herhalen van dezelfde smaak"
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -832,6 +936,7 @@
     "colK": "smaak, geur, uitzicht, tast"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -840,6 +945,7 @@
     "colK": "geschilde peer, het stuk fruit en het woord/picto..."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -848,6 +954,7 @@
     "colK": "via modeling, imitatie, herhaling mondelinge taal of onderstenende of alternatieve communictaievormen betekenis geven aan ervaring of etenswaar."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -856,6 +963,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -864,6 +972,7 @@
     "colK": "appel, banaan, appelsien, kiwi, druiven…"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -872,6 +981,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -880,6 +990,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -888,6 +999,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -896,6 +1008,7 @@
     "colK": "water, melk, fruitsap, appelsiensap"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -904,6 +1017,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -912,6 +1026,7 @@
     "colK": "wortel, komkommer, pompoen…"
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -920,6 +1035,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -928,6 +1044,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -936,6 +1053,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -944,6 +1062,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -952,6 +1071,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -960,6 +1080,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -968,6 +1089,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -976,6 +1098,7 @@
     "colK": "de melk, de yoghurt, de pudding, de kaas, de platte kaas, de boter, de room"
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -984,6 +1107,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -992,6 +1116,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1000,6 +1125,7 @@
     "colK": "Een appel is gezond terwijl een snoepreep niet gezond is."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1008,6 +1134,7 @@
     "colK": "Groenten en fruit"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1016,6 +1143,7 @@
     "colK": "Rood vlees"
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1024,6 +1152,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1032,6 +1161,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1040,6 +1170,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1048,6 +1179,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1056,6 +1188,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1064,6 +1197,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1072,6 +1206,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1080,6 +1215,7 @@
     "colK": "Ik heb voldoende fruit, groenten en vlees nodig om actief te kunnen zijn."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1088,6 +1224,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1096,6 +1233,7 @@
     "colK": "Verwoorden dat groenten, fruit, volkoren producten, peulvruchten, noten best meer worden gegeten. Verwoorden dat vlees (vooral rood vlees) en boter best minder gegeten worden. Verwoorden dat frisdrank, alcohol, fastfood, charcuterie, snoep en koeken best zo weinig mogelijk gegeten worden."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1104,6 +1242,7 @@
     "colK": "Gezonde voeding zorgt ervoor dat we gezond kunnen leven, ik ervaar meer energie, betere concentratie en humeur , ik krijg sterkere botten en spieren, ik heb minder kans op ziektes, ik heb een goed gewicht, goede ontwikkeling en groei."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Gezonde voeding",
@@ -1112,6 +1251,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1120,6 +1260,7 @@
     "colK": "Door het ervaren van veiligheid en voorspelbaarheid."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1128,6 +1269,7 @@
     "colK": "routine, voorspelbaar maken van aanrakingen door afspraken binnen team, bv. eerst contact maken dan pas pamper losmaken..."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1136,6 +1278,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1144,6 +1287,7 @@
     "colK": "Kort vasthouden, doelgericht naar reiken, tasten, met de mond verkennen, zoals nat washandje , tandenborstel, zakdoek."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1152,6 +1296,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1160,6 +1305,7 @@
     "colK": "Mond openen bij poetsen, hand uitsteken bij wassen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1168,6 +1314,7 @@
     "colK": "Kam, tandenborstel, zakdoek"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1176,6 +1323,7 @@
     "colK": "Via ondersteunende communictaie, woord, gebaar"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1184,6 +1332,7 @@
     "colK": "Nabijheid leraar - visuele of tactiele steun - zich met een toiletrolletje naar de verzorgingsruimte begeven, het rolletje  in puzzelen en toiletroutine uitvoeren."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1192,6 +1341,7 @@
     "colK": "Broek naar beneden duwen nadat leraar 'broek' zegt, op toilet gaan zitten nadat hand op hulpbeugel wordt gelegd, doorspoelen na wijzen van de leraar."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1200,6 +1350,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1208,6 +1359,7 @@
     "colK": "Onder begeleiding neus snuiten, handen wassen."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1216,6 +1368,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1224,6 +1377,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1232,6 +1386,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1240,6 +1395,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1248,6 +1404,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1256,6 +1413,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1264,6 +1422,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1272,6 +1431,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1280,6 +1440,7 @@
     "colK": "Deur sluiten, wachten."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1288,6 +1449,7 @@
     "colK": "Bril naar beneden, doorspoelen, deur dicht."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1296,6 +1458,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1304,6 +1467,7 @@
     "colK": "Tandenpoetsen en handen wassen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1312,6 +1476,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1320,6 +1485,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1328,6 +1494,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1336,6 +1503,7 @@
     "colK": "Verantwoordelijkheid opnemen voor persoonlijke verzorging (checklist/routine). Gezondheid en welbevinden koppelen aan hygiëne (oorzaak-gevolg begrijpen). Inzien dat naarmate het lichaam ontwikkelt, bijkomende lichaamshygiëne nodig is."
   },
   {
+    "colA": "S",
     "fase": "F6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1344,6 +1512,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1352,6 +1521,7 @@
     "colK": "Aanraking en beweging tijdens aankleden verdragen. Armen of benen uitstrekken als leraar er op tikt."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1360,6 +1530,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1368,6 +1539,7 @@
     "colK": "Leraar toont jas, leerling steekt arm omhoog."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1376,6 +1548,7 @@
     "colK": "Handen en voeten aanbieden bij kledij aan- of uittrekken. Hoofd door halsopening steken met hulp. Eenvoudige kledingstukken losmaken: muts, schoenen. Verschil ervaren tussen vuile en propere kledij."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1384,6 +1557,7 @@
     "colK": "Zelf kledingstukken uittrekken: jas, schoenen, trui. Enkele kledingstukken aantrekken met hulp: broek, t-shirt. Sluitingen verkennen: rits, knoop, velcro. Eenvoudige routines leren: jas aan de kapstok, vuile kledij in wasmand."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1392,6 +1566,7 @@
     "colK": "Jas aandoen, sluitingen hanteren."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1400,6 +1575,7 @@
     "colK": "Jas aandoen, sluitingen hanteren."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1408,6 +1584,7 @@
     "colK": "Zelfstandig jas en schoenen aan- en uittrekken. Broek en t-shirt aantrekken zonder hulp. Sluitingen met toenemende vaardigheid hanteren: rits, velcro, drukknopen. Kledij opvouwen of wegleggen met hulp."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1416,6 +1593,7 @@
     "colK": "Volledig zelfstandig aan- en uitkleden met correcte volgorde. Verschillende sluitingen zelfstandig hanteren: knopen, rits, veters. (Coherentie naar kleine motoriek)"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1424,6 +1602,7 @@
     "colK": "Volledig zelfstandig aan- en uitkleden met correcte volgorde. Verschillende sluitingen zelfstandig hanteren: knopen, rits, veters. (Coherentie naar kleine motoriek)"
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1432,6 +1611,7 @@
     "colK": "Volledig zelfstandig aan- en uitkleden met correcte volgorde. Verschillende sluitingen zelfstandig hanteren: knopen, rits, veters. (Coherentie naar kleine motoriek)"
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1440,6 +1620,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1448,6 +1629,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1456,6 +1638,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1464,6 +1647,7 @@
     "colK": "Via fles of aangepaste beker, vaste voeding en lepelvoeding"
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1472,6 +1656,7 @@
     "colK": "aangereikte lepel naar mond brengen. Drinken uit beker met teut. Zelf stukjes brood of koek naar de mond brengen. Zitten aan tafel tijdens maaltijd. Enkele tafelregels begrijpen: geen eten gooien, wachten."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1480,6 +1665,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1488,6 +1674,7 @@
     "colK": "Lepel en vork gebruiken. Drinken zonder morsen. Beleefdheidsvormen gebruiken: dank je, smakelijk. Zich houden aan tafelregels: zitten blijven, beurt afwachten. Opruimen na maaltijd."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1496,6 +1683,7 @@
     "colK": "Vork en lepel juist gebruiken, mes bij brood of zachte voeding. Servet gebruiken, handen wassen voor en na eten. Samen eten volgens afgesproken regels van tafelcultuur. Anderen helpen en bedienen."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1504,6 +1692,7 @@
     "colK": "Samen eten volgens de schoolafspraken. Anderen helpen en bedienen."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Hygiëne en persoonlijke redzaamheid",
@@ -1512,6 +1701,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1520,6 +1710,7 @@
     "colK": "Een voorwerp dat de volwassene aangeeft, in een box leggen. Een voorwerp aangeven aan een volwassene tijdens opruimen."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1528,6 +1719,7 @@
     "colK": "Imiteren van oprapen van blokken, verzamelen van voorwerpen in een kast, matchen van voorwerp en plaats in een rek door foto aangegeven."
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1536,6 +1728,7 @@
     "colK": "Met hulp speelgoed of materiaal op vaste plaats terugleggen. Eenvoudige opruimtaak uitvoeren (blokjes in doos, boek in kast). Inzien dat opruimen hoort bij afronden van spel. Weten dat materiaal een vaste plaats heeft. Met ondersteuning afval sorteren in schoolcontainers."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1544,6 +1737,7 @@
     "colK": "Zelfstandig eigen materiaal op vaste plaats leggen. Meedoen met klasopruimroutines: stoelen op tafel, speelgoed in kast. Beginnen begrijpen dat speelgoed niet overal mag blijven liggen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1552,6 +1746,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1560,6 +1755,7 @@
     "colK": "Eigen materiaal verzorgen en in goede staat houden. Verantwoordelijkheid nemen bij opruimtaak  taak per beurtrol. Afval sorteren volgens de afspraken."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1568,6 +1764,7 @@
     "colK": "Reageren op verschillende tactiele prikkels: water, schuim, zeepsop, texturen als stofdoek, spons, borstel, servet. Reageren op verschillende geuren van  wasproducten, zeep. Voorwerpen kort vasthouden of loslaten."
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1576,6 +1773,7 @@
     "colK": "Samen met de leraar over de tafel wrijven met een vod, vegen met een veegbostel, handdoeken plooien."
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1584,6 +1782,7 @@
     "colK": "Een doek op tafel leggen met begeleiding."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1592,6 +1791,7 @@
     "colK": "Eenvoudige deelvaardigheden: voorwerpen op tafel zetten; placemats neerleggen bij het dekken van de tafel; tafel deken met hulpmiddel zoals een placemat met contouren van een bord, glas, lepel; meehelpen bij plooien van wasgoed zoals handdoeken, poppenkleedjes."
   },
   {
+    "colA": "S",
     "fase": "F4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1600,6 +1800,7 @@
     "colK": "Woordenschat: doek, spons, borstel, tafel, bord, servet, was opvouwen, vegen"
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1608,6 +1809,7 @@
     "colK": "Zelfstandig kledingstukken plooien en stapelen. Zelfstandig tafel volledig dekken en afruimen. Zelfstandig een oppervlak stofvrij maken. Meehelpen bij afwassen en afdrogen."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1616,6 +1818,7 @@
     "colK": "Kennen van regels als materiaal na gebruik opruimen, voorzichtig zijn met messen. Inzien dat huishoudelijke taken bijdragen aan een nette en veilige leefomgeving."
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Opruimen en huishoudelijke taken",
@@ -1624,6 +1827,7 @@
     "colK": "Samen werkafspraken maken over de opdrachten op de takenlijst. Verantwoordelijkheid nemen over de eigen taken. Samenwerken om  stof op een vuilblik te vegen. Met ondersteuning van de leraar reflecteren over de afwerking van de taken en het proces van samenwerken."
   },
   {
+    "colA": "P",
     "fase": "F1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1632,6 +1836,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1640,6 +1845,7 @@
     "colK": "Houdt samen met de leraar beker water vast"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1648,6 +1854,7 @@
     "colK": null
   },
   {
+    "colA": "S",
     "fase": "F5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1656,6 +1863,7 @@
     "colK": null
   },
   {
+    "colA": "P",
     "fase": "F2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1664,6 +1872,7 @@
     "colK": "afblijven van giftige planten, wat niet eetbaar is niet in de mond steken"
   },
   {
+    "colA": "P",
     "fase": "F3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1672,6 +1881,7 @@
     "colK": "mag/mag niet - stop of afblijven gevaarlijk"
   },
   {
+    "colA": "G",
     "fase": "JK.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1680,6 +1890,7 @@
     "colK": "De beker met water is omgevallen en de leerling roept om hulp."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1688,6 +1899,7 @@
     "colK": "Kind zegt tegen de leraar dat iemand gevallen is op de speelplaats en pijn heeft."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1696,6 +1908,7 @@
     "colK": "Kind is gevallen en heeft een open wonde met veel bloed versus kind is gevallen en heeft gewoon pijn zonder open wonde."
   },
   {
+    "colA": "G",
     "fase": "K2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1704,6 +1917,7 @@
     "colK": "Kind is gevallen of gewond geraakt, iemand is flauw gevallen."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1712,6 +1926,7 @@
     "colK": "Juf is gevallen in de klas en bloedt aan de arm, leerlingen gaan om andere juf in andere klas."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1720,6 +1935,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1728,6 +1944,7 @@
     "colK": "In de klas hangen de noodnummers uit, de leerlingen herkennen de cijfercombinatie."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1736,6 +1953,7 @@
     "colK": "Als het brandt dan bel je naar 112, als er een ongeval is voorgevallen op straat dan bel je naar 112."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1744,6 +1962,7 @@
     "colK": "Met een dummytelefoon het noodnummer indrukken en voor- en familienaam en de adres zeggen."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1752,6 +1971,7 @@
     "colK": "Met een dummytelefoon het noodnummer indrukken, voor en familienaam doorgeven, adres zeggen, melding doen van de noodsituatie."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1760,6 +1980,7 @@
     "colK": null
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1768,6 +1989,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1776,6 +1998,7 @@
     "colK": "Rustig blijven, locatie zeggen (straatnaam + huisnummer) omschrijven wat er is voorgevallen, welke zorgen al werden toegediend)."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1784,6 +2007,7 @@
     "colK": "In een gesimuleerde situatie de noodoproep uitvoeren en alle nodige meldingen doen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1792,6 +2016,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1800,6 +2025,7 @@
     "colK": "Koffie, alcohol, tabak, energiedrank, vape, drugs…"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1808,6 +2034,7 @@
     "colK": "Teveel koffie maakt me zenuwachtig, teveel alcohol zorgt dat je dronken kan worden, roken/ vapen is slecht voor je gezondheid, drugs maakt dat je je anders zal gedragen."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1816,6 +2043,7 @@
     "colK": "Zoals ontvlambaar (vlam symbool), schadelijk/irriterend (uitroepteken), corrosief (vloeistof op hand + oppervlak aantast), giftig (doodshoofd), milieugevaarlijk (dode boom en vis)"
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1824,6 +2052,7 @@
     "colK": "Op de etiketten van producten en materialen de pictogrammen kunnen lezen en naleven."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1832,6 +2061,7 @@
     "colK": "In de gangen lopen we niet, klasregels en afspraken volgen wanneer gevaarlijke materialen gebruikt worden zoals bijvoorbeeld in de techniekles."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1840,6 +2070,7 @@
     "colK": "Alcohol laat je hersenen trager werken, roken en vapen kan je longen beschadigen, energiedranken kunnen je hartkloppingen geven."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1848,6 +2079,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1856,6 +2088,7 @@
     "colK": "Pijnstillend, krampwerend, verzachtende zalf, ontsmettende spray, sommige medicijnen zijn levensreddend zoals insuline als ik hoofdpijn heb neem ik een pijnstiller en dan zal mijn hoofdpijn na een tijdje verminderen."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1864,6 +2097,7 @@
     "colK": "Sommige medicatie heeft bijwerkingen die last kunnen veroorzaken in de darmen, de ledematen, het hoofd, teveel pijnstillers kunnen maagpijn veroorzaken, sommige medicijnen veroorzaken jeuk of huiduitslag."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1872,6 +2106,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1880,6 +2115,7 @@
     "colK": "Draag een veiligheidsbril bij een proefje met azijn en bakpoeder, draag handschoenen bij het gebruik van een lijmpistool."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Veiligheid en eerste hulp",
@@ -1888,6 +2124,7 @@
     "colK": null
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1896,6 +2133,7 @@
     "colK": "Als we dansen en bewegen op muziek dan vinden we dit leuk."
   },
   {
+    "colA": "G",
     "fase": "K3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1904,6 +2142,7 @@
     "colK": "Als we in de kring zitten dan zitten we op de bank of stoel, met de rug recht tegen de leuning.  Als ik recht sta dan sta ik op mijn beide voeten. Als ik iets moet dragen dan neem ik dit dicht bij mij."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1912,6 +2151,7 @@
     "colK": "Als ik beweeg tijdens het sporten dan maakt me dit sterker en gezonder."
   },
   {
+    "colA": "G",
     "fase": "L1.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1920,6 +2160,7 @@
     "colK": "Rug tegen de rugleuning, zitvlak op de stoel, benen in 90°"
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1928,6 +2169,7 @@
     "colK": "Elke dag wandelen is goed voor je spieren, lichaam en geest."
   },
   {
+    "colA": "G",
     "fase": "L2.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1936,6 +2178,7 @@
     "colK": "Als ik rechtop zit met twee voeten op de grond, kan ik me beter focussen op de les."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1944,6 +2187,7 @@
     "colK": "Als ik elke dag wandel dan ben ik fitter en gezonder."
   },
   {
+    "colA": "G",
     "fase": "L3.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1952,6 +2196,7 @@
     "colK": "De correcte houding aannemen om deel te nemen aan de les."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1960,6 +2205,7 @@
     "colK": "Beschrijven dat bewegen goed is voor hoofd, hart en lichaam."
   },
   {
+    "colA": "G",
     "fase": "L4.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1968,6 +2214,7 @@
     "colK": "Beschrijven dat een correcte lichaamshouding latere problemen kan voorkomen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1976,6 +2223,7 @@
     "colK": "Beschrijven dat bewegen goed is voor hoofd, hart en lichaam."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1984,6 +2232,7 @@
     "colK": "Beschrijven dat een correcte lichaamshouding latere problemen kan voorkomen."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -1992,6 +2241,7 @@
     "colK": "Bewegen zorgt voor rust in het hoofd en meer focus na het bewegen."
   },
   {
+    "colA": "G",
     "fase": "L5.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -2000,6 +2250,7 @@
     "colK": "Sporten zorgt ervoor dat ik sterkere spieren, een gezonde hartslag en een betere conditie heb."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -2008,6 +2259,7 @@
     "colK": "Het verband beschrijven tussen bewegen en concentratie."
   },
   {
+    "colA": "G",
     "fase": "L6.",
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",
@@ -2016,6 +2268,7 @@
     "colK": "Beschrijven hoe bewegen invloed heeft op het functioneren van hart en longen."
   },
   {
+    "colA": "MD",
     "fase": null,
     "domein": "Gezondheid en redzaamheid",
     "subdomein": "Beweging en lichaamshouding",

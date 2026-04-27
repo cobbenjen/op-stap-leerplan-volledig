@@ -7,6 +7,7 @@ const resetButton = document.getElementById("resetButton");
 const statusEl = document.getElementById("status");
 const tableWrapper = document.getElementById("tableWrapper");
 const resultBody = document.getElementById("resultBody");
+const clusterCheckboxes = Array.from(document.querySelectorAll(".cluster-checkbox"));
 
 let rows = [];
 const DATA_FILE_CANDIDATES = {
@@ -37,10 +38,15 @@ function uniqSorted(values) {
 }
 
 function getSelectedFilters() {
+  const selectedClusters = clusterCheckboxes
+    .filter((checkbox) => checkbox.checked)
+    .map((checkbox) => checkbox.value);
+
   return {
     fase: faseSelect.value,
     domein: domeinSelect.value,
     subdomein: subdomeinSelect.value,
+    clusters: selectedClusters,
   };
 }
 
@@ -48,6 +54,7 @@ function matchRow(row, filters) {
   if (filters.fase && row.fase !== filters.fase) return false;
   if (filters.domein && row.domein !== filters.domein) return false;
   if (filters.subdomein && row.subdomein !== filters.subdomein) return false;
+  if (filters.clusters.length > 0 && !filters.clusters.includes(row.colA)) return false;
   return true;
 }
 
@@ -122,6 +129,10 @@ function renderTable(filteredRows) {
     const tr = document.createElement("tr");
     tr.className = "hover:bg-slate-50";
 
+    const tdA = document.createElement("td");
+    tdA.className = "px-4 py-3 text-slate-800";
+    tdA.textContent = row.colA || "-";
+
     const tdI = document.createElement("td");
     tdI.className = "px-4 py-3 text-slate-800";
     tdI.textContent = row.colI || "-";
@@ -134,7 +145,7 @@ function renderTable(filteredRows) {
     tdK.className = "px-4 py-3 text-slate-800";
     tdK.textContent = row.colK || "-";
 
-    tr.append(tdI, tdJ, tdK);
+    tr.append(tdA, tdI, tdJ, tdK);
     fragment.appendChild(tr);
   }
 
@@ -184,6 +195,9 @@ function resetFilters() {
   faseSelect.value = "";
   domeinSelect.value = "";
   subdomeinSelect.value = "";
+  clusterCheckboxes.forEach((checkbox) => {
+    checkbox.checked = true;
+  });
   updateFilterOptions("");
   clearResultsToNeutralState();
 }
@@ -230,6 +244,7 @@ async function loadData() {
     }
 
     rows = raw.map((item) => ({
+      colA: normalizeValue(item.colA),
       fase: normalizeValue(item.fase),
       domein: normalizeValue(item.domein),
       subdomein: normalizeValue(item.subdomein),
@@ -255,6 +270,9 @@ async function loadData() {
 faseSelect.addEventListener("change", () => updateFilterOptions("fase"));
 domeinSelect.addEventListener("change", () => updateFilterOptions("domein"));
 subdomeinSelect.addEventListener("change", () => updateFilterOptions("subdomein"));
+clusterCheckboxes.forEach((checkbox) => {
+  checkbox.addEventListener("change", clearResultsToNeutralState);
+});
 showButton.addEventListener("click", showResults);
 resetButton.addEventListener("click", resetFilters);
 if (leerplanSelect) {
