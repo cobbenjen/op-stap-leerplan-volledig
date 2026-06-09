@@ -4,6 +4,9 @@ const subdomeinSelect = document.getElementById("subdomeinSelect");
 const leerplanSelect = document.getElementById("leerplanSelect");
 const showButton = document.getElementById("showButton");
 const resetButton = document.getElementById("resetButton");
+const printButton = document.getElementById("printButton");
+const printToolbar = document.getElementById("printToolbar");
+const printMeta = document.getElementById("printMeta");
 const statusEl = document.getElementById("status");
 const tableWrapper = document.getElementById("tableWrapper");
 const resultBody = document.getElementById("resultBody");
@@ -166,9 +169,38 @@ function setStatusMessage(message, kind = "neutral") {
   statusEl.textContent = message;
 }
 
+function setPrintToolbarVisible(visible) {
+  printToolbar.classList.toggle("hidden", !visible);
+  printToolbar.classList.toggle("flex", visible);
+}
+
+function buildPrintMeta(rowCount) {
+  const filters = getSelectedFilters();
+  const leerplan = leerplanSelect?.selectedOptions[0]?.textContent || "";
+  const lines = [
+    `Leerplan: ${leerplan}`,
+    `Fase: ${filters.fase || "Alle fases"}`,
+    `Domein: ${filters.domein || "Alle domeinen"}`,
+    `Subdomein: ${filters.subdomein || "Alle subdomeinen"}`,
+    `Clusters: ${filters.clusters.length > 0 ? filters.clusters.join(", ") : "Geen"}`,
+    `Aantal resultaten: ${rowCount}`,
+    `Datum: ${new Date().toLocaleDateString("nl-BE")}`,
+  ];
+  return lines.join("\n");
+}
+
+function printReport() {
+  if (tableWrapper.classList.contains("hidden")) return;
+
+  const rowCount = resultBody.querySelectorAll("tr").length;
+  printMeta.textContent = buildPrintMeta(rowCount);
+  window.print();
+}
+
 function clearResultsToNeutralState() {
   tableWrapper.classList.add("hidden");
   resultBody.innerHTML = "";
+  setPrintToolbarVisible(false);
   statusEl.classList.remove("hidden");
   setStatusMessage("Kies filters en klik op Gegevens tonen om resultaten te zien.");
 }
@@ -180,6 +212,7 @@ function showResults() {
   if (filteredRows.length === 0) {
     tableWrapper.classList.add("hidden");
     resultBody.innerHTML = "";
+    setPrintToolbarVisible(false);
     statusEl.classList.remove("hidden");
     setStatusMessage("Geen resultaten voor de huidige selectie.", "warning");
     return;
@@ -187,6 +220,7 @@ function showResults() {
 
   renderTable(filteredRows);
   tableWrapper.classList.remove("hidden");
+  setPrintToolbarVisible(true);
   statusEl.classList.remove("hidden");
   setStatusMessage(`${filteredRows.length} resultaat/resultaten gevonden.`, "success");
 }
@@ -258,6 +292,7 @@ async function loadData() {
   } catch (error) {
     tableWrapper.classList.add("hidden");
     resultBody.innerHTML = "";
+    setPrintToolbarVisible(false);
     statusEl.classList.remove("hidden");
     setStatusMessage(
       "Data laden mislukt. Controleer of het gekozen JSON-bestand aanwezig en geldig is.",
@@ -275,6 +310,7 @@ clusterCheckboxes.forEach((checkbox) => {
 });
 showButton.addEventListener("click", showResults);
 resetButton.addEventListener("click", resetFilters);
+printButton.addEventListener("click", printReport);
 if (leerplanSelect) {
   leerplanSelect.addEventListener("change", async () => {
     faseSelect.value = "";

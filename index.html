@@ -11,6 +11,48 @@
         --c-soft: #b3d7d5;
         --c-accent: #e3cc66;
       }
+
+      @media print {
+        body {
+          background: white !important;
+        }
+
+        main > section:first-child,
+        #printToolbar,
+        #status {
+          display: none !important;
+        }
+
+        #outputArea {
+          margin: 0 !important;
+          padding: 0 !important;
+          box-shadow: none !important;
+          ring: none !important;
+        }
+
+        #tableWrapper {
+          display: block !important;
+          overflow: visible !important;
+        }
+
+        #printHeader {
+          display: block !important;
+        }
+
+        table {
+          font-size: 10pt;
+          page-break-inside: auto;
+        }
+
+        tr {
+          page-break-inside: avoid;
+        }
+
+        th,
+        td {
+          border: 1px solid #cbd5e1;
+        }
+      }
     </style>
   </head>
   <body class="min-h-screen text-slate-900" style="background-color: var(--c-soft)">
@@ -132,6 +174,26 @@
       </section>
 
       <section id="outputArea" class="mt-6 rounded-2xl bg-white p-5 shadow-lg ring-1 sm:p-8" style="ring-color: var(--c-primary)">
+        <div id="printToolbar" class="mb-4 hidden justify-end">
+          <button
+            id="printButton"
+            type="button"
+            class="inline-flex items-center justify-center gap-2 rounded-xl border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-[#b3d7d5]"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M6 9V2h12v7" />
+              <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2" />
+              <path d="M6 14h12v8H6z" />
+            </svg>
+            Afdrukken als PDF
+          </button>
+        </div>
+
+        <div id="printHeader" class="mb-4 hidden text-sm text-slate-700">
+          <h2 class="text-lg font-bold text-slate-900">Leerplan Filter — Rapport</h2>
+          <p id="printMeta" class="mt-2 whitespace-pre-line"></p>
+        </div>
+
         <div
           id="status"
           class="rounded-xl border border-dashed border-slate-300 bg-slate-50 p-6 text-center text-sm text-slate-600"
